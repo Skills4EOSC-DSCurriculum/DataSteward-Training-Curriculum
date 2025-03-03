@@ -1,6 +1,6 @@
 ---
 # RDA learning materials metadata minimal set
-title: "The human readable name of the learning resource."
+title: "Introduction"
 author: 
     - Name of entity(ies) 
     - authoring the resource
@@ -28,28 +28,21 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 template: signposting.html
 # hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
 hide:
+    - navigation
     - toc
 ---
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# DataSteward Training Materials
 
 {!RELEASE_NOTES.md!}
 
-# Type (Course/Workshop/Webinar)
 
-## Date/Time: when it will be offered
 
-- put available from date if it is self-paced
 
-## Location
 
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
-
-## Training Description
+## Description
 
 - what is the main goal/purpose of this training
 - short training description
@@ -62,41 +55,11 @@ hide:
 
 ## Access Cost: N
 
-## Prerequisites
-
-- if any
-
-## Duration
-
-- total training duration
-
-## Training objectives
-
-- list of specific training objectives
+## Prerequisites: None
 
 ## Keywords
 
 Keywords or tags used to describe the training.
-
-## Agenda: Training Schedule - Training Structure
-
-| Date/Time | Topic             |
-|-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
-
-## Resources and Materials
-
-- location of available resources for the training
-
-## Certification Information
-
-- if any
 
 ## Author(s)
 
