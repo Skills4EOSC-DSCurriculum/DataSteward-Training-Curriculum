@@ -28,7 +28,6 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 template: signposting.html
 # hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
 hide:
-    - navigation
     - toc
 ---
 
