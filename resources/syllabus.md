@@ -33,7 +33,7 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# DataSteward Training Materials
+# DataSteward Training Curriculum
 
 <details open markdown style="border-color: #ff9100;">
 <summary style="list-style: none; background-color: #ff91001a;">This page is currently under construction</summary>
