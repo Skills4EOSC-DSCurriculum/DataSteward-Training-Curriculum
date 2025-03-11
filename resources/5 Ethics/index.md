@@ -15,6 +15,6 @@ tags:
 
 **The training curriculum is currently undergoing final revisions and quality checks.**
 **All materials will be released shortly.**
-**Until the official release, please refrain from using, distributing, or implementing any part of these resources.The contents of the training curriculum are currently being finalized and will be available soon.**
+**Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
 
 </details>
