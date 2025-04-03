@@ -9,7 +9,7 @@ tags:
     - Education
 ---
 
-# Lesson Development
+# Module 1: Lesson Development
 
 
 <details open markdown style="border-color: #ff9100;">
