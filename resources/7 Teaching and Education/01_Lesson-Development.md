@@ -23,10 +23,11 @@ tags:
 
 ## Learning Objectives
 
-- **Learning Objective 1 (LO1):** Recognise the target audience and their learning needs
-- **Learning Objective 2 (LO2):** Design a training for the target audience to meet the learning objectives
-- **Learning Objective 3 (LO3):** Plan how to gather feedback for further improvement in lesson development
-- **Learning Objective 4 (LO4):** Identify context-specific resources for training and use these to design learning activities
+- **Learning Objective 1 (LO1):** Recognise the target audience and their learning needs.
+- **Learning Objective 2 (LO2):** Design a training for the target audience to meet the learning objectives.
+- **Learning Objective 3 (LO3):** Plan how to gather feedback for further improvement in lesson development.
+- **Learning Objective 4 (LO4):** Identify context-specific resources for training and use these to design learning activities.
+
 
 ## Total Module Duration
 
@@ -35,7 +36,7 @@ tags:
 
 ## Learning Objective 1
 
-LO1: Recognise the target audience and their learning needs
+LO1: Recognise the target audience and their learning needs.
 
 
 ### Learning Activities
@@ -89,7 +90,7 @@ LO1: Recognise the target audience and their learning needs
 
 ## Learning Objective 2
 
-LO2: Design a training for the target audience to meet the learning objectives
+LO2: Design a training for the target audience to meet the learning objectives.
 
 
 ### Learning Activities
@@ -138,7 +139,7 @@ LO2: Design a training for the target audience to meet the learning objectives
 
 ## Learning Objective 3
 
-LO3: Plan how to gather feedback for further improvement in lesson development
+LO3: Plan how to gather feedback for further improvement in lesson development.
 
 
 ### Learning Activities
@@ -170,7 +171,7 @@ LO3: Plan how to gather feedback for further improvement in lesson development
 
 ## Learning Objective 4
 
-LO4: Identify context-specific resources for training and use these to design learning activities
+LO4: Identify context-specific resources for training and use these to design learning activities.
 
 
 ### Learning Activities
