@@ -14,6 +14,8 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - md_in_html
+  - toc:
+      toc_depth: 3
 plugins:
   - search
   - tags

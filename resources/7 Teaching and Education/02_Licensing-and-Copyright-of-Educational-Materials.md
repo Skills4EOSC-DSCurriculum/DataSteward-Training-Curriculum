@@ -54,16 +54,16 @@ LO1: Summarise the importance of copyright, open licenses and the role it plays 
 
 ### Instructor Notes
 
-**Presentation 1:**
+#### Presentation 1
 
 - The goal of is to explain the importance of open licensing. The instructor should highlight that in order to utilise various educational materials, licensing has to be understood. The introduction presentation provides a discussion with a focus on distinguishing the differences between copyright, fair use, and public domain. It also provides a discussion about Creative Commons licenses and why they are used. Additionally, the instructor should point out that there are other licenses available and not all potential material for reuse will use Creative Commons (though these are most common).
 - At this time, the instructor can also highlight any specific local licensing regulations (if applicable). It is best to incorporate local regulations as available.
 
-**Activity:**
+#### Activity
 
 - The goal of the activity is to help learners identify what is permitted and not permitted when reusing educational materials with various license types.
 
-**Presentation 2:**
+#### Presentation 2
 
 - A key part of this is making a case for reusing existing materials and by extension why we should make our own developed materials open. When reusing any material, the content license needs to be checked. The instructor can explain strategies on what can be done if using the material is not permissible (for instance, only cite the material or ask for permission for the material from the owner).
 - The instructor can also point to different sources where there is more information on copyright (Resource 6).
@@ -73,7 +73,7 @@ LO1: Summarise the importance of copyright, open licenses and the role it plays 
 
 ### Resources
 
-**Input for presentations and activities:**
+#### Input for presentations and activities
 
 1. Creative Commons 101: Copyright and Open Licensing: <https://www.slideshare.net/MeredithJacob/creative-commons-101-copyright-and-open-licensing> (CC-BY)
 2. Open Science Basics: License and copyright: <https://zenodo.org/records/3516638>
@@ -105,19 +105,19 @@ LO2: Recognise importance of attribution and how to do it correctly.
 
 ### Instructor Notes
 
-**Presentation:**
+#### Presentation
 
 - The learner is introduced the importance of attribution when reusing sources due to it being covered by the law.
 - The instructor can provide the TASL method as one method of attribution (Title, Author, Source, License) The instructor can also introduce tools that can help in attribution (Resource 3).
 
-**Activity:**
+#### Activity
 
 - This activity lets learners get practical experience with attribution. The instructor can prepare resources in advance or let learners choose their own resources and attribute them.
 
 
 ### Resources
 
-**Input for presentation and activity:**
+#### Input for presentation and activity
 
 1. Recommended Practices for Attribution: <https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#Examples_of_attribution>
 2. Open Attribution Builder: <https://www.openwa.org/open-attrib-builder/>
@@ -145,18 +145,18 @@ LO3: Recognise the difference between using Open Educational Resources (OER) and
 
 ### Instructor Notes
 
-**Presentation:**
+#### Presentation
 
 - The main aim is to provide a definition of Open Educational Resources and describe the benefits and challenges of utilising OER for training purposes. The instructor can also present the differences between OER and other free educational materials. There is opportunity in this presentation provide a history of OERs and explore early initiatives dedicated to the idea of reusable learning.
 
-**Activity:**
+#### Activity
 
 - The aim of the activity is to give the trainees hands-on opportunity to exploring databases and/or websites that house OER. Learners can use this time to identify helpful OER for their roles or potential future training obligations. Discussions can include the usefulness of the site and what resources were available.
 
 
 ### Resources
 
-**Input for presentation and activity:**
+#### Input for presentation and activity
 
 1. Iain MacLaren. (2020, May 13). Open Educational Resources - Finding, Using and Making. Open Scholarship Week 2020 (OSW2020), Galway, Ireland. Zenodo. <https://doi.org/10.5281/zenodo.3824719>.
 2. Introduction to Open Educational Resources: <https://www.slideshare.net/slideshow/introduction-to-open-educational-resources-80624241/80624241>. (CC-BY)
