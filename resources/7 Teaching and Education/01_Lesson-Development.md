@@ -48,8 +48,8 @@ LO1: Recognise the target audience and their learning needs.
 
 ### Materials to Prepare
 
-- Presentation on what is a target audience and why to consider their needs when designing a training.
-- Activity and Exercise: Facilitate the learners to think of their context for trainings and consider the target audience and their possible training needs.
+- **Presentation** on what is a target audience and why to consider their needs when designing a training.
+- **Activity and Exercise:** Facilitate the learners to think of their context for trainings and consider the target audience and their possible training needs.
 
 
 ### Instructor Notes
@@ -102,9 +102,9 @@ LO2: Design a training for the target audience to meet the learning objectives.
 
 ### Materials to Prepare
 
-- Presentation on creating good learning objectives and what makes them good.
-- Activities: Have a list of good and bad learning objectives to compare.
-- Activities: Facilitate how to match learning objectives to learning activities.
+- **Presentation** on creating good learning objectives and what makes them good.
+- **Activity 1:** Have a list of good and bad learning objectives to compare.
+- **Activity 2:** Facilitate how to match learning objectives to learning activities.
 
 
 ### Instructor Notes
@@ -150,8 +150,8 @@ LO3: Plan how to gather feedback for further improvement in lesson development.
 
 ### Materials to Prepare
 
-- Presentation on importance of feedback and collection methods.
-- Discussion: Facilitate a discussion on how to incorporate feedback for improvement.
+- **Presentation** on importance of feedback and collection methods.
+- **Discussion:** Facilitate a discussion on how to incorporate feedback for improvement.
 
 
 ### Instructor Notes
@@ -182,8 +182,8 @@ LO4: Identify context-specific resources for training and use these to design le
 
 ### Materials to Prepare
 
-- List some sample resources for some topics such as Data Management Plan, Data management Policies as examples.
-- Collect some sample discipline specific resources to use as examples.
+- **Activity 1:** List some sample resources for some topics such as Data Management Plan, Data management Policies as examples.
+- **Activity 2:** Collect some sample discipline specific resources to use as examples.
 
 
 ### Instructor Notes
