@@ -5,7 +5,6 @@ tags:
     - Skills4EOSC
     - DataStewardship
     - Curriculum
-    - Mediation
     - Soft Skills
 ---
 
