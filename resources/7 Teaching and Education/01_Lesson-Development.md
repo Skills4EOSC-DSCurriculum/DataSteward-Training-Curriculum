@@ -1,5 +1,5 @@
 ---
-title: "Lesson Development"
+title: "Module 1: Lesson Development"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
