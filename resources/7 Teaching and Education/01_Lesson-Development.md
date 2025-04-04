@@ -75,16 +75,12 @@ LO1: Recognise the target audience and their learning needs.
 
 **Input for presentation:**
 
-<ol start="1">
-  <li>Collaborative Lesson Development Training: Identifying Your Target Audience. <a href="https://carpentries.github.io/lesson-development-training/03-audience.html">https://carpentries.github.io/lesson-development-training/03-audience.html</a>. Accessed 21 Mar. 2025.</li>
-</ol>
+1. Collaborative Lesson Development Training: Identifying Your Target Audience. <https://carpentries.github.io/lesson-development-training/03-audience.html>. Accessed 21 Mar. 2025.
 
 **Input for activity/exercise:**
 
-<ol start="2">
-  <li>OSF. <a href="https://osf.io/2nfcg/">https://osf.io/2nfcg/</a>. Accessed 21 Mar. 2025.</li>
-  <li>Course: EOSC Synergy Online Training Handbook, Topic: 1. Analyse Your Training Needs. <a href="https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=4#tabs-tree-start">https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=4#tabs-tree-start</a>. Accessed 21 Mar. 2025.</li>
-</ol>
+2. OSF. <https://osf.io/2nfcg/>. Accessed 21 Mar. 2025.
+3. Course: EOSC Synergy Online Training Handbook, Topic: 1. Analyse Your Training Needs. <https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=4#tabs-tree-start>. Accessed 21 Mar. 2025.
 
 
 

@@ -14,6 +14,7 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - md_in_html
+  - sane_lists
   - admonition
   - pymdownx.details
 plugins:
