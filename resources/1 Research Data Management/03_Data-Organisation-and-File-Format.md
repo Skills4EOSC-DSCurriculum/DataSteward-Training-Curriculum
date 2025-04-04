@@ -41,7 +41,7 @@ LO1: Describe the basic principles of file management.
 
 ### Learning Activities
 
-- **Pre-reading**(45 mins): Before the lesson ask the learners to watch a short video about organising files and data (Resource 1) and read this webpage about file naming conventions (Resource 2).
+- **Pre-reading** (45 mins): Before the lesson ask the learners to watch a short video about organising files and data (Resource 1) and read this webpage about file naming conventions (Resource 2).
 - **Lecture** (120 mins): Introduce the basics of file management, building on the Carpentries lesson in File management (Resource 3).
 - **(Optional) Supplementary activity** (120 mins): Follow the Library Carpentry lesson on Tidy Data (Resource 4) either as an in-class activity or self-paced option.
 
