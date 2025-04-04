@@ -12,14 +12,12 @@ tags:
 
 # Metadata
 
-<details open markdown style="border-color: #ff9100;">
-<summary style="list-style: none; background-color: #ff91001a;">This page is currently under construction</summary>
+!!! warning "This page is currently under construction"
 
-**The training curriculum is currently undergoing final revisions and quality checks.**
-**All materials will be released shortly.**
-**Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
+    **The training curriculum is currently undergoing final revisions and quality checks.**
+    **All materials will be released shortly.**
+    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
 
-</details>
 
 ## Learning Objectives
 
