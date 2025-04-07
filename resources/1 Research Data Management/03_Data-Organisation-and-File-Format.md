@@ -31,7 +31,7 @@ tags:
 
 ## Total Module Duration
 
-9 &ndash; 9.5 hours (including preparatory exercises)
+9&ndash;9.5 hours (including preparatory exercises)
 
 
 ## Learning Objective 1
@@ -221,7 +221,7 @@ LO3: Identify and distinguish between open and closed file formats.
 
 ### Learning Activities
 
-- **Lecture** (45 &ndash; 60 mins): on file formats, durability and recommended formats.
+- **Lecture** (45&ndash;60 mins): on file formats, durability and recommended formats.
 - **Q&A**: The walking questions (Resource 2) can be used for this activity between learners about image formats, formats that are best suited for short and medium term storage, file formats best suited for long term preservation and why use non-proprietary/open formats. The instructor can use Resource 1 where it discusses formats to facilitate the discussion.
 
 
@@ -276,7 +276,7 @@ LO4: Explain the benefits and disadvantages of Open and closed file formats.
 ### Learning Activities
 
 - **Introduction** (20 mins): Introduction to the topic and the workshop and aligning expectations to learners 'participation.
-- **Case Study** (60 mins): Case study where the learners suggest file formats for a fictional PI and research project. The aim is to get the learners to weigh the benefits and disadvantages of different formats in the context of the research field's traditions and requirements. Consequently, they will have to argue for and against open/closed format considering factors such as accessibility, longevity and data integrity. Resources 1 &ndash; 3 can be shared with learners to refer to during this activity.
+- **Case Study** (60 mins): Case study where the learners suggest file formats for a fictional PI and research project. The aim is to get the learners to weigh the benefits and disadvantages of different formats in the context of the research field's traditions and requirements. Consequently, they will have to argue for and against open/closed format considering factors such as accessibility, longevity and data integrity. Resources 1&ndash;3 can be shared with learners to refer to during this activity.
 
 
 ### Materials to Prepare
@@ -323,7 +323,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 - **Exercise** (45 mins): Learners will convert a provided file from a closed format (e.g., .docx) to various open formats (e.g., .pdf, .txt, .csv). They will note any data loss during conversion (e.g., formatting, embedded images, metadata) and prepare any questions they have about why certain data might not be preserved in the new format (Resource 1).
 - **Lecture** (45 mins): Lecture about obsolescence, preservation and working open and FAIR.
-- **(Optional) Module Assessment** (45 mins): Gage comprehension of LO1 &ndash; LO5.
+- **(Optional) Module Assessment** (45 mins): Gage comprehension of LO1&ndash;LO5.
 
 
 ### Materials to Prepare
@@ -356,7 +356,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 ??? info "(Optional) Module Assessment"
 
-    Prepare an assessment activity to gage the learners comprehension of LO1 &ndash; LO5.
+    Prepare an assessment activity to gage the learners comprehension of LO1&ndash;LO5.
 
     The instructor presents a research project they know well (such as one of their own) OR uses one of the project example below (Example 1, Example 2). Ensure the project description contains information about the type of data collected (e.g., qualitative interviews, quantitative measurements, images), software and file formats initially used, potential collaborators and stakeholders, ethical considerations and privacy issues and requirements for long-term preservation.
 

@@ -28,7 +28,7 @@ tags:
 
 ## Total Module Duration
 
-2 &ndash; 2.5 hours approximately
+2&ndash;2.5 hours approximately
 
 
 ## Learning Objective 1
@@ -39,7 +39,7 @@ LO1: Summarise the importance of copyright, open licenses and the role it plays 
 ### Learning Activities
 
 - **Presentation 1** (30 mins): Introduction to copyright, fair use, and public domain. Introduction to why licensing is used.
-- **Activity** (45 mins): The trainer can identify 2 &ndash; 3 resources with licenses. Ask participants, in pairs, to identify the license and any restrictions that may come with this license. Discuss what that means if these are reused for teaching. An example activity can be used (Resource 7).
+- **Activity** (45 mins): The trainer can identify 2&ndash;3 resources with licenses. Ask participants, in pairs, to identify the license and any restrictions that may come with this license. Discuss what that means if these are reused for teaching. An example activity can be used (Resource 7).
 - **Presentation 2** (20 mins): Introduction to creating and licensing your own materials, re-using materials and learning about how to combine existing materials and how to attribute them. This module makes a case for reusing open materials and in turn opening developed materials.
 
 

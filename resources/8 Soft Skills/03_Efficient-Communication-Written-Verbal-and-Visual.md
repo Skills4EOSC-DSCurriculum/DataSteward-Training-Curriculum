@@ -36,7 +36,7 @@ LO1: Demonstrate a clear and concise communication style.
 
 ### Learning Activities
 
-- **Presentation** (45 min): Brief introduction to why it is important as a data steward to communicate well (teaching activities, relations with policy making bodies, relations with researchers). Present how to make content clear and adapted to the local context. (Resources 1 &ndash; 5 can be used for source material)
+- **Presentation** (45 min): Brief introduction to why it is important as a data steward to communicate well (teaching activities, relations with policy making bodies, relations with researchers). Present how to make content clear and adapted to the local context. (Resources 1&ndash;5 can be used for source material)
 - **Discussion Activity** (45 mins): Scenario or case study presented to the learners that highlights which communication skills are needed from a DS. Ask the learners to consider: what problem needs to solved, lessons they need to teach, case they need to make, and how they would ideally do it (they write a text, prepare a draft of slides, or some talking points).
 
 ??? info "Example scenarios that can be used"
@@ -90,7 +90,7 @@ LO2: Choose communication media that are appropriate to the research environment
 
 ### Learning Activities
 
-- **Presentation** (60 mins): Highlight the different ways to communicate (verbal, non verbal, visual, written, formal or informal). Discuss the different available media (emails lists, podcasts, social media, conferences, workshops, meetings, webinars, presentations) and how to choose the right one. The instructor should include accessibility into this topic: How to consider those with disabilities so they can fully access your communications. (Resources 1 &ndash; 3 can be used to put the presentation together).
+- **Presentation** (60 mins): Highlight the different ways to communicate (verbal, non verbal, visual, written, formal or informal). Discuss the different available media (emails lists, podcasts, social media, conferences, workshops, meetings, webinars, presentations) and how to choose the right one. The instructor should include accessibility into this topic: How to consider those with disabilities so they can fully access your communications. (Resources 1&ndash;3 can be used to put the presentation together).
 
 
 ### Materials to Prepare
