@@ -39,7 +39,7 @@ LO1: Summarise the importance of copyright, open licenses and the role it plays 
 ### Learning Activities
 
 - **Presentation 1** (30 mins): Introduction to copyright, fair use, and public domain. Introduction to why licensing is used.
-- **Activity** (45 mins): The trainer can identify 2-3 resources with licenses. Ask participants, in pairs, to identify the license and any restrictions that may come with this license. Discuss what that means if these are reused for teaching. An example activity can be used (Resource 7).
+- **Activity** (45 mins): The trainer can identify 2 &ndash; 3 resources with licenses. Ask participants, in pairs, to identify the license and any restrictions that may come with this license. Discuss what that means if these are reused for teaching. An example activity can be used (Resource 7).
 - **Presentation 2** (20 mins): Introduction to creating and licensing your own materials, re-using materials and learning about how to combine existing materials and how to attribute them. This module makes a case for reusing open materials and in turn opening developed materials.
 
 
@@ -64,7 +64,7 @@ LO1: Summarise the importance of copyright, open licenses and the role it plays 
 
 - A key part of this is making a case for reusing existing materials and by extension why we should make our own developed materials open. When reusing any material, the content license needs to be checked. The instructor can explain strategies on what can be done if using the material is not permissible (for instance, only cite the material or ask for permission for the material from the owner).
 - The instructor can also point to different sources where there is more information on copyright (Resource 6).
-- The instructor can let the learners know that one can combine resources with different licenses. However, the trainer should let learners know that this is a complex part of licensing and one should exercise care when doing so. If the trainer wants to go into further detail, the concept of remixing licenses (Resource 4, 8) can be introduced.
+- The instructor can let the learners know that one can combine resources with different licenses. However, the trainer should let learners know that this is a complex part of licensing and one should exercise care when doing so. If the trainer wants to go into further detail, the concept of remixing licenses (Resources 4, 8) can be introduced.
 
 
 

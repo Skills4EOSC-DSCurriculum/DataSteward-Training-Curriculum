@@ -128,7 +128,7 @@ LO3: Recognise the importance of developing a code of conduct including incorpor
 
 **Presentation on codes of conduct:**
 
-- The goal of this session is to help the participants recognise the importance of codes of conduct while performing their roles as facilitators. The session can introduce the participants to the theory of code of conduct (Resource 1 and 2).
+- The goal of this session is to help the participants recognise the importance of codes of conduct while performing their roles as facilitators. The session can introduce the participants to the theory of code of conduct (Resources 1, 2).
 - The instructor can engage the learners to think about the components of a code of conduct and develop one that can be a starting point for their codes of conduct. Their institutions may have established codes of conduct that the data steward can use and extend based on their work as a data steward.
 - The instructor should also include elements of accessibility with regard to disability, language, inequality in digital access and overview of practical tools that enable accessibility in the presentation (Resource 3).
 

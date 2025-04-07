@@ -61,7 +61,7 @@ LO1: Recognise the target audience and their learning needs.
 
 **Reflection Activity:**
 
-- The goal of the reflection activity is to get the learners to start thinking about current knowledge gaps in their institute that they could cover via trainings. Who would the target audience be? The trainer can use the resources to facilitate this activity (Resource 2, 3).
+- The goal of the reflection activity is to get the learners to start thinking about current knowledge gaps in their institute that they could cover via trainings. Who would the target audience be? The trainer can use the resources to facilitate this activity (Resources 2, 3).
 - You can make the exercise more interesting by asking learners to create a persona for the learners who they will train. Pick a persona and think about what this will mean in terms of training design.
 
 **Exercise:**
@@ -107,7 +107,7 @@ LO2: Design a training for the target audience to meet the learning objectives.
 
 - Creating learning objectives &ndash; Introduce the concept of learning objectives &ndash; what is the overall goal and purpose of the training and which learning goals will help achieve this. When developing learning objectives, keep in mind that they should be measurable, can be assessed and are realistic to achieve in the time of the training.
 - There are various tools to help create learning objectives. The instructor can introduce these (e.g. Blooms Taxonomy &ndash; Resource 1, other guides that the instructor prefers).
-- Introduce what learning activities are and how they help deliver the content and help to meet the learning objectives. Learning activities can have different purposes. The instructor can introduce different approaches as well as how different learning activities can be used for different levels of learning (Example: Fair by Design Methodology Resource 2, 3).
+- Introduce what learning activities are and how they help deliver the content and help to meet the learning objectives. Learning activities can have different purposes. The instructor can introduce different approaches as well as how different learning activities can be used for different levels of learning (Example: Fair by Design Methodology Resources 2, 3).
 
 **Reflection Activity 1:**
 

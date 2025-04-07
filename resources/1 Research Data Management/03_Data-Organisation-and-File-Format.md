@@ -228,7 +228,7 @@ LO3: Identify and distinguish between open and closed file formats.
 ### Materials to Prepare
 
 - Lecture/slide deck on open and closed file formats and considerations to use each.
-- Question prompts to facilitate the activity around file formats (Resource 1, 2).
+- Question prompts to facilitate the activity around file formats (Resources 1, 2).
 
 
 ### Instructor Notes
@@ -245,7 +245,7 @@ Consider letting the learners read or watch selected materials from the resource
 
 **Q&A:**
 
-- This activity helps learners to think and provide their own answers to questions they may have. The instructor facilitates this by having prompts ready as well as the answers ready for discussion (Resource 1, 2).
+- This activity helps learners to think and provide their own answers to questions they may have. The instructor facilitates this by having prompts ready as well as the answers ready for discussion (Resources 1, 2).
 
 
 ### Resources
@@ -276,7 +276,7 @@ LO4: Explain the benefits and disadvantages of Open and closed file formats.
 ### Learning Activities
 
 - **Introduction** (20 mins): Introduction to the topic and the workshop and aligning expectations to learners 'participation.
-- **Case Study** (60 mins): Case study where the learners suggest file formats for a fictional PI and research project. The aim is to get the learners to weigh the benefits and disadvantages of different formats in the context of the research field's traditions and requirements. Consequently, they will have to argue for and against open/closed format considering factors such as accessibility, longevity and data integrity. Resource 1-3 can be shared with learners to refer to during this activity.
+- **Case Study** (60 mins): Case study where the learners suggest file formats for a fictional PI and research project. The aim is to get the learners to weigh the benefits and disadvantages of different formats in the context of the research field's traditions and requirements. Consequently, they will have to argue for and against open/closed format considering factors such as accessibility, longevity and data integrity. Resources 1 &ndash; 3 can be shared with learners to refer to during this activity.
 
 
 ### Materials to Prepare
@@ -345,7 +345,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 **Slide deck:**
 
-- Prepare a slide deck using the materials about the implications of obsolescence (Resources 2, 3) and the benefits of using open formats (Resource 4, 5) and (optionally) in line with FAIR, and OPEN principles.
+- Prepare a slide deck using the materials about the implications of obsolescence (Resources 2, 3) and the benefits of using open formats (Resources 4, 5) and (optionally) in line with FAIR, and OPEN principles.
 - Points to present to and discuss with the learners during the presentation can be:
     - Data Integrity: How does the conversion process affect data integrity and usability?
     - Data ethics: Which considerations did you have about security, privacy and ethical/legal issues?
