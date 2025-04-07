@@ -73,12 +73,12 @@ LO1: Recognise the target audience and their learning needs.
 
 **Input for presentation:**
 
-1. Collaborative Lesson Development Training: Identifying Your Target Audience. <https://carpentries.github.io/lesson-development-training/03-audience.html>. Accessed 21 Mar. 2025.
+1. Collaborative Lesson Development Training: Identifying Your Target Audience. <https://carpentries.github.io/lesson-development-training/03-audience.html>. 
 
 **Input for activity/exercise:**
 
-2. OSF. <https://osf.io/2nfcg/>. Accessed 21 Mar. 2025.
-3. Course: EOSC Synergy Online Training Handbook, Topic: 1. Analyse Your Training Needs. <https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=4#tabs-tree-start>. Accessed 21 Mar. 2025.
+2. OSF. <https://osf.io/2nfcg/>. 
+3. Course: EOSC Synergy Online Training Handbook, Topic: 1. Analyse Your Training Needs. <https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=4#tabs-tree-start>. 
 
 
 
@@ -126,8 +126,8 @@ LO2: Design a training for the target audience to meet the learning objectives.
 1. Bloom's Revised Taxonomy for Learning Objectives, <https://ocw.tudelft.nl/wp-content/uploads/Blooms-taxonomy-for-learning-objectives-TU-Delft-Sep-2019.pdf>.
 2. On Learning and Training \| Open Science Training Handbook. 13 Apr. 2023, <https://open-science-training-handbook.gitbook.io/book/03onlearningandtraining>.
 3. Filiposka, Sonja, et al. D2.2 Methodology for FAIR-by-Design Training Materials. Aug. 2023. DOI.org (Datacite), <https://doi.org/10.5281/ZENODO.8305539>.
-4. Course: EOSC Synergy Online Training Handbook. <https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=28>. Accessed 21 Mar. 2025.
-5. MindTools \| Home. <https://www.mindtools.com/ago89rj/virtual-ice-breakers>. Accessed 21 Mar. 2025.
+4. Course: EOSC Synergy Online Training Handbook. <https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=28>. 
+5. MindTools \| Home. <https://www.mindtools.com/ago89rj/virtual-ice-breakers>. 
 
 
 
@@ -193,4 +193,4 @@ LO4: Identify context-specific resources for training and use these to design le
 
 **Input for activity 2:**
 
-1. "Design a Learning Activity." TU Delft, <https://www.tudelft.nl/teaching-support/educational-advice/develop/design-learning-activity>. Accessed 24 Mar. 2025.
+1. "Design a Learning Activity." TU Delft, <https://www.tudelft.nl/teaching-support/educational-advice/develop/design-learning-activity>. 
