@@ -63,7 +63,7 @@ LO1: Define the skills needed to be a good facilitator.
 
 **Input for presentation and activities:**
 
-1. Chapter 16., Section 2. Developing Facilitation Skills - Main Section \| Community Tool Box. <https://ctb.ku.edu/en/table-of-contents/leadership/group-facilitation/facilitation-skills/main>. Accessed 24 Mar. 2025.
+1. Chapter 16., Section 2. Developing Facilitation Skills - Main Section \| Community Tool Box. <https://ctb.ku.edu/en/table-of-contents/leadership/group-facilitation/facilitation-skills/main>. 
 2. FSG and Karen. "Inclusive Facilitation for Social Change." FSG, 17 Aug. 2023, <https://www.fsg.org/blog/inclusive-facilitation-for-social-change/>.
 
 
@@ -146,7 +146,7 @@ LO3: Recognise the importance of developing a code of conduct including incorpor
 
 **Input for presentation and activities:**
 
-1. How Can You Establish a Code of Conduct for a Facilitation Community? <https://www.linkedin.com/advice/3/how-can-you-establish-code-conduct-facilitation-community-8hzhc>. Accessed 24 Mar. 2025.
-2. "GitHub Community Code of Conduct." GitHub Docs, <https://docs-internal.github.com/en/site-policy/github-terms/github-community-code-of-conduct>. Accessed 24 Mar. 2025.
-3. Accessibility - The Turing Way. <https://book.the-turing-way.org/community-handbook/accessibility.html>. Accessed 24 Mar. 2025.
+1. How Can You Establish a Code of Conduct for a Facilitation Community? <https://www.linkedin.com/advice/3/how-can-you-establish-code-conduct-facilitation-community-8hzhc>.
+2. "GitHub Community Code of Conduct." GitHub Docs, <https://docs-internal.github.com/en/site-policy/github-terms/github-community-code-of-conduct>.
+3. Accessibility - The Turing Way. <https://book.the-turing-way.org/community-handbook/accessibility.html>. 
 4. Filiposka, Sonja, et al. D2.2 Methodology for FAIR-by-Design Training Materials. Aug. 2023. DOI.org (Datacite), <https://doi.org/10.5281/ZENODO.8305539>.
