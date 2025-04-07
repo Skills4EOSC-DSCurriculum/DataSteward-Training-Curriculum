@@ -72,7 +72,7 @@ LO1: Describe the basic principles of file management.
 
 **Resources for learning activities &ndash; instructor and learners:**
 
-1. Ghent University. "RDM Knowledge Clips" *YouTube,* Seen 19 March 2025.
+1. Ghent University. "RDM Knowledge Clips" *YouTube, * Seen 19 March 2025.
 2. *File Naming Conventions \| Data Management*. <https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions>. Seen 19. March 2025.
 3. *File Organization*. <https://datacarpentry.github.io/rr-organization1/>. Accessed 24 Mar. 2025.
 4. *Optional activity: Tidy Data for Librarians: Summary and Setup*. <https://librarycarpentry.github.io/lc-spreadsheets/#setup>. Accessed 24 Mar. 2025.
@@ -345,7 +345,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 **Slide deck:**
 
-- Prepare a slide deck using the materials about the implications of obsolescence (Resources 2,3) and the benefits of using open formats (Resource 4,5) and (optionally) in line with FAIR, and OPEN principles.
+- Prepare a slide deck using the materials about the implications of obsolescence (Resources 2, 3) and the benefits of using open formats (Resource 4, 5) and (optionally) in line with FAIR, and OPEN principles.
 - Points to present to and discuss with the learners during the presentation can be:
     - Data Integrity: How does the conversion process affect data integrity and usability?
     - Data ethics: Which considerations did you have about security, privacy and ethical/legal issues?
@@ -392,7 +392,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
             - Gender: Gender of the participant (e.g., Male, Female, Non-binary)
             - Location: City or region of residence (e.g., New York, London, Berlin)
         2. Health Information:
-            - Chronic Conditions: Information on chronic conditions (e.g., diabetes,hypertension)
+            - Chronic Conditions: Information on chronic conditions (e.g., diabetes, hypertension)
             - Medication: List of medications taken (e.g., insulin, antihypertensives)
             - Medical History: Any significant medical history (e.g., surgeries, hospitalisations)
         3. Lifestyle Information:
@@ -400,7 +400,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
             - Exercise: Frequency and type of exercise (e.g., daily jogging, weekly gym sessions)
             - Sleep Patterns: Average hours of sleep per night (e.g., 6 hours, 8 hours)
         4. Survey Responses:
-            - Self-Rated Health: Participant's self-assessment of their health (e.g., Excellent,Good, Fair, Poor)
+            - Self-Rated Health: Participant's self-assessment of their health (e.g., Excellent, Good, Fair, Poor)
             - Health Goals: Personal health goals and aspirations (e.g., lose weight, managestress)
             - Barriers to Health: Challenges faced in maintaining a healthy lifestyle (e.g., lack of time, financial constraints)
         5. Data Sensitivity Considerations:
