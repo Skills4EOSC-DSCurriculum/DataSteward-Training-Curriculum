@@ -78,8 +78,8 @@ LO1: Summarise the importance of copyright, open licenses and the role it plays 
 4. Design - FAIR-by-Design Methodology <https://fair-by-design-methodology.github.io>
 5. Creative Commons License: <https://en.wikipedia.org/wiki/Creative_Commons_license>
 6. Copyright Information Point: <https://www.tudelft.nl/library/copyright>
-7. Intro to Copyright and Licensing (Activity) - TeachingOpenSource. <https://teachingopensource.org/Intro_to_Copyright_and_Licensing\_(Activity)>. 
-8. Harding, Julie. UMGC Library: Open Educational Resources: Mixing Different CC Licensed Resources. <https://libguides.umgc.edu/c.php?g=23404&p=7945146>. 
+7. Intro to Copyright and Licensing (Activity) - TeachingOpenSource. <https://teachingopensource.org/Intro_to_Copyright_and_Licensing\_(Activity)>. Accessed 31 Mar. 2025.
+8. Harding, Julie. UMGC Library: Open Educational Resources: Mixing Different CC Licensed Resources. <https://libguides.umgc.edu/c.php?g=23404&p=7945146>. Accessed 1 Apr. 2025.
 
 
 
