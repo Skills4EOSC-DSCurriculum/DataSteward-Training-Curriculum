@@ -25,7 +25,7 @@ tags:
 - **Learning Objective 1 (LO1):** Describe the basic principles of file management.
 - **Learning Objective 2 (LO2):** Set up a file structure for data files.
 - **Learning Objective 3 (LO3):** Identify and distinguish between open and closed file formats.
-- **Learning Objective 4 (LO4):** Explain the benefits and disadvantages of Open and closed file formats and.
+- **Learning Objective 4 (LO4):** Explain the benefits and disadvantages of Open and closed file formats.
 - **Learning Objective 5 (LO5):** Explain the concept of obsolescence and identify factors that can contribute to obsolescence and how to mitigate them.
 
 
@@ -50,7 +50,7 @@ LO1: Describe the basic principles of file management.
 
 - Distribute the pre-reading and video prior to the session.
 - Lecture on basis of file management and its importance.
-- Optional activity &ndash; introduce and facilitate the carpentries lesson on Tidy data as a code along or self-paced activity or digital learning environment.
+- Optional activity &ndash; introduce and facilitate the Carpentries lesson on Tidy data as a code along, self-paced activity, or digital learning environment.
 
 
 ### Instructor Notes
@@ -59,20 +59,20 @@ LO1: Describe the basic principles of file management.
 
 - Give an introduction to the basics of file management (paths, trees and folders and naming conventions) to give an overview of why file management is important for data security, efficiency and collaboration. Introduce concepts and terminology, such as hierarchical, network and relational systems; file management tools such as organisational, search functions, version control, access management, collaboration and integration.
 - Key takeaways to cover include:
-  - Every computer has a file system used to keep track of the files on that machine. This system varies according to the computer. However, there is a common aim: The operational system (OS) allows the user to organize the contents of their computer in a hierarchical structure of directories that includes drives, folders, subfolders, and files.
-  - File organization means the information/documents are organized so that a computer can read and understand it. This lets you use the full power of the computer for your analyses and stewardship.
-  - Even though files are neatly organized, the content still might have errors or missing data or other problems. It's like you put all your data in the right drawers, but the drawers might still be messy.
+    - Every computer has a file system used to keep track of the files on that machine. This system varies according to the computer. However, there is a common aim: The operational system (OS) allows the user to organize the contents of their computer in a hierarchical structure of directories that includes drives, folders, subfolders, and files.
+    - File organization means the information/documents are organized so that a computer can read and understand it. This lets you use the full power of the computer for your analyses and stewardship.
+    - Even though files are neatly organized, the content still might have errors or missing data or other problems. It's like you put all your data in the right drawers, but the drawers might still be messy.
 
 **Optional Activity:**
 
-- This activity follows the library carpentry lesson on file management. The Carpentry lessons include instructor notes and exercises and can be taught as "code-along" or self-paced activities. An optional hands-on activity is the Carpentry lesson about the Tidy Data principles. The Tidy Data activity would add another 120 mins to the lesson.
+- This activity follows the Library Carpentry lesson on file management. The Carpentry lessons include instructor notes and exercises and can be taught as "code-along" or self-paced activities. An optional hands-on activity is the Carpentry lesson about the Tidy Data principles. The Tidy Data activity would add another 120 mins to the lesson.
 
 
 ### Resources
 
 **Resources for learning activities &ndash; instructor and learners:**
 
-1. Ghent University. "RDM Knowledge Clips" *YouTube, * Seen 19 March 2025.
+1. Ghent University. "RDM Knowledge Clips" *YouTube*, Seen 19 March 2025.
 2. *File Naming Conventions \| Data Management*. <https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions>. Seen 19. March 2025.
 3. *File Organization*. <https://datacarpentry.github.io/rr-organization1/>. Accessed 24 Mar. 2025.
 4. *Optional activity: Tidy Data for Librarians: Summary and Setup*. <https://librarycarpentry.github.io/lc-spreadsheets/#setup>. Accessed 24 Mar. 2025.
@@ -99,7 +99,7 @@ LO2: Set up a file structure for data files.
 ### Materials to Prepare
 
 - Presentation on practicalities of file management and version control.
-- Reflection activity: The instructor might have to bring their own examples and facilitate learns to share their own examples.
+- Reflection activity: The instructor might have to bring their own examples and facilitate learning by sharing their own examples.
 
 
 ### Instructor Notes
@@ -108,7 +108,7 @@ LO2: Set up a file structure for data files.
 
 - The instructor can provide practical instruction in and discussion on approaches to structuring and naming. Tips can be provided on creating a file naming convention that suits the discipline and data format requirements in research projects so that project members can navigate the data files.
 - Allow time for your learners to create a file naming convention and structure and give feedback to someone else's work.
-- Key take-aways:
+- Key takeaways:
     - The topics covered provide an introduction to the best ways of saving datafiles so they are not lost.
     - There can be disciplinary and project-level differences in file naming and organisation.
     - A slide deck on the practicalities of file management and version control (Resource 1). The instructor can cover information on sorting files, what is good information for file naming, and how to do version control.
@@ -190,7 +190,7 @@ LO2: Set up a file structure for data files.
 
 **Reflection Activity:**
 
-- Prepare instructions to the reflection activity. Include a case to exemplify file organisation and a codex for versioning.
+- Prepare instructions for the reflection activity. Include a case to exemplify file organisation and a codex for versioning.
 - Prepare a checklist for file-naming using the information below developed by Copenhagen University working group for Digital Competences (Resource 3).
 
 
@@ -233,7 +233,7 @@ LO3: Identify and distinguish between open and closed file formats.
 
 ### Instructor Notes
 
-Consider letting the learners read or watch selected materials from the resource list before the lesson to encourage questions during the lecture. Pose questions and to and between the learners to discuss during the lecture.
+Consider letting the learners read or watch selected materials from the resource list before the lesson to encourage questions during the lecture. Pose discussion questions to and between the learners during the lecture.
 
 **Lecture:**
 
@@ -275,7 +275,7 @@ LO4: Explain the benefits and disadvantages of Open and closed file formats.
 
 ### Learning Activities
 
-- **Introduction** (20 mins): Introduction to the topic and the workshop and aligning expectations to learners 'participation.
+- **Introduction** (20 mins): Introduction to the topic and the workshop and aligning expectations to learners' participation.
 - **Case Study** (60 mins): Case study where the learners suggest file formats for a fictional PI and research project. The aim is to get the learners to weigh the benefits and disadvantages of different formats in the context of the research field's traditions and requirements. Consequently, they will have to argue for and against open/closed format considering factors such as accessibility, longevity and data integrity. Resources 1&ndash;3 can be shared with learners to refer to during this activity.
 
 
@@ -322,7 +322,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 ### Learning Activities
 
 - **Exercise** (45 mins): Learners will convert a provided file from a closed format (e.g., .docx) to various open formats (e.g., .pdf, .txt, .csv). They will note any data loss during conversion (e.g., formatting, embedded images, metadata) and prepare any questions they have about why certain data might not be preserved in the new format (Resource 1).
-- **Lecture** (45 mins): Lecture about obsolescence, preservation and working open and FAIR.
+- **Lecture** (45 mins): Lecture about obsolescence, preservation and working Open and FAIR.
 - **(Optional) Module Assessment** (45 mins): Gage comprehension of LO1&ndash;LO5.
 
 
@@ -345,8 +345,8 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 **Slide deck:**
 
-- Prepare a slide deck using the materials about the implications of obsolescence (Resources 2, 3) and the benefits of using open formats (Resources 4, 5) and (optionally) in line with FAIR, and OPEN principles.
-- Points to present to and discuss with the learners during the presentation can be:
+- Prepare a slide deck using the materials about the implications of obsolescence (Resources 2, 3), and the benefits of using open formats (Resources 4, 5). Discuss alignment with FAIR and Open principles (optional).
+- Points to present and discuss with the learners during the presentation can be:
     - Data Integrity: How does the conversion process affect data integrity and usability?
     - Data ethics: Which considerations did you have about security, privacy and ethical/legal issues?
     - Long-Term Access: What measures can be taken to ensure long-term access and prevent obsolescence?
@@ -358,7 +358,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
     Prepare an assessment activity to gage the learners comprehension of LO1&ndash;LO5.
 
-    The instructor presents a research project they know well (such as one of their own) OR uses one of the project example below (Example 1, Example 2). Ensure the project description contains information about the type of data collected (e.g., qualitative interviews, quantitative measurements, images), software and file formats initially used, potential collaborators and stakeholders, ethical considerations and privacy issues and requirements for long-term preservation.
+    The instructor presents a research project they know well (such as one of their own) OR uses one of the project examples below (Example 1, Example 2). Ensure the project description contains information about the type of data collected (e.g., qualitative interviews, quantitative measurements, images), software and file formats initially used, potential collaborators and stakeholders, ethical considerations and privacy issues and requirements for long-term preservation.
 
     **How to conduct the activity:**
 
@@ -443,16 +443,17 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
                 - Remove Identifiers: Strip out or anonymise personal identifiers such as Participant ID and specific age or gender details.
                 - Aggregate Data: Aggregate symptoms and treatment history into broader categories to minimise the risk of identification (e.g., generalising symptom categories instead of detailed descriptions).
 
-    For the instructor the goal of this optional activity is that the learner think about the importance of file organization and choosing the right file formats as well as the broader implications of their choices in the context of open science and digital preservation.Give more time than you think for the case work and discussion afterwards, as there are many issues that can be discussed!
+    For the instructor the goal of this optional activity is that the learner thinks about the importance of file organization and choosing the right file formats as well as the broader implications of their choices in the context of open science and digital preservation.Give more time than you think for the case work and discussion afterwards, as there are many issues that can be discussed!
 
-    **Key Take-aways:**
+    **Key takeaways:**
 
     - File management is the organization, structure, naming, accessing, and storing of documents. Good file management increases efficiency as information is easily found and understood.
     - Specific consequences of file mismanagement vary depending on the project; however, general risks include legal liability, regulatory non-compliance, duplication of efforts, misunderstanding of data, loss of knowledge during turnover, file obsolescence or corruption, inability to verify information, unclear provenance, and wasted time finding or accessing information.
     - Choosing the right file format is important. The benefits of Open File Formats are increased accessibility, interoperability, longevity and transparency. The disadvantages can be limited features and less technical support.
-    - Benefits of Closed File Formats are the have sophisticated features and functionalities, integrate with other proprietary software's, there is good support. Disadvantages are restricted access, limited compatibility, risk of obsolescence and cost.
+    - Benefits of Closed File Formats are the have sophisticated features and functionalities, integrate with other proprietary software, and there is good support. Disadvantages are restricted access, limited compatibility, risk of obsolescence, and cost.
     - Effective preservation often requires specialized technical knowledge, which may be lacking in some organizations. Over time, data stored in certain formats can degrade, leading to loss of information and reduced usability.
-    - Compatibility Issues: As new software and systems emerge, older formats may become incompatible, making data retrieval difficult. Data Sensitivity: Consider privacy and security implications, particularly for sensitive or confidential data.
+    - Compatibility Issues: As new software and systems emerge, older formats may become incompatible, making data retrieval difficult.
+    - Data Sensitivity: Consider privacy and security implications, particularly for sensitive or confidential data.
     - Licensing: Be aware of any licensing restrictions that might affect the use and distribution of the chosen format. Consider who needs to access the data and ensure the format chosen facilitates broad accessibility and collaboration.
 
 
