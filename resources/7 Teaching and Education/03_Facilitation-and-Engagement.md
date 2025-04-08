@@ -63,7 +63,7 @@ LO1: Define the skills needed to be a good facilitator.
 
 **Input for presentation and activities:**
 
-1. Chapter 16., Section 2. Developing Facilitation Skills - Main Section \| Community Tool Box. <https://ctb.ku.edu/en/table-of-contents/leadership/group-facilitation/facilitation-skills/main>. Accessed 24 Mar. 2025.
+1. Chapter 16., Section 2. Developing Facilitation Skills - Main Section | Community Tool Box. <https://ctb.ku.edu/en/table-of-contents/leadership/group-facilitation/facilitation-skills/main>. Accessed 24 Mar. 2025.
 2. FSG and Karen. "Inclusive Facilitation for Social Change." FSG, 17 Aug. 2023, <https://www.fsg.org/blog/inclusive-facilitation-for-social-change/>.
 
 
@@ -102,7 +102,7 @@ LO2: Summarise the key aspects of learner engagement and the role of the trainer
 
 **Input for presentation and group work:**
 
-1. On Learning and Training \| Open Science Training Handbook. 13 Apr. 2023, <https://open-science-training-handbook.gitbook.io/book/03onlearningandtraining>.
+1. On Learning and Training | Open Science Training Handbook. 13 Apr. 2023, <https://open-science-training-handbook.gitbook.io/book/03onlearningandtraining>.
 
 
 

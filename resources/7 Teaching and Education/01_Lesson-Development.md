@@ -89,7 +89,7 @@ LO2: Design a training for the target audience to meet the learning objectives.
 
 ### Learning Activities
 
-- **Presentation** (30 mins): Introduction to creating learning objectives (for instance, using Bloom\'s Taxonomy), emphasising the importance of using measurable verbs in designing learning objectives. Introduction to some examples of common learning activities and the role that learning activities play in meeting the learning objectives.
+- **Presentation** (30 mins): Introduction to creating learning objectives (for instance, using Bloom's Taxonomy), emphasising the importance of using measurable verbs in designing learning objectives. Introduction to some examples of common learning activities and the role that learning activities play in meeting the learning objectives.
 - **Reflection activity 1** (15 mins): Instructor presents a learning objective. Evaluate whether this is a clear, measurable learning objective. How can it be improved?
 - **Reflection activity 2** (15 mins): What are three kinds of learning activities that you find most effective as a learner? In breakout groups, discuss.
 
@@ -124,10 +124,10 @@ LO2: Design a training for the target audience to meet the learning objectives.
 **Input for presentation and activities:**
 
 1. Bloom's Revised Taxonomy for Learning Objectives, <https://ocw.tudelft.nl/wp-content/uploads/Blooms-taxonomy-for-learning-objectives-TU-Delft-Sep-2019.pdf>.
-2. On Learning and Training \| Open Science Training Handbook. 13 Apr. 2023, <https://open-science-training-handbook.gitbook.io/book/03onlearningandtraining>.
+2. On Learning and Training | Open Science Training Handbook. 13 Apr. 2023, <https://open-science-training-handbook.gitbook.io/book/03onlearningandtraining>.
 3. Filiposka, Sonja, et al. D2.2 Methodology for FAIR-by-Design Training Materials. Aug. 2023. DOI.org (Datacite), <https://doi.org/10.5281/ZENODO.8305539>.
 4. Course: EOSC Synergy Online Training Handbook. <https://moodle.learn.eosc-synergy.eu/course/view.php?id=15&section=28>. Accessed 21 Mar. 2025.
-5. MindTools \| Home. <https://www.mindtools.com/ago89rj/virtual-ice-breakers>. Accessed 21 Mar. 2025.
+5. MindTools | Home. <https://www.mindtools.com/ago89rj/virtual-ice-breakers>. Accessed 21 Mar. 2025.
 
 
 
@@ -159,7 +159,7 @@ LO3: Plan how to gather feedback for further improvement in lesson development.
 
 **Input for presentation and activities:**
 
-1. On Learning and Training \| Open Science Training Handbook. 13 Apr. 2023, https://open-science-training-handbook.gitbook.io/book/03onlearningandtraining.
+1. On Learning and Training | Open Science Training Handbook. 13 Apr. 2023, https://open-science-training-handbook.gitbook.io/book/03onlearningandtraining.
 
 
 

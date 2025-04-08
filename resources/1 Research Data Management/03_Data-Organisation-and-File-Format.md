@@ -73,7 +73,7 @@ LO1: Describe the basic principles of file management.
 **Resources for learning activities &ndash; instructor and learners:**
 
 1. Ghent University. "RDM Knowledge Clips" *YouTube*, Seen 19 March 2025.
-2. *File Naming Conventions \| Data Management*. <https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions>. Seen 19. March 2025.
+2. *File Naming Conventions | Data Management*. <https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions>. Seen 19. March 2025.
 3. *File Organization*. <https://datacarpentry.github.io/rr-organization1/>. Accessed 24 Mar. 2025.
 4. *Optional activity: Tidy Data for Librarians: Summary and Setup*. <https://librarycarpentry.github.io/lc-spreadsheets/#setup>. Accessed 24 Mar. 2025.
 
@@ -302,7 +302,7 @@ LO4: Explain the benefits and disadvantages of Open and closed file formats.
 
 **Input the learners can refer to during case work:**
 
-1. *Format Description Categories - Sustainability of Digital Formats \| Library of Congress*. <https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml>.
+1. *Format Description Categories - Sustainability of Digital Formats | Library of Congress*. <https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml>.
 2. *Choosing The Right File Format/Quick Guide - Wikibooks, Open Books for an Open World*. <https://en.wikibooks.org/wiki/Choosing_The_Right_File_Format/Quick_Guide>.
 3. Service, UK Data. 'Recommended Formats'. *UK Data Service*, <https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/>.
 
@@ -461,11 +461,11 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 **Input for file conversion exercise &ndash; resources for the instructor:**
 
-1. *Converting from One File Type to Another \| Computing*. <https://www.maths.cam.ac.uk/computing/converting-one-file-type-another>.
+1. *Converting from One File Type to Another | Computing*. <https://www.maths.cam.ac.uk/computing/converting-one-file-type-another>.
 
 **Resources about obsolescence &ndash; slide preparation for instructors:**
 
-2. *Obsolescence: File Formats and Software \| Digital Preservation Management*. <https://dpworkshop.org/dpm-eng/oldmedia/obsolescence1.html>.
+2. *Obsolescence: File Formats and Software | Digital Preservation Management*. <https://dpworkshop.org/dpm-eng/oldmedia/obsolescence1.html>.
 
 **Identifying a file extension and the software needed to open it:**
 
