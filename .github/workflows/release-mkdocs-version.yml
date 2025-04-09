@@ -35,4 +35,4 @@ jobs:
 
       - name: Deploy with mike
         run: |
-          mike deploy --rebase --push --update-aliases ${{ github.event.release.tag_name }}
+          mike deploy --push --update-aliases ${{ github.event.release.tag_name }}
