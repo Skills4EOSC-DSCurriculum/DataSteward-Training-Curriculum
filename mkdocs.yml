@@ -18,6 +18,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+hooks:
+  - hooks/external_links_md.py
 plugins:
   - search
   - tags
