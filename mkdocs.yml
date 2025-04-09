@@ -38,6 +38,7 @@ plugins:
         - "*syllabus.md"
       regex:
         - '.*\.(tmp|bin|tar)$'
+  - privacy
 extra:
   version:
     provider: mike
