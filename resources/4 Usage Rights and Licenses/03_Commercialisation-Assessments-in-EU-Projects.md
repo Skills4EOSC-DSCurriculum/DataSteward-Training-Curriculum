@@ -21,7 +21,7 @@ tags:
 
 ## Learning Objectives
 
-- **Learning Objective 1 (LO1):** Recognise the formale requirements for when to perform a commercialisation assessment within the context of an EU-funded project.
+- **Learning Objective 1 (LO1):** Recognise the formal requirements for when to perform a commercialisation assessment within the context of an EU-funded project.
 
 
 ## Total Module Duration

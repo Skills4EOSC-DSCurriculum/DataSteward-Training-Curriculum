@@ -37,7 +37,7 @@ LO1: Demonstrate a clear and concise communication style.
 ### Learning Activities
 
 - **Presentation** (45 min): Brief introduction to why it is important as a data steward to communicate well (teaching activities, relations with policy making bodies, relations with researchers). Present how to make content clear and adapted to the local context. (Resources 1&ndash;5 can be used for source material)
-- **Discussion Activity** (45 mins): Scenario or case study presented to the learners that highlights which communication skills are needed from a DS. Ask the learners to consider: what problem needs to solved, lessons they need to teach, case they need to make, and how they would ideally do it (they write a text, prepare a draft of slides, or some talking points).
+- **Discussion Activity** (45 mins): Scenario or case study presented to the learners that highlights which communication skills are needed from a Data Steward. Ask the learners to consider: what problem needs to solved, lessons they need to teach, case they need to make, and how they would ideally do it (they write a text, prepare a draft of slides, or some talking points).
 
 ??? info "Example scenarios that can be used"
 
@@ -64,7 +64,7 @@ LO1: Demonstrate a clear and concise communication style.
 **Discussion Activity:**
 
 - Present a scenario and let the learners discuss how they would approach the scenario. It is a good opportunity to talk about real-life cases and ideas or processes that help good communication in the given contexts.
-- The instructor can also discuss a discipline specific case: Working on difficulties in understanding each other due to disciplinary specificities or complex scientific concepts or processes. In such cases discuss with a research team to help them manage their data (understand the specific nature of their research activity whether it is method, workflow, terminology). What type of difficulties can we encounter and how can we present convincing elements to propose appropriate solutions? What communication elements do we need to take into account?
+- The instructor can also discuss a discipline specific case: Working on difficulties in understanding each other due to disciplinary specificity or complex scientific concepts or processes. In such cases discuss with a research team to help them manage their data (understand the specific nature of their research activity whether it is method, workflow, terminology). What type of difficulties can we encounter and how can we present convincing elements to propose appropriate solutions? What communication elements do we need to take into account?
 
 
 ### Resources
@@ -73,7 +73,7 @@ LO1: Demonstrate a clear and concise communication style.
 
 1. *Collaborative Lesson Development Training: Identifying Your Target Audience*. <https://carpentries.github.io/lesson-development-training/03-audience.html>.
 2. The importance of clear, concise and consistent communication: <https://thebrieflab.com/blog/the-3-cs-of-communication-clear-concise-consistent/>.
-3. O'Hagan, Michelle. The 3 C's of Communication: Clear, Concise, Consistent | The Brief Lab. 11 april 2024, <https://thebrieflab.com/blog/the-3-cs-of-communication-clear-concise-consistent/>.
+3. O'Hagan, Michelle. The 3 C's of Communication: Clear, Concise, Consistent | The Brief Lab. 11 April 2024, <https://thebrieflab.com/blog/the-3-cs-of-communication-clear-concise-consistent/>.
 4. Principles of Communicating with Wider Audiences - The Turing Way. <https://book.the-turing-way.org/communication/comms-overview/comms-overview-principles>.
 5. FNS-Cloud : Open Science Communication <https://www.youtube.com/watch?v=mva8z2k1g6Q>.
 
@@ -105,11 +105,11 @@ LO2: Choose communication media that are appropriate to the research environment
 - The instructor should explain which forms of communication would be useful in what situation/with which stakeholder.
 - The instructor can introduce with a brief definition of communication types (verbal, non-verbal, written, visual, formal/informal). Give concrete examples of each type and talk about the importance of selecting the right communication mode based on the context.
 - The instructor can give an overview of different media (emails, podcasts, social media, conferences) and discuss on selection criteria (target audience, interactivity, accessibility) and compare for example an in-person meeting with a webinar. Here are more examples:
-    - To produce ideas and interact on graphical documents such as mind maps: Miro, scrumblr, padlet, klaxoon, Mind42
+    - To produce ideas and interact on graphical documents such as mind maps: Miro, scrumblr, Padlet, Klaxoon, Mind42
     - To create surveys: Limesurvey, Mentimenter
     - To vote: Balotilo
     - For multi-person writing: Cryptpad (secure online notepad, end-to-end encrypted data transfer or cryptdrive)
-    - Social networking communications tools: Mattermost, Slack, Rocket chat &ndash; but also Framapad, Framadate, Doodle, Microsoft Teams, ...
+    - Social networking communications tools: Mattermost, Slack, Rocket.Chat &ndash; but also Framapad, Framadate, Doodle, Microsoft Teams, ...
 - The instructor can give an overview of the different tools for project collaboration (a quick demonstration of Miro for example to create a mind map) and explain their role in project management and brainstorming.
 - The instructor can present the 8 elements of communications and give some explanation of of key models (more details on this in Resource 1).
 
@@ -124,6 +124,6 @@ LO2: Choose communication media that are appropriate to the research environment
 
 ### Resources
 
-1. Communication Process: Steps, Elements & Improvement Tips. *Pumble Learn*, 6 october 2023, <https://pumble.com/learn/communication/communication-process/>.
+1. Communication Process: Steps, Elements & Improvement Tips. *Pumble Learn*, 6 October 2023, <https://pumble.com/learn/communication/communication-process/>.
 2. *Accessible Communication - Guidance for Communicating Clearly and Accessibly*. University of Oxford, <https://academic.admin.ox.ac.uk/accessible-communication>.
 3. Aston, Ben. 35 Best Online Collaboration Tools for Teams in 2025. *The Digital Project Manager*, <https://thedigitalprojectmanager.com/tools/best-collaboration-tools/>.

@@ -96,7 +96,7 @@ LO2: Identify (discipline-specific) experts to develop knowledge and connect peo
 
 ### Resources
 
-1. Buss, M., et al. Reference Data and Documentation for Skills4eosc Deliverable D6.1 Mapping of Existing Professional Networks. v.1.0., Zenodo, 1 Feb. 2023, <https://doi.org/10.5281/zenodo.7591902>.
+1. Buss, M., et al. Reference Data and Documentation for Skills4EOSC Deliverable D6.1 Mapping of Existing Professional Networks. v.1.0., Zenodo, 1 Feb. 2023, <https://doi.org/10.5281/zenodo.7591902>.
 
 
 
@@ -126,6 +126,6 @@ LO3: Identify actions necessary for teamwork in a network.
 
 ### Resources
 
-1. Admin, Teamhub. Be a Team Task Coordinator: Strategies for Success. Teamhub | Projects, Chat and Docs in a Single Platform., 27 september 2023, <https://teamhub.com/blog/be-a-team-task-coordinator-strategies-for-success/>.
+1. Admin, Teamhub. Be a Team Task Coordinator: Strategies for Success. Teamhub | Projects, Chat and Docs in a Single Platform., 27 September 2023, <https://teamhub.com/blog/be-a-team-task-coordinator-strategies-for-success/>.
 2. Guide for Collaboration - The Turing Way. <https://book.the-turing-way.org/collaboration/collaboration>.
 3. Horton, L., et al. D6.2 Development of Starter Kits for Professional Networks: Data Steward. 1.1, Zenodo, 31 Aug. 2023, <https://doi.org/10.5281/zenodo.7682836>.

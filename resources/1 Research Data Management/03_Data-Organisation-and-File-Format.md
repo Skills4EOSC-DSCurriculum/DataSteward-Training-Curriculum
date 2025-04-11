@@ -79,7 +79,7 @@ LO1: Describe the basic principles of file management.
 
 **Inspiration to the slide deck &ndash; for instructors:**
 
-5. *Paths and Trees and Folders - Ppt Download*. <https://slideplayer.com/slide/17369365/>. Accessed 24 Mar. 2025.
+5. *Paths and Trees and Folders - PPT Download*. <https://slideplayer.com/slide/17369365/>. Accessed 24 Mar. 2025.
 
 
 
@@ -109,7 +109,7 @@ LO2: Set up a file structure for data files.
 - The instructor can provide practical instruction in and discussion on approaches to structuring and naming. Tips can be provided on creating a file naming convention that suits the discipline and data format requirements in research projects so that project members can navigate the data files.
 - Allow time for your learners to create a file naming convention and structure and give feedback to someone else's work.
 - Key takeaways:
-    - The topics covered provide an introduction to the best ways of saving datafiles so they are not lost.
+    - The topics covered provide an introduction to the best ways of saving data files so they are not lost.
     - There can be disciplinary and project-level differences in file naming and organisation.
     - A slide deck on the practicalities of file management and version control (Resource 1). The instructor can cover information on sorting files, what is good information for file naming, and how to do version control.
 
@@ -198,7 +198,7 @@ LO2: Set up a file structure for data files.
 
 **Input for the presentation &ndash; for instructors:**
 
-1. Kjorveziroski, V. and Buss, M. Unit 3:*The Technical Aspect*s in: Wildgaard, Lorna, og Benjamin Derksen (Ed.):Technical Skills Are the Bridge to Reproducible Research: An Introduction for Data Librarians*.* Zenodo, 27 February 2025. *DOI.org (Datacite)*, <https://doi.org/10.5281/ZENODO.14936647>.
+1. Kjorveziroski, V. and Buss, M. Unit 3: *The Technical Aspects* in: Wildgaard, L., Derksen, B. (Ed.): *Technical Skills Are the Bridge to Reproducible Research: An Introduction for Data Librarians.* Zenodo, 27 Feb. 2025. *DOI.org (Datacite)*, <https://doi.org/10.5281/ZENODO.14936647>.
 
 **Input for the reflection activity (file naming):**
 

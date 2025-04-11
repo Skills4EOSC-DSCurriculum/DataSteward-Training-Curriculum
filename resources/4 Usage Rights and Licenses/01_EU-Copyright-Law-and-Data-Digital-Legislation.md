@@ -38,7 +38,7 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
 
 - **Pre-session activity**: Learners should follow the self-paced online course linked under Resource 1, along with recommended additional and optional reading (at a minimum, Resources 2 and 3).
 - **Recap activity** (30 mins): To test understanding and facilitate retention of the basic knowledge of the topic, the instructor should, along with learners, recap the main points from the self-paced course followed in Resource 1. Some key points to highlight in this activity are mentioned in the Instructor Notes.
-- **Discussion activity** (30 mins): The goal of the discussion is to identify some of the legal issues and laws in learners' own contexts per taining to reuse of data and other research outputs covered by intellectual property rights and data laws. In breakout groups, the following prompt can be used to facilitate the activity:
+- **Discussion activity** (30 mins): The goal of the discussion is to identify some of the legal issues and laws in learners' own contexts per training to reuse of data and other research outputs covered by intellectual property rights and data laws. In breakout groups, the following prompt can be used to facilitate the activity:
     - Does regulating access and control to publications and data **facilitate** or **harm** the progress of science?
     - Example sub-questions:
         - Is there a difference between copyright and Data and Digital Legislation in this respect? (Note: this can be used to split the group into two sub-groups to discuss and present their conclusions.)  
