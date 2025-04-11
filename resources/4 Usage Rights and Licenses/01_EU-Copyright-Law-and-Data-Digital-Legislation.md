@@ -84,7 +84,7 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
     - Applicable regimes: from a researcher's perspective, for personal data the key issue is privacy law including the GDPR; for non-personal data, it is mainly copyright.
     - In the EU, works are closed by default &ndash; it is safe to assume they must be either licensed, public domain, or under a limitation/exception to be reused.
     - Irrespective, sui generis protection of databases applies when databases meet the criteria of originality or a substantial investment was made in the obtaining, verification or presentation of the database (in some cases leading to overlapping protection). Exception: databases created by means of sensors or other physical components of connected products and other machine-generated data which are governed by the Data Act. Note: for the "new" data legislative framework there is much less guidance when it comes to practical application than for GDPR or copyright aspects.
-    - Territoriality of copyright: Copyright is territorial and fragmented in the EU &ndash; not benefitting from full harmonisation.
+    - Territoriality of copyright: Copyright is territorial and fragmented in the EU &ndash; not benefiting from full harmonisation.
     - Direct applicability: Digital regulation like the Data Act or the Digital Governance Act benefits from direct applicability &ndash; fragmentation is much less of an issue.
 
 **Discussion activity:**
