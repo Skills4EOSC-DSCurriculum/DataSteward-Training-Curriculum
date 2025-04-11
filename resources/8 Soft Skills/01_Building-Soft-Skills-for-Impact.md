@@ -38,8 +38,8 @@ LO1: Identify the main soft skills required by the data steward.
 ### Learning Activities
 
 - **Presentation or video** (10 mins): Introduction to soft skills: Definition of soft skills and distinction with hard skills.
-- **Self-assessment and discussion** (25 min): The learners can complete a self-assessment questionnaire on key soft skills and reflect on their strengths and what they need to develop further.
-- **Discussion** (20 min): In groups, identify the major challenges facing data stewards to meet the needs of data and research support and the soft skills needed to address them.
+- **Self-assessment and discussion** (25 mins): The learners can complete a self-assessment questionnaire on key soft skills and reflect on their strengths and what they need to develop further.
+- **Discussion** (20 mins): In groups, identify the major challenges facing data stewards to meet the needs of data and research support and the soft skills needed to address them.
 
 
 ### Materials to Prepare

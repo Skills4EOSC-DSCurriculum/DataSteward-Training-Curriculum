@@ -107,8 +107,8 @@ LO3: Identify actions necessary for teamwork in a network.
 
 ### Learning Activities
 
-- **Brainstorming activity** (10 min): How to recognise effective team collaboration (what makes network/collaboration run smoothly): a common goal, clearly expressed needs, member involvement, co-creation and collaboration, the ability to adapt to new ideas, respecting and paying attention to others, encouraging exchanges through convivial moments, highlighting positive results, trusting each other's work.
-- **Group activity** (30 min): Form groups to brainstorm on what are the main tasks/roles and qualities of a good network coordinator. The whole session then gets together to share their ideas.  
+- **Brainstorming activity** (10 mins): How to recognise effective team collaboration (what makes network/collaboration run smoothly): a common goal, clearly expressed needs, member involvement, co-creation and collaboration, the ability to adapt to new ideas, respecting and paying attention to others, encouraging exchanges through convivial moments, highlighting positive results, trusting each other's work.
+- **Group activity** (30 mins): Form groups to brainstorm on what are the main tasks/roles and qualities of a good network coordinator. The whole session then gets together to share their ideas.  
   **Summarise**: Guide or check list of the best behaviours to adopt as a network or working group coordinator (listening, encouraging exchanges through conviviality, highlighting positive results, making information easily accessible, fostering a collaborative environment).
 
 

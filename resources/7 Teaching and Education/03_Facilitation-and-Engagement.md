@@ -39,7 +39,7 @@ LO1: Define the skills needed to be a good facilitator.
 ### Learning Activities
 
 - **Activity** (15 mins): What makes a good facilitator? Ask participants to think about a time they had a good facilitator in class, workshop, training etc. and list some of these qualities of a good facilitator.
-- **Presentation** (15 min): Introduce good facilitation skills and the role of the trainer in the training.
+- **Presentation** (15 mins): Introduce good facilitation skills and the role of the trainer in the training.
 
 
 ### Materials to Prepare
@@ -75,8 +75,8 @@ LO2: Summarise the key aspects of learner engagement and the role of the trainer
 
 ### Learning Activities
 
-- **Presentation** (10 min): Discuss different ways to engage learners. The presentation can also discuss briefly how adults learn and how to keep them motivated.
-- **Group work** (15 min): Ask learners to identify one or two topics that they will be training on. In pairs, ask them to discuss how they will keep participants engaged with the topic.
+- **Presentation** (10 mins): Discuss different ways to engage learners. The presentation can also discuss briefly how adults learn and how to keep them motivated.
+- **Group work** (15 mins): Ask learners to identify one or two topics that they will be training on. In pairs, ask them to discuss how they will keep participants engaged with the topic.
 
 
 ### Materials to Prepare

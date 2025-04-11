@@ -36,7 +36,7 @@ LO1: Recognise the challenges in balancing the objectives of Open Science and th
 
 ### Learning Activities
 
-- **Lecture with slides** (20 min): The lecture will focus on the different aspects to consider when considering the benefits of open science (Information security, dual use, archiving law, GDPR, and so on).
+- **Lecture with slides** (20 mins): The lecture will focus on the different aspects to consider when considering the benefits of open science (Information security, dual use, archiving law, GDPR, and so on).
 - **Discussion activity** (40 mins): This activity will require some pre-reading on the part of the learners.The activity aims to let learners acquaint themselves with the resources in greater detail and have a discussion on the different aspects of real life obligations and restrictions, and strategies to overcome this.
     - The objective of this activity is to explore and understand the complexities institutions face in balancing the goals of Open Science with real-life data management obligations and restrictions.
     - Plan for group discussion:
