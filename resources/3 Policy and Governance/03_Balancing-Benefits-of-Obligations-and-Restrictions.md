@@ -112,7 +112,7 @@ GDPR:
 
 Stakeholders:
 
-9. Video: ELIXIR CONVERGE - The why of research data management. <https://youtu.be/S7HfUe1hWcg?si=g0-M15UlBeH-Ii5B>.  
+9. Video: ELIXIR CONVERGE - The why of research data management. <https://www.youtube.com/watch?v=S7HfUe1hWcg>.  
    An overview of what the data steward will instruct the researcher on throughout the data life cycle and who the relevant stakeholders are and security considerations.
 
 **Additional material as input for instructors for ideas/inspiration:**
