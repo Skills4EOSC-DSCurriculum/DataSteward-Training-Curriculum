@@ -362,7 +362,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
     **How to conduct the activity:**
 
-    1. Divide students into small groups where the learners take on the role of a data steward and have to advise on the following aspects of the project:
+    1. Divide learners into small groups where the learners take on the role of a data steward and have to advise on the following aspects of the project:
         - Create a file organisation plan and a naming convention.
         - Selection of appropriate file formats (open vs. closed) and rationale for the choice.
         - Steps for converting closed formats to open formats.
