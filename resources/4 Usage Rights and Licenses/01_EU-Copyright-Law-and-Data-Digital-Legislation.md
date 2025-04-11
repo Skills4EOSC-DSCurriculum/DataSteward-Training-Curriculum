@@ -44,7 +44,7 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
         - Is there a difference between copyright and Data and Digital Legislation in this respect? (Note: this can be used to split the group into two sub-groups to discuss and present their conclusions.)  
           Suggestions: Consider protection of authors' interests under copyright (also: commercial publishing practices taking away their copyrights), the transaction costs related to licensing in a transnational environment, and the risks of Data and Digital Legislation being new legislation with not enough literature to ensure legal certainty.
         - When is Open Science **not** the answer? What are the drawbacks of Open Science?  
-          Suggestions: Consider lost anonymity of review (in Open Review), lost authorship, misuse of personal data by scientific institutions or third parties, disruption of privacy, and data utilisation for harmful or ethically/religiously unacceptable research -- see Lakomy et al. (2019), Resource 7.
+          Suggestions: Consider lost anonymity of review (in Open Review), lost authorship, misuse of personal data by scientific institutions or third parties, disruption of privacy, and data utilisation for harmful or ethically/religiously unacceptable research &ndash; see Lakomy et al. (2019), Resource 7.
 
 
 ### Materials to Prepare
@@ -82,10 +82,10 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
 
 - In preparation for the live session, learners are expected to follow the online course to gain a basic understanding of the concepts covered in this module. These include:
     - Applicable regimes: from a researcher's perspective, for personal data the key issue is privacy law including the GDPR; for non-personal data, it is mainly copyright.
-    - In the EU, works are closed by default -- it is safe to assume they must be either licensed, public domain, or under a limitation/exception to be reused.
+    - In the EU, works are closed by default &ndash; it is safe to assume they must be either licensed, public domain, or under a limitation/exception to be reused.
     - Irrespective, sui generis protection of databases applies when databases meet the criteria of originality or a substantial investment was made in the obtaining, verification or presentation of the database (in some cases leading to overlapping protection). Exception: databases created by means of sensors or other physical components of connected products and other machine-generated data which are governed by the Data Act. Note: for the "new" data legislative framework there is much less guidance when it comes to practical application than for GDPR or copyright aspects.
-    - Territoriality of copyright: Copyright is territorial and fragmented in the EU - not benefitting from full harmonisation.
-    - Direct applicability: Digital regulation like the Data Act or the Digital Governance Act benefits from direct applicability -- fragmentation is much less of an issue.
+    - Territoriality of copyright: Copyright is territorial and fragmented in the EU &ndash; not benefitting from full harmonisation.
+    - Direct applicability: Digital regulation like the Data Act or the Digital Governance Act benefits from direct applicability &ndash; fragmentation is much less of an issue.
 
 **Discussion activity:**
 

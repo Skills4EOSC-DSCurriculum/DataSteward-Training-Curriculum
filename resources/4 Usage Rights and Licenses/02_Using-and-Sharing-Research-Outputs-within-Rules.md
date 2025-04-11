@@ -36,8 +36,8 @@ LO1: Identify potential opportunities and obligations related to the use and sha
 
 ### Learning Activities
 
-- **Slide presentation/lecture** (45-60mins): The goal of the lecture is to give data stewards an overview of issues within a multi-layered rules framework, such as licensing of research outputs, publication policies of journals, potential effects of publishing research output, and adjudicating between different licences. The instructor can consult or reuse slides prepared as part of Resource 9, a more in-depth learning path on open licensing.
-- **Discussion Activity** (30 mins): In pairs, learners should reflect on the following scenario --- a researcher approaches the data steward with a research article and related dataset that they would like to share in a journal. What advice could you give them on the following points:
+- **Slide presentation/lecture** (45&ndash;60mins): The goal of the lecture is to give data stewards an overview of issues within a multi-layered rules framework, such as licensing of research outputs, publication policies of journals, potential effects of publishing research output, and adjudicating between different licences. The instructor can consult or reuse slides prepared as part of Resource 9, a more in-depth learning path on open licensing.
+- **Discussion Activity** (30 mins): In pairs, learners should reflect on the following scenario: A researcher approaches the data steward with a research article and related dataset that they would like to share in a journal. What advice could you give them on the following points:
     - Why they should share and license their data.
     - What different licence types are available and the implications of each.
     - The benefits (or not) of using open licences.
@@ -67,7 +67,7 @@ LO1: Identify potential opportunities and obligations related to the use and sha
     - What are the requirements of the journal?
     - What are the policies in their home institutions?
     - What kind of data (personal data, sensitive data, dual use, and so on) is in the dataset and how would that impact the licences being applied?
-    - What is the goal of the researcher in sharing their data --- how do they envision it being reused?
+    - What is the goal of the researcher in sharing their data? How do they envision it being reused?
     - When should data not be shared?
 
 **Additional materials:**
