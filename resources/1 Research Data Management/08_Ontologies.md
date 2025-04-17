@@ -72,7 +72,7 @@ LO1: Explain the concept of ontologies.
 
     **Search for an ontology:**
 
-    Visit an Ontology Repository that aligns with your interests, e.g. [BioPortal](bioportal.bioontology.org). Use the search bar to find an ontology related to a topic you care about. For example, you could search for "environment", "microbiology", "climate", "cancer", etc. BioPortal will show ontologies that have terms matching your query.
+    Visit an Ontology Repository that aligns with your interests, e.g. [BioPortal](https://bioportal.bioontology.org). Use the search bar to find an ontology related to a topic you care about. For example, you could search for "environment", "microbiology", "climate", "cancer", etc. BioPortal will show ontologies that have terms matching your query.
 
     **Investigate an Ontology:**
 
