@@ -208,7 +208,7 @@ LO2: Set up a file structure for data files.
 **Input for the reflection activity (file naming):**
 
 2. 'Collecting and Organizing Data'. *Universiteit Gent*. <https://www.ugent.be/en/research/openscience/datamanagement/during-research/collection.htm>. Accessed 24 Mar. 2025.
-3. Wildgaard, L. and Larsen, A.V. Save your data well - how to save data and find them again" *Copenhagen University*. <https://absalon.ku.dk/courses/70701/pages/save-your-data-well-how-to-save-data-and-find-them-again?module_item_id=2053460>. Accessed 24. Mar. 2025.
+3. Wildgaard, L. and Larsen, A.V. Save your data well - how to save data and find them again" *Copenhagen University*. <https://absalon.ku.dk/courses/75146/pages/save-your-data-well-how-to-save-data-and-find-them-again?module_item_id=2328627>. Accessed 24. Mar. 2025.
 4. *OSF*. How to name a file. <https://osf.io/dpu45/>. Accessed 24 Mar. 2025.
 5. Briney, Kristin A. File Naming Convention Worksheet. California Institute of Technology, 2 Jun. 2020. <https://doi.org/10.7907/894Q-ZR22>.
 
