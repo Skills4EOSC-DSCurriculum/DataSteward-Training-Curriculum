@@ -5,6 +5,7 @@ tags:
     - Skills4EOSC
     - DataStewardship
     - Curriculum
+    - Transversal Skills
     - Soft Skills
 ---
 
@@ -18,7 +19,7 @@ tags:
 
 ## Overall purpose of the section
 
-This section aims to help develop soft skills that will form the basis of mediation, communication, networking and support work of the data steward. Through skill development, the data steward will be able to create links between researchers, computer scientists, archivists and other contributors, to get people working together towards a common goal.
+This section aims to help develop transversal or soft skills that will form the basis of mediation, communication, networking and support work of the data steward. Through skill development, the data steward will be able to create links between researchers, computer scientists, archivists and other contributors, to get people working together towards a common goal.
 
 Soft skills are by definition difficult to teach, so much of the material in this section focuses on discussion, role play activities, and prompts to get data stewards thinking about the kinds of soft skills they will be using in their roles, rather than providing definitive instruction. The section should be thought of as a starting point to build awareness about the importance of soft skills in data stewardship.
 

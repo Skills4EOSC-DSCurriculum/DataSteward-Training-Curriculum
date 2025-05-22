@@ -103,6 +103,10 @@ The curriculum comprises the following sections and modules.
 
 | **Sections**                      | **Modules**                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------|
+| **Training Skills**               | Module 1: Lesson Development                                                                         |
+|                                   | Module 2: Licensing and Copyright of Educational Materials                                           |
+|                                   | Module 3: Facilitation and Engagement                                                                |
+|                                   |                                                                                                      |
 | **Research Data Management**      | Module 1: FAIR Data                                                                                  |
 |                                   | Module 2: Data Documentation and Storage                                                             |
 |                                   | Module 3: Data Organisation and File Formats                                                         |
@@ -133,11 +137,7 @@ The curriculum comprises the following sections and modules.
 | **Personal Data and GDPR**        | Module 1: Strategies for Handling Personal Data                                                      |
 |                                   | Module 2: GDPR and Other Applicable Regulations on Privacy                                           |
 |                                   |                                                                                                      |
-| **Teaching and Education**        | Module 1: Lesson Development                                                                         |
-|                                   | Module 2: Licensing and Copyright of Educational Materials                                           |
-|                                   | Module 3: Facilitation and Engagement                                                                |
-|                                   |                                                                                                      |
-| **Soft Skills**                   | Module 1: Advocacy &ndash; Building Soft Skills for Impact                                           |
+| **Transversal or Soft Skills**    | Module 1: Advocacy &ndash; Building Soft Skills for Impact                                           |
 |                                   | Module 2: Mediation and Community &ndash; Liaison and Networking                                     |
 |                                   | Module 3: Efficient Communication (Written, Verbal and Visual)                                       |
 
