@@ -1,0 +1,2321 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="Skills4EOSC T4.1">
+      
+      
+      
+        <link rel="prev" href="../06_Data-Sharing-and-Publication/">
+      
+      
+        <link rel="next" href="../08_Ontologies/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.11">
+    
+  
+    <meta name="title" content="Module 7: Metadata"/>
+  
+  
+    <meta name="tags" content="['Skills4EOSC', 'DataStewardship', 'Curriculum', 'Research Data Management', 'RDM', 'Metadata']"/>
+  
+
+    
+      
+        <title>Module 7: Metadata - DataSteward Training Curriculum</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.4af4bdda.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        
+        <link rel="stylesheet" href="../../assets/external/fonts.googleapis.com/css.49ea35f2.css">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#module-7-metadata" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-color-scheme="default" data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="DataSteward Training Curriculum" class="md-header__button md-logo" aria-label="DataSteward Training Curriculum" data-md-component="logo">
+      
+  <img src="../../attachments/logo-white.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DataSteward Training Curriculum
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Module 7: Metadata
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="DataSteward Training Curriculum" class="md-nav__button md-logo" aria-label="DataSteward Training Curriculum" data-md-component="logo">
+      
+  <img src="../../attachments/logo-white.png" alt="logo">
+
+    </a>
+    DataSteward Training Curriculum
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Guide for Instructors: Skills4EOSC Data Steward Curriculum
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    1 Training Skills
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            1 Training Skills
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1%20Training%20Skills/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1%20Training%20Skills/01_Lesson-Development/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Lesson Development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1%20Training%20Skills/02_Licensing-and-Copyright-of-Educational-Materials/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Licensing and Copyright of Educational Materials
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1%20Training%20Skills/03_Facilitation-and-Engagement/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Facilitation and Engagement
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    2 Research Data Management
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            2 Research Data Management
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01_FAIR-Data/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: FAIR Data
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02_Data-Documentation-and-Storage/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Data Documentation and Storage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03_Data-Organisation-and-File-Formats/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Data Organisation and File Formats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04_Data-Curation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 4: Data Curation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../05_Data-Preservation-and-Archiving/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 5: Data Preservation and Archiving
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../06_Data-Sharing-and-Publication/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 6: Data Sharing and Publication
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Module 7: Metadata
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 7: Metadata
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objectives
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#total-duration" class="md-nav__link">
+    <span class="md-ellipsis">
+      Total Duration
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 1
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 2
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 3
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 3">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 4
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 4">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../08_Ontologies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 8: Ontologies
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../09_Data-Management-Plans/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 9: Data Management Plans
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    3 Research Software Management
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            3 Research Software Management
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3%20Research%20Software%20Management/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3%20Research%20Software%20Management/01_What-is-Research-Software/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: What is Research Software?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3%20Research%20Software%20Management/02_FAIR-software/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: FAIR Software
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3%20Research%20Software%20Management/03_Software-Management-Plans/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Software Management Plans
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3%20Research%20Software%20Management/04_Software-Development-Practices/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 4: Software Development Practices
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3%20Research%20Software%20Management/05_Software-Sharing-Practices/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 5: Software Sharing Practices
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    4 Policy and Governance
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            4 Policy and Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4%20Policy%20and%20Governance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4%20Policy%20and%20Governance/01_Awareness-of-Policies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Awareness of National/Institutional Policies on RDM, Open Science
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4%20Policy%20and%20Governance/02_Translating-Institutional-Policy-to-Strategy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Translating Institutional Data and Software Policy to Strategy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4%20Policy%20and%20Governance/03_Balancing-Benefits-of-Obligations-and-Restrictions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Balancing Benefits of Open Science and Real-Life Data Related Obligations and Restrictions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    5 Usage Rights and Licenses
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            5 Usage Rights and Licenses
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5%20Usage%20Rights%20and%20Licenses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5%20Usage%20Rights%20and%20Licenses/01_EU-Copyright-Law-and-Data-Digital-Legislation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Getting Familiar with the EU Copyright Law and Data and Digital Legislation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5%20Usage%20Rights%20and%20Licenses/02_Using-and-Sharing-Research-Outputs-within-Rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Using and Sharing Research Outputs within a Multi-Layered Rules Framework
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5%20Usage%20Rights%20and%20Licenses/03_Commercialisation-Assessments-in-EU-Projects/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Commercialisation Assessments in EU Projects
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    6 Ethics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            6 Ethics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6%20Ethics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6%20Ethics/01_Understanding-Research-Integrity/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Understanding Research Integrity
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6%20Ethics/02_Ethical-Guidelines-and-Legislation-Relevant-to-Research/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Ethical Guidelines and Legislation Relevant to Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    7 Personal Data and GDPR
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            7 Personal Data and GDPR
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7%20Personal%20Data%20and%20GDPR/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7%20Personal%20Data%20and%20GDPR/01_Strategies-for-Handling-Personal-Data/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Strategies for Handling Personal Data
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7%20Personal%20Data%20and%20GDPR/02_GDPR-and-Other-Applicable-Regulations-on-Privacy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: GDPR and Other Applicable Regulations on Privacy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    8 Transversal or Soft Skills
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            8 Transversal or Soft Skills
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../8%20Transversal%20or%20Soft%20Skills/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../8%20Transversal%20or%20Soft%20Skills/01_Building-Soft-Skills-for-Impact/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Advocacy &ndash; Building Soft Skills for Impact
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../8%20Transversal%20or%20Soft%20Skills/02_Mediation-and-Community-Liaison-and-Networking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Mediation and Community &ndash; Liaison and Networking
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../8%20Transversal%20or%20Soft%20Skills/03_Efficient-Communication-Written-Verbal-and-Visual/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Efficient Communication (Written, Verbal and Visual)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objectives
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#total-duration" class="md-nav__link">
+    <span class="md-ellipsis">
+      Total Duration
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 1
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 2
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 3
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 3">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-objective-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Objective 4
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning Objective 4">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#learning-activities_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Learning Activities
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#materials-to-prepare_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Materials to Prepare
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#instructor-notes_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Instructor Notes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resources_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  <nav class="md-tags" >
+    
+      
+      
+      
+        <span class="md-tag">Curriculum</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">DataStewardship</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">Metadata</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">RDM</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">Research Data Management</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">Skills4EOSC</span>
+      
+    
+  </nav>
+
+
+
+<h1 id="module-7-metadata">Module 7: Metadata</h1>
+<div class="admonition warning">
+<p class="admonition-title">This page is currently under construction</p>
+<p><strong>The training curriculum is currently undergoing final revisions and quality checks.</strong>
+<strong>All materials will be released shortly.</strong>
+<strong>Until the official release, please refrain from using, distributing, or implementing any part of these resources.</strong></p>
+</div>
+<h2 id="learning-objectives">Learning Objectives</h2>
+<ul>
+<li><strong>Learning Objective 1 (LO1):</strong> Summarise and present the definition, history and applications of metadata.</li>
+<li><strong>Learning Objective 2 (LO2):</strong> Criticise and appraise the quality of descriptive metadata records.</li>
+<li><strong>Learning Objective 3 (LO3):</strong> Describe the applications of structural metadata.</li>
+<li><strong>Learning Objective 4 (LO4):</strong> Identify the applications of administrative metadata.</li>
+</ul>
+<h2 id="total-duration">Total Duration</h2>
+<p>8 hours 10 minutes</p>
+<h2 id="learning-objective-1">Learning Objective 1</h2>
+<p>LO1: Summarise and present the definition, history and applications of metadata.</p>
+<h3 id="learning-activities">Learning Activities</h3>
+<ul>
+<li><strong>Lecture</strong> (45 mins): The lecture can focus on defining metadata (suggestion to use Pommerantz 2015, Resource 6). History of Metadata can be covered, from ancient libraries to the present. Additionally the lecture can cover metadata types in the context of data stewardship; Descriptive, Structural, Administrative and Metadata in everyday life, in the news.</li>
+<li><strong>Discussion</strong> (90 mins): Discussion about the metadata used in the Edward Snowden case (Resources 8, 9). What does the metadata reveal? How can different bits of metadata contribute to a broader picture of meaning? How does it "tell a story" or realise something that could be relayed with semantic meaning? The instructor can also choose another news source.</li>
+</ul>
+<h3 id="materials-to-prepare">Materials to Prepare</h3>
+<ul>
+<li>Lecture slides to be drawn from material in Resources 4&ndash;7.</li>
+<li>Facilitate discussion by presenting the Edward Snowden case or another news source and broad points about the Snowden leaks to guide the conversation.</li>
+</ul>
+<h3 id="instructor-notes">Instructor Notes</h3>
+<p><strong>Lecture:</strong></p>
+<ul>
+<li>Metadata is a key tool in everyday life &ndash; metadata is a kind of infrastructure, it becomes visible upon breakdown.</li>
+<li>Go through the types of metadata and highlight their use in a data stewardship context. Outline the importance of descriptive, structural, and administrative metadata, and how they intersect with the work of data stewards, both as data curators in repositories but also as consultants on projects.</li>
+<li>Metadata is a crucial part of not only Findability but all elements of the FAIR principles.</li>
+<li>Relay the history of metadata from early libraries through the structuring of digital technologies. See Gartner 2016 and Pommerantz 2015 (Resources 6, 7) for excellent summaries on this topic.</li>
+<li>Highlight a few instances of metadata as a tool that enables our digital lifestyles.</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>The goal of the discussion is to engage with a real case (Resources 8, 9) and have the learners discuss this with their understanding of metadata from the lecture. The instructor can ask the learners to consider the questions either through group discussions or alone. Drive the point in the discussion that labels are important in giving order/meaning/or even a story (like who you are and what you are doing through your phone metadata) its structure and description.</li>
+</ul>
+<h3 id="resources">Resources</h3>
+<ol>
+<li>"Metadata MOOC". YouTube. <a href="http://www.youtube.com/playlist?list=PLkp3pG2Rd3yqfIn313V32fXG4nng9Tb-H" rel="noopener" target="_blank">http://www.youtube.com/playlist?list=PLkp3pG2Rd3yqfIn313V32fXG4nng9Tb-H</a>. Accessed 28. Mar. 2025.</li>
+<li>Architecture for Information in Digital Libraries. 27. Mar. 2017. <a href="https://web.archive.org/web/20170327015501/http://www.dlib.org/dlib/february97/cnri/02arms1.html" rel="noopener" target="_blank">https://web.archive.org/web/20170327015501/http://www.dlib.org/dlib/february97/cnri/02arms1.html</a>.</li>
+<li>Peralta, Eyder. "U.S. Appeals Court Overturns Decision That NSA Metadata Collection Was Illegal". NPR, 28. Aug. 2015. NPR. <a href="https://www.npr.org/sections/thetwo-way/2015/08/28/435506021/u-s-appeals-court-overturns-decision-that-nsa-metadata-collection-was-illegal" rel="noopener" target="_blank">https://www.npr.org/sections/thetwo-way/2015/08/28/435506021/u-s-appeals-court-overturns-decision-that-nsa-metadata-collection-was-illegal</a>.</li>
+<li>DDI Training Group. DDI Basics: What Is Metadata? Aug. 2021. DOI.org (Datacite). <a href="https://doi.org/10.5281/ZENODO.5180481" rel="noopener" target="_blank">https://doi.org/10.5281/ZENODO.5180481</a>.</li>
+<li>DDI Training Group. Understanding Metadata. Aug. 2024. DOI.org (Datacite). <a href="https://doi.org/10.5281/ZENODO.13310567" rel="noopener" target="_blank">https://doi.org/10.5281/ZENODO.13310567</a>.</li>
+<li>Pomerantz, Jeffrey. Metadata. The MIT Press, 2015. DOI.org (Crossref), <a href="https://doi.org/10.7551/mitpress/10237.001.0001" rel="noopener" target="_blank">https://doi.org/10.7551/mitpress/10237.001.0001</a>.</li>
+<li>Gartner, Richard. Metadata. Springer International Publishing, 2016. DOI.org (Crossref), <a href="https://doi.org/10.1007/978-3-319-40893-4" rel="noopener" target="_blank">https://doi.org/10.1007/978-3-319-40893-4</a>.</li>
+<li>MacAskill, Ewen, et al. "NSA Files Decoded: Edward Snowden's Surveillance Revelations Explained." The Guardian, 1 Nov. 2013. <a href="https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded" rel="noopener" target="_blank">https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded</a>.</li>
+<li>"The Secret Things You Give Away through Your Phone Metadata". PBS News, 2. Jun. 2016. <a href="https://www.pbs.org/newshour/science/your-phone-metadata-is-more-revealing-than-you-think" rel="noopener" target="_blank">https://www.pbs.org/newshour/science/your-phone-metadata-is-more-revealing-than-you-think</a>.</li>
+</ol>
+<h2 id="learning-objective-2">Learning Objective 2</h2>
+<p>LO2: Criticise and appraise the quality of descriptive metadata records.</p>
+<h3 id="learning-activities_1">Learning Activities</h3>
+<ul>
+<li><strong>Lecture</strong> (45 mins): The instructor can cover the following: Key-Value Pairs, Dublin Core elements and the introduction to descriptive schemes, Metadata record, Thesauri, controlled vocabularies and classification: how to gather and disambiguate records by their attribute, data repositories, knowledge (records) organisation, Domains and cross-domain integration (Data Documentation Initiative, DDI), Descriptive metadata within data files (further coverage in structural metadata Learning Objective), connection to ontologies and linked data (in the Ontologies Module of this curriculum), the semantic triple and a brief view of the future.</li>
+<li><strong>Metadata scavenger hunt part 1</strong> (100 mins): Look in a library catalogue or bibliographic database and analyse the contents of one or two records in groups, to be taken up as a group. Points of interest could be how a search engine produced a particular result, which can point to issues with weighting in such a search. Consider how tags and descriptive metadata enable findability. A twist of this can be done on a platform that allows for folksonomies. If time allows, this scavenger hunt could compare and contrast records that use authority files and folksonomic tagging.</li>
+</ul>
+<h3 id="materials-to-prepare_1">Materials to Prepare</h3>
+<ul>
+<li>Lecture on descriptive metadata.</li>
+<li>Prepare a physical or online scavenger hunt.</li>
+</ul>
+<h3 id="instructor-notes_1">Instructor Notes</h3>
+<p><strong>Lecture:</strong></p>
+<ul>
+<li>Key-Value Pairs are a simple but flexible way to represent an object. Touch briefly on the various formats, highlighting JSON and XML.</li>
+<li>Present Dublin Core as the foundation for contemporary description. If the instructor is comfortable, they can refer to Ontologies and the RDA format as next technological steps in the domain of descriptive metadata.</li>
+<li>Cover how thesauri and authority files help to disambiguate terms that might otherwise semantically overlap and how this enables searching and systems of knowledge organisation.</li>
+<li>Different data repositories enable and hinder data discovery in various ways &ndash; consider how metadata interacts with these, and what best practices might improve this. This does need to be terribly technical, but the instructor can draw attention to how data discover is largely contingent on relatively simple search wizards that parse complex metadata representations.</li>
+</ul>
+<p><strong>Metadata scavenger hunt part 1:</strong></p>
+<ul>
+<li>This practical exercise will help learners analyse the contents of a database and allow them to appraise the quality of the records.</li>
+</ul>
+<h3 id="resources_1">Resources</h3>
+<ol>
+<li>Alemu, Getaneh. "Metadata Standards and Models". Encyclopedia of Libraries, Librarianship, and Information Science, Elsevier, 2025, s. 532--45. DOI.org (Crossref), <a href="https://doi.org/10.1016/B978-0-323-95689-5.00035-3" rel="noopener" target="_blank">https://doi.org/10.1016/B978-0-323-95689-5.00035-3</a>.</li>
+<li>Mayernik, Matthew. metadata. 2020. <a href="https://www.isko.org/cyclo/metadata#3.2" rel="noopener" target="_blank">https://www.isko.org/cyclo/metadata#3.2</a>.</li>
+<li>Biagetti, Maria Teresa. Ontologies (as knowledge organization systems). 2020. <a href="https://www.isko.org/cyclo/ontologies" rel="noopener" target="_blank">https://www.isko.org/cyclo/ontologies</a>.</li>
+<li>Rafferty, Pauline. Tagging 2018. <a href="https://www.isko.org/cyclo/tagging" rel="noopener" target="_blank">https://www.isko.org/cyclo/tagging</a>.</li>
+<li>DDI Training Group. Representations -- Codes and Categories. Aug. 2021. DOI.org (Datacite). <a href="https://doi.org/10.5281/ZENODO.5180593" rel="noopener" target="_blank">https://doi.org/10.5281/ZENODO.5180593</a>.</li>
+<li>DDI Training Group. Foundational DDI Metadata: Unit, Unit Type, Universe, and Population. Feb. 2024. DOI.org (Datacite). <a href="https://doi.org/10.5281/ZENODO.10659410" rel="noopener" target="_blank">https://doi.org/10.5281/ZENODO.10659410</a>.</li>
+<li>DDI-CDI. <a href="https://ddialliance.org/ddi-cdi" rel="noopener" target="_blank">https://ddialliance.org/ddi-cdi</a>. Accessed 28. Mar. 2025.</li>
+<li>"Ddi-Cdi/README.Rst at Main -- Ddi-Cdi/Ddi-Cdi". GitHub. <a href="https://github.com/ddi-cdi/ddi-cdi/blob/main/README.rst" rel="noopener" target="_blank">https://github.com/ddi-cdi/ddi-cdi/blob/main/README.rst</a>. Accessed 28. Mar. 2025.</li>
+<li>RDF 1.1 Primer. <a href="https://www.w3.org/TR/rdf11-primer/#section-triple" rel="noopener" target="_blank">https://www.w3.org/TR/rdf11-primer/#section-triple</a>. Accessed 28. Mar. 2025.</li>
+</ol>
+<h2 id="learning-objective-3">Learning Objective 3</h2>
+<p>LO3: Describe the applications of structural metadata.</p>
+<h3 id="learning-activities_2">Learning Activities</h3>
+<ul>
+<li><strong>Lecture</strong> (90 mins): Give a walk-through of a survey data file online. How does descriptive and structural metadata make it meaningful? The instructor can facilitate learners to discuss how this is achieved or not.</li>
+</ul>
+<h3 id="materials-to-prepare_2">Materials to Prepare</h3>
+<ul>
+<li>Slides based on the content of the instructor notes.</li>
+<li>An example of a survey dataset that the instructor is familiar with.</li>
+</ul>
+<h3 id="instructor-notes_2">Instructor Notes</h3>
+<p><strong>Lecture:</strong></p>
+<ul>
+<li>The lecture can cover the following:<ul>
+<li>variables and relationships &ndash; structuring datasets,</li>
+<li>question texts and documentation (Social sciences),</li>
+<li>studies, datasets, data files &ndash; meaningful descriptions for data's structure,</li>
+<li>databases, and</li>
+<li>data preservation.</li>
+</ul>
+</li>
+<li>Discuss how metadata works within a dataset. Materials from this curriculum from the modules on Data Documentation and Storage, and FAIR data can also be reused here.</li>
+<li>Discuss how metadata structures datasets: Question texts, variables, and relationships can be used and applied to datasets.</li>
+<li>Draw attention to how these metadata enable longer term preservation of data.</li>
+</ul>
+<h3 id="resources_2">Resources</h3>
+<p><strong>Lecture:</strong></p>
+<ol>
+<li>DDI Training Group. Variables and the Variable Cascade. Aug. 2021. DOI.org (Datacite). <a href="https://doi.org/10.5281/ZENODO.5180568" rel="noopener" target="_blank">https://doi.org/10.5281/ZENODO.5180568</a>.</li>
+<li>DDI Training Group. Questions. Aug. 2021. DOI.org (Datacite). <a href="https://doi.org/10.5281/ZENODO.5180575" rel="noopener" target="_blank">https://doi.org/10.5281/ZENODO.5180575</a>.</li>
+<li>Backe, Christian, m.fl. Creating Rich Metadata for Collaborative Research: Case Studies and Challenges. Sep. 2023. DOI.org (Datacite). <a href="https://doi.org/10.5281/ZENODO.8430753" rel="noopener" target="_blank">https://doi.org/10.5281/ZENODO.8430753</a>.</li>
+<li>Library of Congress. Metadata Encoding and Transmission Standard: Primer and Reference Manual. 2010. <a href="https://www.loc.gov/standards/mets/METSPrimer.pdf" rel="noopener" target="_blank">https://www.loc.gov/standards/mets/METSPrimer.pdf</a>.</li>
+</ol>
+<h2 id="learning-objective-4">Learning Objective 4</h2>
+<p>LO4: Identify the applications of administrative metadata.</p>
+<h3 id="learning-activities_3">Learning Activities</h3>
+<ul>
+<li><strong>Lecture</strong> (30 mins): The lecture can focus on file format metadata, Data formats and versioning, Access rights (for example, Copyright, Creative Commons) and representing and implementing GDPR with respect to sensitive data.</li>
+<li><strong>Metadata scavenger hunt part 2</strong> (90 mins): Go to data repository and walk through its administrative and structural metadata.</li>
+</ul>
+<h3 id="materials-to-prepare_3">Materials to Prepare</h3>
+<ul>
+<li>Slides on administrative metadata based on the content of the instructor notes.</li>
+<li>Have a data repository ready for the scavenger hunt.</li>
+</ul>
+<h3 id="instructor-notes_3">Instructor Notes</h3>
+<p><strong>Lecture:</strong></p>
+<ul>
+<li>Discuss legal and rights metadata. This need not be a comprehensive account. Just that these metadata are a requirement in many representations of digital objects. Point towards the difference between Open and Closed licenses, and how these terms decide how one can interact and use an object.</li>
+<li>Dating and Versioning metadata can be ways to enable reproducibility. Highlight how various pieces of software and systems, such as GitHub, represent through metadata changes made to a given dataset.</li>
+<li>Talk about file format metadata, and how description can help guide a potential re-user of data through a metadata record about it.</li>
+</ul>
+<h3 id="resources_3">Resources</h3>
+<p><strong>Lecture:</strong></p>
+<ol>
+<li>Wildgaard, L., et al. Open Licenses for Data, Software and Code. 1.0.0, Zenodo. <a href="https://doi.org/10.5281/zenodo.12703494" rel="noopener" target="_blank">https://doi.org/10.5281/zenodo.12703494</a>.</li>
+<li>Creative commons license chooser <a href="https://chooser-beta.creativecommons.org/" rel="noopener" target="_blank">https://chooser-beta.creativecommons.org/</a>.</li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  
+  
+  <nav class="md-footer__inner md-grid" aria-label="Footer" >
+    
+    
+    <a href="../06_Data-Sharing-and-Publication/" class="md-footer__link md-footer__link--prev"
+      aria-label="Previous: Module 6: Data Sharing and Publication" rel="prev">
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </div>
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Previous
+        </span>
+        <div class="md-ellipsis">
+          Module 6: Data Sharing and Publication
+        </div>
+      </div>
+    </a>
+    
+    
+    
+    <a href="../08_Ontologies/" class="md-footer__link md-footer__link--next"
+      aria-label="Next: Module 8: Ontologies" rel="next">
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Next
+        </span>
+        <div class="md-ellipsis">
+          Module 8: Ontologies
+        </div>
+      </div>
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+      </div>
+    </a>
+    
+  </nav>
+  
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+      <div style="display: flex; justify-content: space-between; align-items: center">
+      
+        <div class="md-copyright"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="../../assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/a9f9eb58f58a4c39a32609c160ca52922c41fc2a/resources/attachments/cc-by.png"></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+            Attribution 4.0 International License</a>.
+        </div>
+      
+      </div>
+
+    </div>
+    <div class="logos-container" style="display: block; text-align: center;">
+      <img alt="Skills4EOSC Logo" style="max-height:30px" src="../../assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/logo-white.png">
+      <img alt="EOSC Logo" style="height: 30px;" src="../../assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/eosc-logo.png">
+      <img alt="Co-funded by the European Union Logo" style="height: 30px;" src="../../assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/eu-logo.png">
+      <img alt="UK Research and Innovation Logo" style="height: 30px;" src="../../assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/ukri-logo.png">
+    </div>
+    <div class="md-container">
+
+      <div class="cite-example md-copyright">
+        <div class="md-footer-meta__inner md-grid" style="justify-content: center; align-items: center;">
+          Cite as:
+          
+            
+            
+            
+              Surname, First_Name.
+            
+          
+          (2023-10-17). Training Name (1.0.0). 
+          <a href="https://doi.org/10.5072/zenodo.1234567">&nbsp;https://doi.org/10.5072/zenodo.1234567</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "search.highlight", "search.suggest"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../../assets/external/unpkg.com/mermaid@11/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
