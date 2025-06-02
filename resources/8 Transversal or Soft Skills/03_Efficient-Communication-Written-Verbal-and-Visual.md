@@ -26,7 +26,7 @@ tags:
 
 ## Total Module Duration
 
-3 hours
+2 hours 30 minutes
 
 
 ## Learning Objective 1
@@ -37,14 +37,13 @@ LO1: Demonstrate a clear and concise communication style.
 ### Learning Activities
 
 - **Presentation** (45 mins): Brief introduction to why it is important as a data steward to communicate well (teaching activities, relations with policy making bodies, relations with researchers). Present how to make content clear and adapted to the local context. (Resources 1&ndash;5 can be used for source material)
-- **Discussion Activity** (45 mins): Scenario or case study presented to the learners that highlights which communication skills are needed from a Data Steward. Ask the learners to consider: what problem needs to solved, lessons they need to teach, case they need to make, and how they would ideally do it (they write a text, prepare a draft of slides, or some talking points).
+- **Discussion Activity** (45 mins): Scenario or case study presented to the learners that highlights which communication skills are needed from a data steward. Ask the learners to consider: what problem needs to solved, lessons they need to teach, case they need to make, and how they would ideally do it (they write a text, prepare a draft of slides, or some talking points).
 
 ??? info "Example scenarios that can be used"
 
     - The data steward is expected to communicate some good practices regarding the sharing of research data in a repository.
     - The data steward has doubts about the anonymisation of data and must communicate these concerns.
     - The data steward is required to inform scientists of a change in their institution's data policy.
-
 
 
 ### Materials to Prepare
@@ -59,7 +58,7 @@ LO1: Demonstrate a clear and concise communication style.
 
 - The instructor provides an overview of a situation where communication is important and how they could adapt to each situation and audience. The instructor can present what makes content clear, concise and adapted to the context (know your target audience, adapt to the time you have together, to their prior knowledge, to their specific challenges and motivations, know when to redirect them if you don't have the expertise yourself).
 - The trainer can highlight best practices that underpin effective communication. These could be: Create a link with the team adopting the posture of a communicator, elaborate the main message the team should remember, avoid long communications or training sessions.
-- For Data Stewards and researchers alike, it's important to adapt what you say and how you say it to the person you're talking to.
+- For data stewards and researchers alike, it's important to adapt what you say and how you say it to the person you're talking to.
 
 **Discussion Activity:**
 

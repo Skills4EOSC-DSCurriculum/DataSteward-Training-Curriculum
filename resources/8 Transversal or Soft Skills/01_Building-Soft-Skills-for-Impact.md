@@ -27,7 +27,7 @@ tags:
 
 ## Total Module Duration
 
-2.5 hours
+2 hours 15 minutes (without optional activity)
 
 
 ## Learning Objective 1
@@ -53,10 +53,10 @@ LO1: Identify the main soft skills required by the data steward.
 **Presentation:**
 
 - The instructor can start off by defining soft skills (Resources 1 &ndash; 3) or play the video (Resource 4) with the aim to help learners identify and understand the importance of key soft skills necessary to promote open science and good research data management practices and addressing related challenges.
-- The instructor can use the following case study of the Data Management Plan to discuss the role of the Data Steward, challenges that can be faced and associated skills that can be used to address the challenges. This case study can be used as a basis and paired with the Role Play Activity in LO2.
+- The instructor can use the following case study of the Data Management Plan to discuss the role of the data steward, challenges that can be faced and associated skills that can be used to address the challenges. This case study can be used as a basis and paired with the Role Play Activity in LO2.
 - A researcher approaches the data steward (learner) and is reluctant to create a DMP. The data steward must look at different aspects of why a DMP is important and try and make a persuasive case using a mix of their knowledge while also employing key soft skills. Some points and challenges to be considered are:
     - Resistance to drafting the DMP:  
-      Key skills: Persuasion (arguing the benefits of open science and data management based on researchers' interests), empathy (understanding concerns and responding appropriately), communication (explaining the benefits, addressing misunderstandings).
+      Key skills: Empathy (understanding concerns and responding appropriately), communication (explaining the benefits, addressing misunderstandings), persuasion (arguing the benefits of open science and data management based on researchers' interests).
     - Lack of data management and sharing skills (lack of knowledge of FAIR principles):  
       Key skills: Active listening (identifying needs), pedagogy (explaining concepts), collaboration (teamwork).
     - Lack of infrastructure and funding: Insufficient investment in open science and data management platforms, storage spaces, and tools:  
@@ -104,6 +104,7 @@ Once they have finished the self assessment, learners can share back with the gr
 2. What Are Soft Skills? Definition, Importance, and Examples. Investopedia, <https://www.investopedia.com/terms/s/soft-skills.asp>.
 3. Owen, Kelly. What might we mean by soft skills? <https://owenkelly.net/19918/what-might-we-mean-by-soft-skills/>.
 4. Video: What Are Soft Skills and Why Do They Matter? <https://successatschool.org/advice/employability-skills/video-what-are-soft-skills-and-why-do-they-matter/1008>.
+
 
 
 ## Learning Objective 2

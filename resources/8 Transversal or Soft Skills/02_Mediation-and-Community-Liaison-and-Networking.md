@@ -27,7 +27,7 @@ tags:
 
 ## Total Module Duration
 
-2.5 hours
+Approx. 1 hour 50 minutes (without optional activities)
 
 
 ## Learning Objective 1
@@ -54,7 +54,7 @@ LO1: Identify effective ways to develop networking skills and understand their i
 
 - Start with a brainstorm to ask the learners what a network is.
 - In the presentation, define networking and its different aspects, such as developing and maintaining mutually beneficial relationships. Some aspects of networking are: exchanging knowledge, contacts, references, giving advice, support, recommendations, being attentive to the needs of others (identify who in my network could meet the need). Emphasise that networking is above all a question of generosity and attentiveness: you have to give in order to receive. A template such as Resource 2 can help the instructor plan for this presentation OR be shared with learners to start thinking about their network.
-- The instructor can also discuss what the DS should do to participate activity in the network such as: a willingness to seek collaborative solutions to solve problems, a sense of service and support, share information, openness, transparency etc.
+- The instructor can also discuss what the data steward should do to participate activity in the network such as: a willingness to seek collaborative solutions to solve problems, a sense of service and support, share information, openness, transparency etc.
 
 **Optional activity:**
 

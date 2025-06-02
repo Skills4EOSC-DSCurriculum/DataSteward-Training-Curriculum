@@ -23,6 +23,8 @@ This section aims to help develop transversal or soft skills that will form the 
 
 Soft skills are by definition difficult to teach, so much of the material in this section focuses on discussion, role play activities, and prompts to get data stewards thinking about the kinds of soft skills they will be using in their roles, rather than providing definitive instruction. The section should be thought of as a starting point to build awareness about the importance of soft skills in data stewardship.
 
+The term transversal/soft skills are both used here. While transversal aligns with the [ESCO definition](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/transversal-knowledge-skills-and-competences) and also the MVS for data stewards, soft skills is a more well-used and recognisable term, and we have continued to use it for this reason in this section.
+
 This section consists of three modules:
 
 - Module 1: Advocacy &ndash; Building Soft Skills for Impact
