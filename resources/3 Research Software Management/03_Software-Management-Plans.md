@@ -35,22 +35,23 @@ LO1: Describe how to use a Software Management Plan (SMP) to effectively manage 
 
 ### Learning Activities
 
-- **Slide presentation** (20 mins): Presentation on Software Management Plans (can be reused from Netherlands eScience Center, Resource 1, with further slides available in Resource 2).
-- **Discussion Activity** (40 mins): The learners will be assigned a software project, to discuss in breakout groups, what kind of Software Management Plans would be appropriate for their project. The list of software projects to choose from can be drawn from Resource 3. Things for them to think about:
+- **Slide presentation** (20 mins): Presentation on SMPs (can be reused from Netherlands eScience Center, Resource 1, with further slides available in Resource 2).
+- **Discussion Activity** (40 mins): The learners will be split into groups. Each group is assigned a software project and has to decide what kind of SMPs would be appropriate for their project. The list of software projects to choose from can be drawn from Resource 3. Things for them to think about:
     - Purpose: What is the current reason or expected end-use for developing the software?
     - Reliability: The effect of software failure and/or non-maintenance on: Risk of harm to self or others. This includes injury, privacy violation, bias, and inappropriate content.
     - Reputation: For example to self, institution or other.
     - Research: either your own or of others. This effect could be due to an obvious software failure ("crash") or a hidden one, for example, returning inconsistent numerical results on different operating systems.
     - Maintenance: The long-term effort needed to maintain the software as long as it might be used as a standalone tool or dependency. This includes maintenance of functions that can extend beyond the lifespan of the original development project and includes fixing bugs, dependency management, operating system compatibility, and security issues.
-    - Define the level of maintenance of the research software: Is your software management plan a low, medium or high level of management, according to the given template?
+    - Define the level of maintenance of the research software: Is your SMP a low, medium or high level of management, according to the given template?
     - The learners may not arrive at a clear-cut decision, but that is fine. The goal is for the learners to get a sense of the level of management needed, and to discuss within their groups and come to a consensus.
     - More information available in Resource 3, from where the activity is adapted, and Resource 2, which provides a guide to building a plan.
+    - Groups should then come together in plenum to present very short summaries of their group's SMPs, highlighting key takeaways from the activity.
 
 
 ### Materials to Prepare
 
-- Slide presentation on SMPs (can be adapted from existing presentations).
-- Provide the learners with some supporting materials for their group discussions. For example a list of the topics and questions they should reflect on, and some example research software projects to guide the discussion. A Software Management Plan Template from the eScience Center is available in Resource 4, as a reference.
+- Slide presentation on SMPs (can be adapted from existing presentations, Resources 1, 2).
+- Supporting material for the discussion activity.
 
 
 ### Instructor Notes
@@ -58,13 +59,14 @@ LO1: Describe how to use a Software Management Plan (SMP) to effectively manage 
 **Slide presentation:**
 
 - This module should cover the following broad content:
-    - Overview of what Software Management Plans are, why they are important, the use of different plans for different types of research software, and
+    - Overview of what SMPs are, why they are important, the use of different plans for different types of research software, and
     - Templates of different SMPs.
-- Reusable slides and suggested activities from the Netherlands eScience Center course are available to adapt or reuse for this module, as long as they are properly attributed and cited according to the CC BY 4.0 license.
+- Reusable slides and suggested activities from the Netherlands eScience Center course are available to adapt or reuse for this module, as long as they are properly attributed and cited according to the CC BY 4.0 licence.
 
 **Discussion activity:**
 
 - For the discussion activity, learners can choose from the list of example software projects listed in Resource 3, or choose their own project(s). The instructor can briefly present an overview of the software projects.
+- The instructor should provide the learners with some supporting materials for their group discussions. For example, a list of the topics and questions they should reflect on, and some example research software projects to guide the discussion. A SMP template from the eScience Center is available in Resource 4.
 
 
 ### Resources
