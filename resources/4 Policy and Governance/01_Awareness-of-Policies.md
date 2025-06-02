@@ -9,7 +9,7 @@ tags:
     - Governance
 ---
 
-# Module 1: Awareness of National/Institutional Policies on RDM, Open Science
+# Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science
 
 
 !!! warning "This page is currently under construction"
@@ -26,7 +26,7 @@ tags:
 
 ## Total Module Duration
 
-1&ndash;1.5 hours
+1 hour (without optional activity)
 
 
 ## Learning Objective 1
@@ -38,7 +38,7 @@ LO1: Apply the national Open Science/Research Data Management policy in the inst
 
 - **Introductory lecture with slides** (30 mins): Overview of current national OS and RDM policies, the relevant actors in national OS landscape, how national policies connect to institutional policies and activities with examples.
 - **Discussion activity** (30 mins): A researcher is asking help with his/her Data Management Plan (DMP). They want to fill in the DMP on how they will publish their data (and software) after the research. Help the researcher find guidance on data (and software) publication in the context of your institutional or local open science policy document.
-- **Activity** (30 mins): This can be an additional or alternative activity: Have learners review the data policy of their institution and highlight its key elements.
+- **(Optional) Activity** (30 mins): This can be an additional or alternative activity: Have learners review the data policy of their institution and highlight its key elements.
 
 
 ### Materials to Prepare
@@ -51,12 +51,12 @@ LO1: Apply the national Open Science/Research Data Management policy in the inst
 
 **Lecture/presentation:**
 
-- Provide the learners an overview of the landscape of open science and RDM policies in the local country context. Outline the key stakeholders and the practices relevant to their roles. The resources provided help to get an overview of existing policies and their importance for building a common understanding of objectives and ways to work towards them (Resources 1&ndash;6).
+- Provide the learners with an overview of the landscape of open science and RDM policies in the local country context. Outline the key stakeholders and the practices relevant to their roles. The resources provided help to get an overview of existing policies and their importance for building a common understanding of objectives and ways to work towards them (Resources 1&ndash;6).
 - The content should focus on giving learners an overview of national/institutional policies, and the most relevant things to consider when applying national OS and RDM policies in their own work. The exercise helps the learners to think about the implementation of the national policies into the institutional policies. The instructor can also connect how national policies rely on recommendations from the European Commission and other bodies (such as UNESCO).
 
 **Discussion activity:**
 
-- The instructor can provide the learners with the example outlined in the activity and request a discussion takes place in small groups.
+- The instructor can provide the learners with the example outlined in the activity and request a discussion take place in small groups. The discussion can be extended by asking learners to reflect on the benefits to researchers from thinking about DMP-relevant issues at an early stage of their research.
 - The instructor can use the case of Finland as an example (Resource 5). However it would be better if the local country context and the relevant policies are discussed. The instructor can prepare for the discussion by reviewing and using Resources 1 and 2 to help outline the key aspects to consider when researchers want to publish data and/or software. Activities should be tailored to whatever is most relevant in the country context.
 
 **Alternative activity:**

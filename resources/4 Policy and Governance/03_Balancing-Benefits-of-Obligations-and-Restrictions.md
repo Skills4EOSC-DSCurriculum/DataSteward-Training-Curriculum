@@ -21,17 +21,17 @@ tags:
 
 ## Learning Objectives
 
-- **Learning Objective 1 (LO1):** Recognise the challenges in balancing the objectives of Open Science and the obligations and restrictions of real life.
+- **Learning Objective 1 (LO1):** Recognise the challenges in balancing the objectives of Open Science and the obligations and restrictions of real life and learn strategies to overcome them.
 
 
 ## Total Module Duration
 
-1 hour
+1 hour (without optional activity)
 
 
 ## Learning Objective 1
 
-LO1: Recognise the challenges in balancing the objectives of Open Science and the obligations and restrictions of real life.
+LO1: Recognise the challenges in balancing the objectives of Open Science and the obligations and restrictions of real life and learn strategies to overcome them.
 
 
 ### Learning Activities
