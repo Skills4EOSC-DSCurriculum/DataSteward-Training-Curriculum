@@ -20,25 +20,25 @@ tags:
 
 ## Learning Objectives
 
-- **Learning Objective 1 (LO1):** Identify existing guidelines and legislation connected to research ethics.
+- **Learning Objective 1 (LO1):** Identify the relationship between existing guidelines, legislation, and research ethics.
 - **Learning Objective 2 (LO2):** Identify ethical procedures required for research projects funded by the EU.
 
 
 ## Total Module Duration
 
-2 hours (excluding pre-session activities)
+Approx. 1 hour 50 minutes (without pre-session activities)
 
 
 ## Learning Objective 1
 
-LO1: Identify existing guidelines and legislation connected to research ethics.
+LO1: Identify the relationship between existing guidelines, legislation, and research ethics.
 
 
 ### Learning Activities
 
 - **Pre-session activity:** Learners are assigned reading in advance of the session (Resources 1&ndash;3)
 - **Presentation** (15 mins): The lecture or presentation should present the role of ethics in research. Give the learners knowledge on how to identify regulations, guidelines and laws connected to ethics in research, particularly at different stages of the life cycle.
-- **Quiz** (10mins): A brief quiz following the presentation, to recap the main concepts of the session. Some questions that can be reused are provided, along with correct answers.
+- **Quiz** (10 mins): A brief quiz following the presentation, to recap the main concepts of the session. Some questions that can be reused are provided, along with correct answers.
 
 ??? info "Quiz Questions"
 
@@ -52,7 +52,7 @@ LO1: Identify existing guidelines and legislation connected to research ethics.
         A) The use of a standardised research methodology across disciplines.  
         B) Accessing, using, or sharing sensitive data such as health or personal data.  
         C) Adhering to legal requirements set by professional organisations.  
-        D) Collecting data that is already publicly available.  
+        D) Collecting publicly available data while ensuring respect for privacy, consent, and proper attribution. 
         Correct Answer: B
     3. Why is legal compliance not always sufficient to ensure ethical behaviour?  
         A) Legal compliance primarily focuses on cultural values rather than principles of conduct.  
@@ -73,7 +73,6 @@ LO1: Identify existing guidelines and legislation connected to research ethics.
     - Discussion Question: Imagine you are working with a colleague who believes that ethics in research is just about "following the law" and is not particularly important beyond that. How would you convince them that ethical principles are essential in research, even beyond legal compliance?
     - Guiding Points for Discussion: Why is it important to consider moral principles in addition to laws? How can research impact human dignity, autonomy, or society at large? What risks arise when ethical principles are overlooked, even if laws are not broken? Can you provide concrete examples of ethically questionable situations in research (such as handling sensitive data)?
     - After the group discussions, each group shares the outcome of their discussions with the whole group.
-
 
 
 ### Materials to Prepare
@@ -127,7 +126,7 @@ LO2: Identify ethical procedures required for research projects funded by the EU
 
 - **Pre-session Activity:** Instructor should ask learners to read Resources 1&ndash;5 before the session.
 - **Recap activity** (15 mins): Instructor should recap key takeaways from the pre-assigned reading (some topics that can be highlighted are included in the instructor notes).
-- **Discussion Activity** (30 mins): In pairs, ask learners to discuss 2&ndash;3 stakeholders within their own institutions (e.g. ethical committees, ethics board, data stewards) to whom they could turn to for further advice on ethical assessment for EU projects. If they cannot identify stakeholders, then the instructor could prepare an overview of stakeholders within their institute.
+- **Discussion Activity** (30 mins): In pairs, ask learners to discuss 2&ndash;3 stakeholders within their own institutions (e.g. ethical committees, ethics board, more senior data stewards) to whom they could turn to for further advice on ethical assessment for EU projects. If they cannot identify stakeholders, then the instructor could prepare an overview of stakeholders within their institute.
 
 
 ### Materials to Prepare

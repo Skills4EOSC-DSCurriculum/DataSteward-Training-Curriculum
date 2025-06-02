@@ -40,18 +40,18 @@ LO1: Describe the concept of research integrity.
 
 ??? info "Quiz Questions"
 
-    1. What are the key components of scientific integrity?  
+    1. What are the key components of research integrity?  
        A) Rapid dissemination of research findings.  
-       B) Adherence to ethical principles, transparency, and reproducibility in research.  
+       B) Adherence to ethical principles, transparency, and reproducibility (where it applies) in research.  
        C) Efficient allocation of research funds.  
        Correct Answer: B
     2. Which of the following practices is essential for maintaining research integrity?  
        A) Publishing exclusively in high-impact journals.  
        B) Ensuring meticulous documentation, peer review, and ethical compliance throughout the research life cycle.  
-       C) Prioritising research in line with funding guidelines.  
+       C) Aligning research topics only with funding priorities.  
        Correct Answer: B
 
-- **Presentation/lecture** (15 mins): Slide presentation or lecture outlining the concept of research integrity, and relevant regulations.The instructor can also recap some concepts from the assigned pre-session reading.
+- **Presentation/lecture** (15 mins): Slide presentation or lecture outlining the concept of research integrity, and relevant regulations. The instructor can also recap some concepts from the assigned pre-session reading.
 - **Group discussion** (40 mins): Small group discussions in breakout groups (3&ndash;5 participants per group).
     1. Divide participants into small groups (3&ndash;5 people).
     2. Assign one scenario per group (or let groups choose one). Each scenario presents a research integrity challenge.
@@ -87,7 +87,7 @@ LO1: Describe the concept of research integrity.
 - Objectives of the activity:
     - Encourage participants to reflect on the principles of research integrity.
     - Identify challenges and best practices for maintaining integrity in research.
-    - Develop practical solutions to common ethical dilemmas.
+    - Develop practical solutions to common dilemmas around research integrity.
 
 
 ### Resources
