@@ -21,51 +21,50 @@ tags:
 
 ## Learning Objectives
 
-- **Learning Objective 1 (LO1):** Summarise the importance of copyright, open licenses and the role it plays in (re)using educational materials.
-- **Learning Objective 2 (LO2):** Recognise importance of attribution and how to do it correctly.
+- **Learning Objective 1 (LO1):** Summarise the importance of copyright, open licences, and the role they play in (re)using educational materials.
+- **Learning Objective 2 (LO2):** Recognise the importance of proper attribution and citation.
 - **Learning Objective 3 (LO3):** Recognise the difference between using Open Educational Resources (OER) and creating OER.
 
 
 ## Total Module Duration
 
-2&ndash;2.5 hours approximately
+2 hours 50 minutes
 
 
 ## Learning Objective 1
 
-LO1: Summarise the importance of copyright, open licenses and the role it plays in (re)using educational materials.
+LO1: Summarise the importance of copyright, open licences, and the role they play in (re)using educational materials.
 
 
 ### Learning Activities
 
 - **Presentation 1** (30 mins): Introduction to copyright, fair use, and public domain. Introduction to why licensing is used.
-- **Activity** (45 mins): The trainer can identify 2&ndash;3 resources with licenses. Ask participants, in pairs, to identify the license and any restrictions that may come with this license. Discuss what that means if these are reused for teaching. An example activity can be used (Resource 7).
-- **Presentation 2** (20 mins): Introduction to creating and licensing your own materials, re-using materials and learning about how to combine existing materials and how to attribute them. This module makes a case for reusing open materials and in turn opening developed materials.
+- **Activity** (45 mins): The instructor provides 2&ndash;3 resources with licences. The learners work in pairs to identify the licence and any restrictions that may come with this licence. They discuss what it means if these resources are reused for training. An activity can be designed using Resource 7 as input.
+- **Presentation 2** (20 mins): Introduction to creating and licensing your own materials, re-using materials, combining existing materials, and attributing them. This module makes a case for reusing open materials and FAIRly publishing developed material (Resource 4).
 
 
 ### Materials to Prepare
 
-- Slide presentation on copyright, licensing and attribution.
-- Prepare resources for the activities that will give learners practical experience.
+- Presentation on copyright, licensing and attribution.
+- Resources for the activities.
 
 
 ### Instructor Notes
 
 **Presentation 1:**
 
-- The goal of is to explain the importance of open licensing. The instructor should highlight that in order to utilise various educational materials, licensing has to be understood. The introduction presentation provides a discussion with a focus on distinguishing the differences between copyright, fair use, and public domain. It also provides a discussion about Creative Commons licenses and why they are used. Additionally, the instructor should point out that there are other licenses available and not all potential material for reuse will use Creative Commons (though these are most common).
-- At this time, the instructor can also highlight any specific local licensing regulations (if applicable). It is best to incorporate local regulations as available.
+- The goal of the presentation is to highlight the importance of open licensing. Learners can be made aware that in order to utilise various educational materials, licensing has to be understood. The presentation can focus on distinguishing between copyright, fair use, and public domain. Creative Commons licences and why they are used can also be introduced. Additionally, the instructor should point out that there are other licences available and not all potential material for reuse will use Creative Commons (though these are most common).
+- The instructor could also highlight any specific local licensing regulations (if applicable). Always refer to local regulations, if relevant.
 
 **Activity:**
 
-- The goal of the activity is to help learners identify what is permitted and not permitted when reusing educational materials with various license types.
+- The goal of the activity is to help learners identify what is permitted and not permitted when reusing educational materials with various licence types. This exercise will help learners to be aware of reuse of educational materials for their own trainings.
 
 **Presentation 2:**
 
-- A key part of this is making a case for reusing existing materials and by extension why we should make our own developed materials open. When reusing any material, the content license needs to be checked. The instructor can explain strategies on what can be done if using the material is not permissible (for instance, only cite the material or ask for permission for the material from the owner).
-- The instructor can also point to different sources where there is more information on copyright (Resource 6).
-- The instructor can let the learners know that one can combine resources with different licenses. However, the trainer should let learners know that this is a complex part of licensing and one should exercise care when doing so. If the trainer wants to go into further detail, the concept of remixing licenses (Resources 4, 8) can be introduced.
-
+- The presentation can make a case for reusing existing materials and why we should make our own developed materials open. When reusing any material, the content licence needs to be checked. The instructor can explain strategies on what can be done if using the material is not permissible (for instance, only cite the material or ask for permission for the material from the owner).
+- The instructor can also point to resources that provide more information on copyright (Resource 6).
+- The instructor should show how to combine resources with different licences. However, the instructor should clarify that this is a complex part of licensing and one should exercise care when doing so. If the instructor wants to go into further detail, the concept of remixing licences (Resources 4, 8) can be introduced.
 
 
 ### Resources
@@ -85,18 +84,18 @@ LO1: Summarise the importance of copyright, open licenses and the role it plays 
 
 ## Learning Objective 2
 
-LO2: Recognise importance of attribution and how to do it correctly.
+LO2: Recognise the importance of proper attribution and citation.
 
 
 ### Learning Activities
 
 - **Presentation** (20 mins): Introduction to attribution.
-- **Activity** (10 mins): Give the participants image and text from different sources. Ask them to attribute the image or text using attribution best practices (for example, TASL, Resource 3).
+- **Activity** (10 mins): Give the learners images and texts from different sources. Ask them to attribute the examples using attribution best practices (for example, TASL, Resource 3).
 
 
 ### Materials to Prepare
 
-- Slide presentation on attribution.
+- Presentation on attribution.
 - Activity requires links to resources or learners can be asked to think of resources they may use in their trainings.
 
 
@@ -104,12 +103,12 @@ LO2: Recognise importance of attribution and how to do it correctly.
 
 **Presentation:**
 
-- The learner is introduced the importance of attribution when reusing sources due to it being covered by the law.
-- The instructor can provide the TASL method as one method of attribution (Title, Author, Source, License) The instructor can also introduce tools that can help in attribution (Resource 3).
+- Learners are introduced to the importance of attribution when reusing materials, as this is a legal requirement.
+- The instructor can present the TASL method (Title, Author, Source, License) as one approach to proper attribution and introduce other tools that support this process (Resource 3).
 
 **Activity:**
 
-- This activity lets learners get practical experience with attribution. The instructor can prepare resources in advance or let learners choose their own resources and attribute them.
+- This activity provides practical experience with attribution. The instructor can prepare resources in advance or let learners choose their own resources and attribute them.
 
 
 ### Resources
@@ -127,28 +126,27 @@ LO2: Recognise importance of attribution and how to do it correctly.
 LO3: Recognise the difference between using Open Educational Resources (OER) and creating OER.
 
 
-
 ### Learning Activities
 
 - **Presentation** (30 mins): Introduction to Open Educational resources and their role in the reuse of materials for training purposes.
-- **Activity** (15 mins): The trainer can identify a few starting places to find OER. The learners can search these databases for OER as related to their subject area or field. This can be done as an individual activity or in pairs.
+- **Activity** (15 mins): The trainer presents a few starting places to find OER. The learners can search these databases for OER as related to their subject area or field. This can be done as an individual activity or in pairs.
 
 
 ### Materials to Prepare
 
-- Slide presentation Open Educational Resources.
-- Group or solo work on exploring sites that house OER.
+- Presentation Open Educational Resources.
+- Group or individual work on exploring OER sites.
 
 
 ### Instructor Notes
 
 **Presentation:**
 
-- The main aim is to provide a definition of Open Educational Resources and describe the benefits and challenges of utilising OER for training purposes. The instructor can also present the differences between OER and other free educational materials. There is opportunity in this presentation provide a history of OERs and explore early initiatives dedicated to the idea of reusable learning.
+- The main aim is to provide a definition of Open Educational Resources and describe the benefits and challenges of utilising OER for training purposes. The instructor can also present the differences between OER and other free educational materials. This presentation can also include a historical overview of OERs and explore early initiatives dedicated to the idea of reusable learning materials.
 
 **Activity:**
 
-- The aim of the activity is to give the trainees hands-on opportunity to exploring databases and/or websites that house OER. Learners can use this time to identify helpful OER for their roles or potential future training obligations. Discussions can include the usefulness of the site and what resources were available.
+- The aim of the activity is to give the learners an opportunity to explore databases and/or websites that house OER. Learners can use this time to identify helpful OER for their roles or potential future trainings they might design and deliver. The instructor can have a discussion around the usefulness of the site and what resources were available.
 
 
 ### Resources
