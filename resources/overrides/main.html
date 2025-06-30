@@ -8,4 +8,32 @@
   {% if page.meta and page.meta.tags %}
     <meta name="tags" content="{{ page.meta.tags }}"/>
   {% endif %}
+
+  <!-- Schema.org JSON-LD for Course -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Course",
+    "name": "Data Steward Training Curriculum",
+    "description": "This curriculum for entry-level data stewards has been developed by a working group in the Skills4EOSC project (Task 4.1 of the project), and is intended to provide guidance to teach the foundational topics required for data stewardship.
+    In this guide, we explain briefly what we intend with the different components of the curriculum, and how an instructor can use them.",
+    "url": "{{ page.url | absolute_url }}",
+    "provider": {
+      "@type": "Organization",
+      "name": "Skills4EOSC",
+      "url": "https://skills4eosc.eu"
+    },
+    "keywords": [
+      "Data Stewardship",
+      "FAIR Data",
+      "Training Curriculum",
+      "Data Steward",
+      "Entry-level"
+    ],
+    "learningResourceType": "Curriculum",
+    "educationalLevel": "Professional",
+    "datePublished": "2023-06-23"
+  }
+  </script>
+  <!-- end JSON-LD -->
 {% endblock %}
