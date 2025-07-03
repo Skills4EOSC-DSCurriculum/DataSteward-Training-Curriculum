@@ -26,7 +26,7 @@ tags:
 
 ## Total Module Duration
 
-1 hour -- excluding pre-session work (instructor may go into more detail if needed, and take longer)
+1 hour &ndash; excluding pre-session work (instructor may go into more detail if needed, the duration is flexible)
 
 
 ## Learning Objective 1
@@ -40,33 +40,40 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
 - **Recap activity** (30 mins): To test understanding and facilitate retention of the basic knowledge of the topic, the instructor should, along with learners, recap the main points from the self-paced course followed in Resource 1. Some key points to highlight in this activity are mentioned in the Instructor Notes.
 - **Discussion activity** (30 mins): The goal of the discussion is to identify some of the legal issues and laws in learners' own contexts per training to reuse of data and other research outputs covered by intellectual property rights and data laws. In breakout groups, the following prompt can be used to facilitate the activity:
     - Does regulating access and control to publications and data **facilitate** or **harm** the progress of science?
-    - Example sub-questions:
-        - Is there a difference between copyright and Data and Digital Legislation in this respect? (Note: this can be used to split the group into two sub-groups to discuss and present their conclusions.)  
-          Suggestions: Consider protection of authors' interests under copyright (also: commercial publishing practices taking away their copyrights), the transaction costs related to licensing in a transnational environment, and the risks of Data and Digital Legislation being new legislation with not enough literature to ensure legal certainty.
+    - Example sub-questions (Note: this can be used to split the group into two sub-groups to discuss and present their conclusions):
+        - Is there a difference between copyright and Data and Digital Legislation in this respect?  
+          Suggestions: Consider protection of authors' interests under copyright (also: commercial publishing practices taking away their copyrights), the transaction costs related to licensing in a transnational environment, and the risks of Data and Digital Legislation being new legislation with not enough literature to ensure legal certainty - see Resource 2 and (optionally) also Resource 6.
         - When is Open Science **not** the answer? What are the drawbacks of Open Science?  
-          Suggestions: Consider lost anonymity of review (in Open Review), lost authorship, misuse of personal data by scientific institutions or third parties, disruption of privacy, and data utilisation for harmful or ethically/religiously unacceptable research &ndash; see Lakomy et al. (2019), Resource 7.
+          Suggestions: Consider lost anonymity of review (in Open Review), lost authorship, misuse of personal data by scientific institutions or third parties, disruption of privacy, and data utilisation for harmful or ethically/religiously unacceptable research &ndash; see Lakomý et al. (2019), Resource 6.
 
 
 ### Materials to Prepare
 
-- Key takeaways from Resources 1-5 to guide the recap activity.
+- Key takeaways from Resources 1&ndash;5 to guide the recap activity.
 - Questions and prompts to guide the discussion activity.
 
 
 ### Instructor Notes
 
+**Flexible duration:**
+
+- It is recommended to adapt the duration of the module to the group and the plan for the discussion during the live session.
+
 **Content that should be covered within the activities of this module:**
 
+!!! info "Note"
+
+    The objective is to discuss both the copyright/intellectual property angles in the same session as the applicable Data and Digital Legislation in order to showcase the different legislative approaches (including levels of harmonisation) along with the tangible effects on specific use cases (e.g. varying national approaches to copyright exceptions v. universally binding rules from EU Regulations such as the Data Act). This interplay should form the basis of the discussion activity.
+
 - Copyright
-    - An overview of the EU legal framework on data
+    - How does the EU protect works of intellect and data? An overview of the legal framework
     - Introduction to Intellectual Property and Intellectual Property Rights (IPRs)
     - Implications of IPRs from the author's and the user's perspective
     - Legal protection of databases
-    - Territoriality and fragmentation of EU copyright
-    - Limitations and Exceptions (L&Es)
-    - Publication and the role of consent
+    - Territorial nature and different national approaches in EU copyright
+    - Limitations and Exceptions to copyright (L&Es)
 - Data and Digital Legislation (DDL)
-    - Direct applicability of Regulations
+    - Direct applicability of Regulations and the implications on national level
     - Data Spaces in the EU
     - Interoperability of Data Spaces under the Data Act
     - Data access and use for researchers and Research Performing Organisations under the Data Act
@@ -74,23 +81,19 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
     - Reuse of publicly funded research under the Digital Governance Act
     - Transparency of GPAI training datasets under the AI Act and exceptions for free and open source models
 
-**Flexible duration:**
-
-- It is recommended to adapt the duration of the module to the group and the plan for the discussion during the live session.
-
 **Recommended pre-session activity and recap:**
 
 - In preparation for the live session, learners are expected to follow the online course to gain a basic understanding of the concepts covered in this module. These include:
-    - Applicable regimes: from a researcher's perspective, for personal data the key issue is privacy law including the GDPR; for non-personal data, it is mainly copyright.
-    - In the EU, works are closed by default &ndash; it is safe to assume they must be either licensed, public domain, or under a limitation/exception to be reused.
-    - Irrespective, sui generis protection of databases applies when databases meet the criteria of originality or a substantial investment was made in the obtaining, verification or presentation of the database (in some cases leading to overlapping protection). Exception: databases created by means of sensors or other physical components of connected products and other machine-generated data which are governed by the Data Act. Note: for the "new" data legislative framework there is much less guidance when it comes to practical application than for GDPR or copyright aspects.
-    - Territoriality of copyright: Copyright is territorial and fragmented in the EU &ndash; not benefiting from full harmonisation.
-    - Direct applicability: Digital regulation like the Data Act or the Digital Governance Act benefits from direct applicability &ndash; fragmentation is much less of an issue.
+    - Applicable regimes: from a researcher's perspective, for personal data the key issue is privacy law including the GDPR; for non-personal data, it is mainly copyright (Resource 1).
+    - In the EU, works are closed by default &ndash; it is safe to assume they must be either licensed, public domain, or under a limitation/exception to be reused (Resource 1).
+    - Irrespectively, sui generis protection of databases applies when databases meet the criteria of originality or a substantial investment was made in the obtaining, verification or presentation of the database (in some cases leading to overlapping protection). Exception: databases created by means of sensors or other physical components of connected products and other machine-generated data which are governed by the Data Act. Note: for the "new" data legislative framework there is much less guidance when it comes to practical application than for GDPR or copyright aspects (Resources 1&ndash;3).
+    - Territoriality of copyright: Copyright is territorial and fragmented in the EU &ndash; not benefitting from full harmonisation (Resource 1).
+    - Direct applicability: Digital regulation like the Data Act or the Digital Governance Act benefits from direct applicability &ndash; fragmentation is much less of an issue (Resource 1).
 
 **Discussion activity:**
 
 - The live session of the module should be used to facilitate a discussion that will prompt the learners to critically assess the content covered in the pre-requisite.
-- Before opening the main discussion during the live session, it is recommended to start by asking learners to establish individual relevance by providing practical examples from their professional context -- this can also give the instructor an opportunity to get a feeling of how understandable the self-paced part has been.
+- Before opening the main discussion during the live session, it is recommended to start by asking learners to establish individual relevance by providing practical examples from their professional context (learners could be told to think of some examples before the session, as part of the pre-session activities) &ndash; this can also give the instructor an opportunity to get a feeling of how understandable the self-paced part has been.
 
 
 ### Resources
