@@ -87,8 +87,8 @@ No specific prerequisites are required to use this material. The material is aim
 ## Objectives
 
 - Equip aspiring/entry-level data stewards with key skills and competencies to best support researchers with data and software management
-- Direct data stewards to stakeholders, policies and other relevant regulations within their institutes.
-- Provide examples from across Europe that helps Data Stewards implement within their context.
+- Guide data stewards to identify stakeholders, policies and other relevant regulations within their institutes.
+- Provide examples from across Europe that helps Data Stewards in their role within their context.
 
 ## Keywords
 
@@ -107,15 +107,14 @@ The curriculum comprises the following sections and modules.
 |                                   | Module 2: Licensing and Copyright of Educational Materials                                           |
 |                                   | Module 3: Facilitation and Engagement                                                                |
 |                                   |                                                                                                      |
-| **Research Data Management**      | Module 1: FAIR Data                                                                                  |
-|                                   | Module 2: Data Documentation and Storage                                                             |
+| **Research Data Management**      | Module 1: Introduction to Research Data Management                                                   |
+|                                   | Module 2: Research Data, Documentation, and Storage                                                  |
 |                                   | Module 3: Data Organisation and File Formats                                                         |
-|                                   | Module 4: Data Curation                                                                              |
-|                                   | Module 5: Data Preservation and Archiving                                                            |
-|                                   | Module 6: Data Sharing and Publication                                                               |
-|                                   | Module 7: Metadata                                                                                   |
-|                                   | Module 8: Ontologies                                                                                 |
-|                                   | Module 9: Data Management Plans                                                                      |
+|                                   | Module 4: Metadata                                                                                   |
+|                                   | Module 5: Ontologies                                                                                 |
+|                                   | Module 6: FAIR Data Sharing and Publication                                                          |
+|                                   | Module 7: Data Preservation and Archiving                                                            |
+|                                   | Module 8: Data Management Plans                                                                      |
 |                                   |                                                                                                      |
 | **Research Software Management**  | Module 1: What is Research Software                                                                  |
 |                                   | Module 2: FAIR Software                                                                              |
@@ -123,26 +122,25 @@ The curriculum comprises the following sections and modules.
 |                                   | Module 4: Software Development Practices                                                             |
 |                                   | Module 5: Software Sharing Practices                                                                 |
 |                                   |                                                                                                      |
-| **Policy and Governance**         | Module 1: Awareness of National/Institutional Policies on RDM, Open Science                          |
+| **Policy and Governance**         | Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science                 |
 |                                   | Module 2: Translating Institutional Data and Software Policy to Strategy                             |
 |                                   | Module 3: Balancing benefits of Open Science and Real-Life Data Related Obligations and Restrictions |
 |                                   |                                                                                                      |
 | **Usage Rights and Licenses**     | Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation                    |
-|                                   | Module 2: Using and Sharing Research Outputs within a Multi-Layered Rules Framework                  |
-|                                   | Module 3: Commercialisation Assessments in EU Projects                                               |
+|                                   | Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework           |
+|                                   | Module 3: Exploitation and Dissemination Assessments in EU Projects                                  |
 |                                   |                                                                                                      |
 | **Ethics**                        | Module 1: Understanding Research Integrity                                                           |
 |                                   | Module 2: Ethical Guidelines and Legislation Relevant to Research                                    |
 |                                   |                                                                                                      |
-| **Personal Data and GDPR**        | Module 1: Strategies for Handling Personal Data                                                      |
-|                                   | Module 2: GDPR and Other Applicable Regulations on Privacy                                           |
+| **Personal Data and GDPR**        | Module 1: Personal Data and GDPR                                                                     |
 |                                   |                                                                                                      |
 | **Transversal or Soft Skills**    | Module 1: Advocacy &ndash; Building Soft Skills for Impact                                           |
 |                                   | Module 2: Mediation and Community &ndash; Liaison and Networking                                     |
 |                                   | Module 3: Efficient Communication (Written, Verbal and Visual)                                       |
 
 
-The basis of the topics covered is the [Minimum Viable Skillset for Data Stewards](https://zenodo.org/records/14865959), which outlines the key skills and competencies necessary to undertake a data stewardship role. In addition, we consulted with data stewards, data management and open science specialists to help us identify what topics were most relevant to the curriculum. 
+The basis of the topics covered is the [Minimum Viable Skillset for Data Stewards](https://zenodo.org/records/14865959), which outlines the key skills and competencies necessary to undertake a data stewardship role. In addition, we consulted with data stewards, data management and open science specialists to help us identify what topics were most relevant to the curriculum.
 
 Each module listed above is expanded further to outline its content and structure, and below we will elaborate on each of these components and what we intend with them. At the top of each module, you will find an overview of the learning objectives and the total duration needed to complete the activities suggested in the module (note that this does not include prep time by the instructor). We then expand the module's content according to each learning objective, so that an instructor can clearly identify what the different materials and activities are intended to help achieve.
 
@@ -170,8 +168,7 @@ A guide to what the different terms mentioned in our curriculum mean:
 
 The curriculum has been developed by a working group of people from the Netherlands, Germany, Belgium, France, Denmark, Finland, the UK, Spain and Greece, and reviewed by many helpful reviewers who helped shape the content (a full list of contributors and more detail about the curriculum development process is available in our Deliverable Report).
 
-As a result of being worked on by so many different people at different stages, you may observe some differences between the sections as you navigate the curriculum. While we have tried to streamline this as much as possible, it is important to keep in mind that the curriculum brings together a diversity of perspectives, and sections reflect these differences. Some sections like Research Data Management have more detail and material than others, and we have chosen to retain this and hope that instructors will find the additional information helpful in designing a training. In some modules, you may find more detail in the learning activities, and more general guidance in the instructor notes, and in some it may be the reverse. These reflect the different approaches of the sub-groups that worked on the material, and we encourage you to read all the material associated with the module to get a sense of the guidance and materials available.
-Despite the challenges of working with a large group, we are happy to have had many content experts help us build this curriculum, enabling us to provide as wide of a base as possible from which instructors can choose what they find most useful and interesting.
+As a result of being worked on by so many different people at different stages, you may observe some differences between the sections as you navigate the curriculum. While we have tried to streamline this as much as possible, it is important to keep in mind that the curriculum brings together a diversity of perspectives, and sections reflect these differences. Some sections like Research Data Management have more detail and material than others, and we have chosen to retain this and hope that instructors will find the additional information helpful in designing a training. In some modules, you may find more detail in the learning activities, and more general guidance in the instructor notes, and in some it may be the reverse. These reflect the different approaches of the sub-groups that worked on the material, and we encourage you to read all the material associated with the module to get a sense of the guidance and materials available. Despite the challenges of working with a large group, we are happy to have had many content experts help us build this curriculum, enabling us to provide as wide of a base as possible from which instructors can choose what they find most useful and interesting.
 
 ## Authors and Contributors
 
@@ -189,7 +186,7 @@ Materials from this curriculum can also be reused or adapted via our open [GitHu
 
 ## DOI
 
-[https://doi.org/10.5072/zenodo.1234567](https://doi.org/10.5072/zenodo.1234567)
+<https://doi.org/10.5072/zenodo.1234567>
 
 ## Accessibility Mission
 
