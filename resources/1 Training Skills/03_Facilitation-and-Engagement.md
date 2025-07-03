@@ -38,7 +38,7 @@ LO1: Identify essential trainer skills.
 
 ### Learning Activities
 
-- **Activity** (15 mins): What makes a good trainer? Ask learners to think about a time they had a good trainer in a workshop, training etc. and list some of their qualities.
+- **Activity** (15 mins): What makes a good trainer? Ask learners to think about a time they had a good trainer in a workshop, training, etc. and list some of their qualities.
 - **Presentation** (15 min): Introduce trainer skills and the role of the trainer in the training.
 
 

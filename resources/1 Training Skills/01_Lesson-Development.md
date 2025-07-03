@@ -188,7 +188,7 @@ LO4: Identify context- or discipline-specific resources for training and use the
 **Context- and/or discipline-specific resources:**
 
 - Resources complement learning activities and can be used to make the training more specific. The group exercises and activities help to identify context-specific examples so that the resources used during trainings are relevant. The first activity helps learners to identify relevant resources for the chosen topic.
-- The instructor can highlight that materials can be reused during trainings and more Open Educational Resources (OER) can be found through Zenodo or other institutional OER sites. There is an abundance of reusable materials which the learners can make use of when designing their own trainings..
+- The instructor can highlight that materials can be reused during trainings and more Open Educational Resources (OER) can be found through Zenodo or other institutional OER sites. There is an abundance of reusable materials which the learners can make use of when designing their own trainings.
 - Some examples of activities can be used as inspiration (Resource 1).
 
 

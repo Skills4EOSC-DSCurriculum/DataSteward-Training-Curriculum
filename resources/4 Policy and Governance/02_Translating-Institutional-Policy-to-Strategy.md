@@ -21,8 +21,8 @@ tags:
 
 ## Learning Objectives
 
-- **Learning Objective 1 (LO1)**: Recognise the importance of institutional policies such as data and software policy.
-- **Learning Objective 2 (LO2)**: Translate institutional policies into actionable data management strategies.
+- **Learning Objective 1 (LO1):** Recognise the importance of institutional policies such as data and software policy.
+- **Learning Objective 2 (LO2):** Translate institutional policies into actionable data management strategies.
 
 
 ## Total Module Duration
