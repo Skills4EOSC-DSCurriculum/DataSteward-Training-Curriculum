@@ -1,5 +1,5 @@
 ---
-title: "Module 8: Ontologies"
+title: "Module 5: Ontologies"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
@@ -10,7 +10,7 @@ tags:
     - Ontologies
 ---
 
-# Module 8: Ontologies
+# Module 5: Ontologies
 
 !!! warning "This page is currently under construction"
 
@@ -82,7 +82,7 @@ LO1: Explain the concept of ontologies.
     - Maintenance and source: Who created or maintains that ontology? (Often listed in description). This is just to remind you that ontologies are curated by organisations or communities in the scientific world.
 
     **Share & Discuss:**
-    
+
     Have each person or pair briefly introduce the ontology or dataset they explored. Example: "We looked at ENVO (Environment Ontology). It's an ontology for environmental entities (like habitats, environmental features). It's structured hierarchically: e.g., 'human settlement' is a subclass of 'animal-associated environment' (but also of 'anthropised ecosystem' and 'environment associated with an animal part or small animal'). These relations are visualised in the Visualization tab. We found the class 'village' ('larger than a hamlet but smaller than a town'), which is also used in many other ontologies (see under Mappings). Using this ontology, someone annotating a dataset about ecosystems could tag 'village' in a standard way, which would help others find all data about villages even if they come from different sources."
 
 
@@ -118,7 +118,7 @@ LO2: Explain the concept of linked data.
 
 ### Learning Activities
 
-- **Lecture** (30mins): Introduce the topic of linked data (see Instructor Notes for more detailed contents).
+- **Lecture** (30 mins): Introduce the topic of linked data (see Instructor Notes for more detailed contents).
 - **Exercise** (30 mins): The learners should modify some queries on linked datasets or create their own queries (see "Instructor Notes" for more detailed information).
 
 
@@ -148,7 +148,7 @@ LO2: Explain the concept of linked data.
     Use <https://dbpedia.org/sparql/> for executing the queries.
 
     Start with this simple query 
-    
+
     ```
     SELECT ?writer, ?name WHERE{?writer a dbo:Writer. ?writer foaf:name ?name .} LIMIT 5
     ```
@@ -213,7 +213,7 @@ LO3: Apply ontologies to datasets.
 
 ??? info "Sample Metadata"
 
-    Use [https://bioportal.bioontology.org](https://bioportal.bioontology.org/) to search for the corresponding ontology terms.
+    Use <https://bioportal.bioontology.org> to search for the corresponding ontology terms.
 
     | Field             | Original Value     | Ontology Term (ID) |
     |-------------------|--------------------|--------------------|

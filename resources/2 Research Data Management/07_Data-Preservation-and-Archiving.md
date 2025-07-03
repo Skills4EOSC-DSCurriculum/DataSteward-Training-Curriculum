@@ -1,5 +1,5 @@
 ---
-title: "Module 5: Data Preservation and Archiving"
+title: "Module 7: Data Preservation and Archiving"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
@@ -11,7 +11,7 @@ tags:
     - Data Archiving
 ---
 
-# Module 5: Data Preservation and Archiving
+# Module 7: Data Preservation and Archiving
 
 !!! warning "This page is currently under construction"
 
@@ -29,7 +29,7 @@ tags:
 
 ## Total Module Duration
 
-Approx. 3 hours
+3 hours approximately
 
 
 ## Learning Objective 1

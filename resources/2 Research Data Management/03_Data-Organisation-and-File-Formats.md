@@ -72,7 +72,7 @@ LO1: Describe the basic principles of file management.
 
 **Resources for learning activities &ndash; instructor and learners:**
 
-1. Ghent University. "RDM Knowledge Clips" *YouTube,* <https://www.youtube.com/watch?v=YslfY4W-NAg>. Accesssed 19 Mar. 2025
+1. Ghent University. "RDM Knowledge Clips" *YouTube,* <https://www.youtube.com/watch?v=YslfY4W-NAg>. Accessed 19 Mar. 2025
 2. *File Naming Conventions | Data Management*. <https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions>. Accessed 19. Mar. 2025.
 3. *File Organization*. <https://datacarpentry.github.io/rr-organization1/>. Accessed 24 Mar. 2025.
 4. *Optional activity: Tidy Data for Librarians: Summary and Setup*. <https://librarycarpentry.github.io/lc-spreadsheets/#setup>. Accessed 24 Mar. 2025.
@@ -447,7 +447,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
                 - Remove Identifiers: Strip out or anonymise personal identifiers such as Participant ID and specific age or gender details.
                 - Aggregate Data: Aggregate symptoms and treatment history into broader categories to minimise the risk of identification (e.g., generalising symptom categories instead of detailed descriptions).
 
-    For the instructor the goal of this optional activity is that the learner thinks about the importance of file organisation and choosing the right file formats as well as the broader implications of their choices in the context of open science and digital preservation.Give more time than you think for the case work and discussion afterwards, as there are many issues that can be discussed!
+    For the instructor the goal of this optional activity is that the learner thinks about the importance of file organisation and choosing the right file formats as well as the broader implications of their choices in the context of open science and digital preservation. Give more time than you think for the case work and discussion afterwards, as there are many issues that can be discussed!
 
 **Key Takeaways:**
 

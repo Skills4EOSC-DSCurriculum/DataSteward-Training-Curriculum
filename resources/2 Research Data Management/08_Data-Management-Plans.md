@@ -1,5 +1,5 @@
 ---
-title: "Module 9: Data Management Plans"
+title: "Module 8: Data Management Plans"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
@@ -11,7 +11,7 @@ tags:
     - DMP
 ---
 
-# Module 9: Data Management Plans
+# Module 8: Data Management Plans
 
 !!! warning "This page is currently under construction"
 
@@ -91,7 +91,7 @@ LO2: Design practical data management strategies to meet research requirements a
 
 - **Case study** (60 mins): Analyse an existing data management plan (DMP) for a research project and identify how well it meets the FAIR principles. Discuss improvements.
 - **Group work on DMP Development** (60 mins): In small groups, design a basic DMP for a hypothetical (or real) project, ensuring alignment with each of the FAIR principles. Share Resource 5 with the groups so that they can see if they missed anything.
-- **Checklist activity** (30 mins): Use a FAIR data checklist to evaluate DMPs and ensure they incorporate key FAIR elements (e.g., using persistent identifiers, selecting appropriate repositories) and they are in alignment with local institutional policies (or national/funder policies, dependent on the example used in the case).
+- **Checklist activity** (30 mins): Use a FAIR data checklist to evaluate DMPs and ensure they incorporate key FAIR elements (e.g., using persistent identifiers, selecting appropriate repositories), and they are in alignment with local institutional policies (or national/funder policies, dependent on the example used in the case).
 
 
 ### Materials to Prepare
@@ -235,6 +235,7 @@ LO5: Develop data management planning templates.
 
 - Slide presentation on domain-specific DMPs.
 - Data management planning template for illustration.
+
 
 ### Instructor Notes
 
