@@ -6,7 +6,7 @@ tags:
     - DataStewardship
     - Curriculum
     - Usage Rights
-    - Licenses
+    - Licences
 ---
 
 # Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework
@@ -55,7 +55,7 @@ LO1: Identify potential opportunities and obligations related to the publication
 **Content Overview for presentation/lecture:**
 
 - The purpose and main approaches towards protection of research outputs
-- The multi-layered framework (IPR, national rules, open licenses)
+- The multi-layered framework (IPR, national rules, open licences)
 - The societal significance of ensuring FAIR publication
 - Main rules affecting the licensing of research outputs, including national copyright laws, internal rules and policies at the level of the organisation
 - Considerations for licence compatibility in Open Licensing (instructor could go over licensing issues in a brief/introductory way, and refer to Resource 9 for more detailed course on licensing)

@@ -104,7 +104,7 @@ LO2: Recognise the importance of proper attribution and citation.
 **Presentation:**
 
 - Learners are introduced to the importance of attribution when reusing materials, as this is a legal requirement.
-- The instructor can present the TASL method (Title, Author, Source, License) as one approach to proper attribution and introduce other tools that support this process (Resource 3).
+- The instructor can present the TASL method (Title, Author, Source, Licence) as one approach to proper attribution and introduce other tools that support this process (Resource 3).
 
 **Activity:**
 

@@ -6,7 +6,7 @@ tags:
     - DataStewardship
     - Curriculum
     - Research Software Management
-    - Software Licenses
+    - Software Licences
     - Copyright
 ---
 

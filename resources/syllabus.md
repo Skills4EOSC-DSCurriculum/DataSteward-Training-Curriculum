@@ -126,7 +126,7 @@ The curriculum comprises the following sections and modules.
 |                                   | Module 2: Translating Institutional Data and Software Policy to Strategy                             |
 |                                   | Module 3: Balancing benefits of Open Science and Real-Life Data Related Obligations and Restrictions |
 |                                   |                                                                                                      |
-| **Usage Rights and Licenses**     | Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation                    |
+| **Usage Rights and Licences**     | Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation                    |
 |                                   | Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework           |
 |                                   | Module 3: Exploitation and Dissemination Assessments in EU Projects                                  |
 |                                   |                                                                                                      |
@@ -174,13 +174,13 @@ As a result of being worked on by so many different people at different stages, 
 
 Nida van Leersum, Saba Sharma, Achim Winandi, Paula Martinez Lavanchy, Fernando Aguilar, Tuulikki Alamettälä, Diane Antoine, Mathilde Bernier, Valentina Colcelli, Benjamin Derksen, Kasper Drazewski, Dominique Green, Christine Hadrossek, Joanna Janik, Karsten Kryger Hansen, Carolin Leister, Per Møldrup-Dalum, Marta Musidlowska, Ekaterina Peters, Giorgos Psathas, Päivi Rauste, Luca Schirru, Fabian Schubö, Lorna Wildgaard
 
-## License
+## Licence
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Reuse
 
-The curriculum is free to reuse and adapt in any way by trainers, within the terms of the CC BY 4.0 license applied to the materials. Any additional licensing restrictions on linked resources must be verified independently.
+The curriculum is free to reuse and adapt in any way by trainers, within the terms of the CC BY 4.0 licence applied to the materials. Any additional licensing restrictions on linked resources must be verified independently.
 
 Materials from this curriculum can also be reused or adapted via our open [GitHub repository](https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum/).
 

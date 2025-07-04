@@ -6,7 +6,7 @@ tags:
     - DataStewardship
     - Curriculum
     - Usage Rights
-    - Licenses
+    - Licences
 ---
 
 # Introduction

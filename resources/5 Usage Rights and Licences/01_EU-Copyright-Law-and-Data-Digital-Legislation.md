@@ -6,7 +6,7 @@ tags:
     - DataStewardship
     - Curriculum
     - Usage Rights
-    - Licenses
+    - Licences
 ---
 
 # Module 1: Getting Familiar with the EU Copyright Law and Data and Digital Legislation

@@ -226,7 +226,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
         - Examples: OWL, RDF, SPARQL endpoints.
     4. Reusable
         - Detailed Metadata: Provide comprehensive and rich metadata that describes not just the data but also its context, provenance, and how it can be reused (methodology, instruments, software used).
-        - Data Licensing: Use appropriate licenses (such as Creative Commons licenses) to clearly specify how your data may be reused with regard to legal and ethical constraints.
+        - Data Licensing: Use appropriate licences (such as Creative Commons licences) to clearly specify how your data may be reused with regard to legal and ethical constraints.
         - Tools: Metadata schemas like DataCite, Dublin Core, and discipline-specific standards like ISO 19115 for geospatial data.
         - Data Provenance: Track and document data provenance (how data was collected, processed, or transformed) so future users can assess the quality and suitability of the data for reuse.
         - Tools: ProvONE (for provenance tracking), RO-Crate (for research objects).
@@ -251,7 +251,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
     2. Provide each group with a sample dataset (ideally one with minimal FAIR compliance: incomplete metadata, no PIDs, and so on).
     3. Assign each group the task of improving the dataset's FAIRness by making it:
         - Findable: Adding metadata to make the dataset findable using a tool like the DataCite Metadata Generator.
-        - Accessible: Deciding on an appropriate license using the Creative Commons License Chooser, and selecting a repository like Zenodo to host the dataset.
+        - Accessible: Deciding on an appropriate licence using the Creative Commons License Chooser, and selecting a repository like Zenodo to host the dataset.
         - Interoperable: Converting the dataset into an interoperable format (such as from Excel to CSV or JSON).
         - Reusable: Writing a comprehensive README file explaining the data's context, collection process, and potential for reuse. Add detailed metadata to enhance reusability.
 
@@ -341,7 +341,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
 **This resource is an automated tool for assessing FAIR data objects:**
 
 8. Jasinska, Agnes, et al. *Open Licences for Data*. <https://doi.org/10.5281/zenodo.14921877>.  
-   Please note the Open learning object which is an interactive checklist to help learners choose a license before sharing data.
+   Please note the Open learning object which is an interactive checklist to help learners choose a licence before sharing data.
 
 **Background reading on suggested skills for data stewards:**
 
@@ -374,7 +374,7 @@ LO4: Identify different forms of data publication and infrastructure to make out
 
 **Lecture:**
 
-- Resources 1&ndash;10 already provide content (some under an open licenses) that can be used for creating the slides.
+- Resources 1&ndash;10 already provide content (some under an open licences) that can be used for creating the slides.
 - Content to include in lecture or presentation:
     - Different forms of data publication (see Resources 1&ndash;7)
         - Standalone Dataset
@@ -444,7 +444,7 @@ LO4: Identify different forms of data publication and infrastructure to make out
 8. Data Citation Synthesis Group. Joint Declaration of Data Citation Principles. Force11, 2014. DOI.org (Datacite), <https://doi.org/10.25490/A97F-EGYK>.  
    Video including information about data citation.
 9. Licenses for Research Data | RADAR. <https://radar.products.fiz-karlsruhe.de/en/radarfeatures/lizenzen-fuer-forschungsdaten>. Accessed 11 Nov. 2024.  
-   Information about licenses for research data (for Germany)
+   Information about licences for research data (for Germany)
 10. CESSDA Training Team. Data Management Expert Guide: Promoting Your Data. <https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Promoting-your-data>. Accessed 2 Apr. 2025.  
     Guide on RDM in Social Sciences: Promoting Your Data (CC BY-SA 4.0).
 
