@@ -39,7 +39,7 @@ LO1: Identify the target audience and their training needs.
 
 ### Learning Activities
 
-- **Presentation/video** (15 mins): Start off with an introduction on why a trainer needs to identify their target audience, and how to identify the training needs of a target audience. Explain that the trainer should be clear in what they want the target audience to achieve (15 mins).
+- **Presentation/video** (15 mins): Start off with an introduction on why a trainer needs to identify their target audience, and how to identify the training needs of a target audience. Explain that the trainer should be clear in what they want the target audience to achieve.
 - **Reflection Activity** (30 mins): In breakout groups of 3&ndash;4 learners, think about and discuss what possible target audiences data stewards might need to train and what training needs they could have.
 - **Exercise** (15 mins): A hands-on exercise to map the training need by identifying the target audience and their possible RDM needs. Use a planning template for this exercise (e.g. the EOSC synergy training template &ndash; Resource 3).
 
