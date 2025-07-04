@@ -20,7 +20,7 @@ tags:
 
 ## Learning Objectives
 
-- **Learning Objective 1 (LO1):** Identify effective ways to develop networking skills and understand their importance.
+- **Learning Objective 1 (LO1):** Identify effective ways to develop networking skills and understand their importance.
 - **Learning Objective 2 (LO2):** Identify (discipline-specific) experts to develop knowledge and connect people at institutional, national and international levels.
 - **Learning Objective 3 (LO3):** Identify actions necessary for teamwork in a network.
 
