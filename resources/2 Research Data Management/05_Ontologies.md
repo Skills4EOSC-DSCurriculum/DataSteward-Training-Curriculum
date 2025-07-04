@@ -147,7 +147,7 @@ LO2: Explain the concept of linked data.
 
     Use <https://dbpedia.org/sparql/> for executing the queries.
 
-    Start with this simple query 
+    Start with this simple query
 
     ```
     SELECT ?writer, ?name WHERE{?writer a dbo:Writer. ?writer foaf:name ?name .} LIMIT 5

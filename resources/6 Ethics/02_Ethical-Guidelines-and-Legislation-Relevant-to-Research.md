@@ -52,7 +52,7 @@ LO1: Identify the relationship between existing guidelines, legislation, and res
         A) The use of a standardised research methodology across disciplines.  
         B) Accessing, using, or sharing sensitive data such as health or personal data.  
         C) Adhering to legal requirements set by professional organisations.  
-        D) Collecting publicly available data while ensuring respect for privacy, consent, and proper attribution. 
+        D) Collecting publicly available data while ensuring respect for privacy, consent, and proper attribution.  
         Correct Answer: B
     3. Why is legal compliance not always sufficient to ensure ethical behaviour?  
         A) Legal compliance primarily focuses on cultural values rather than principles of conduct.  
