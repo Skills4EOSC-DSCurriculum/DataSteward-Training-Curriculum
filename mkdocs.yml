@@ -63,47 +63,89 @@ citation:
       orcid: https://orcid.org/0000-0003-4800-7925
       affiliation: Karlsruhe Institute of Technology
     - family-names: Martinez Lavanchy
-      given-names: Paula
-    - family-names: Aguilar
+      given-names: Paula Maria
+      orcid: https://orcid.org/0000-0003-1448-0917
+      affiliation: TU Delft
+    - family-names: Aguilar Gómez
       given-names: Fernando
+      orcid: https://orcid.org/0000-0001-9462-4831
+      affiliation: Consejo Superior de Investigaciones Científicas
     - family-names: Alamettälä
       given-names: Tuulikki
+      orcid: https://orcid.org/0000-0002-3247-6324
+      affiliation: Tampere University
     - family-names: Antoine
       given-names: Diane
+      orcid: https://orcid.org/0009-0007-0228-7980
+      affiliation: Centre National de la Recherche Scientifique (CNRS)
     - family-names: Bernier
       given-names: Mathilde
+      orcid: https://orcid.org/0009-0000-5770-3047
+      affiliation: Centre National de la Recherche Scientifique (CNRS)
     - family-names: Colcelli
       given-names: Valentina
+      orcid: https://orcid.org/0000-0001-5488-2991
+      affiliation: Consiglio Nazionale delle Ricerche
     - family-names: Derksen
       given-names: Benjamin
-    - family-names: Drazewski
+      orcid: https://orcid.org/0000-0001-9144-7518
+      affiliation: Copenhagen University Library/Royal Danish Library
+    - family-names: Drążewski
       given-names: Kasper
+      orcid: https://orcid.org/0000-0002-4851-6829
+      affiliation: KU Leuven
     - family-names: Green
       given-names: Dominique
+      orcid: https://orcid.org/0000-0002-9411-4281
+      affiliation: Digital Curation Centre
     - family-names: Hadrossek
       given-names: Christine
+      orcid: https://orcid.org/0000-0002-2638-6373
+      affiliation: Centre National de la Recherche Scientifique (CNRS)
     - family-names: Janik
       given-names: Joanna
+      orcid: https://orcid.org/0000-0001-7587-2995
+      affiliation: Centre National de la Recherche Scientifique (CNRS)
     - family-names: Hansen
       given-names: Karsten Kryger
+      orcid: https://orcid.org/0000-0002-2407-8764
+      affiliation: Aalborg University
     - family-names: Leister
       given-names: Carolin
+      orcid: https://orcid.org/0000-0002-6940-0024
+      affiliation: Karlsruhe Institute of Technology
     - family-names: Møldrup-Dalum
       given-names: Per
+      orcid: https://orcid.org/0000-0001-9976-3515
+      affiliation: Aarhus University
     - family-names: Musidlowska
       given-names: Marta
+      orcid: https://orcid.org/0009-0001-4120-9981
+      affiliation: KU Leuven
     - family-names: Peters
       given-names: Ekaterina
+      orcid: https://orcid.org/0000-0002-2966-202X
+      affiliation: Karlsruhe Institute of Technology
     - family-names: Psathas
       given-names: Giorgos
+      orcid: https://orcid.org/0000-0003-3574-5320
+      affiliation: National Infrastructures for Research and Technology - GRNET S.A
     - family-names: Rauste
       given-names: Päivi
+      orcid: https://orcid.org/0000-0001-8315-5259
+      affiliation: CSC - IT Center for Science (Finland)
     - family-names: Schirru
       given-names: Luca
+      orcid: https://orcid.org/0000-0002-4706-3776
+      affiliation: KU Leuven
     - family-names: Schubö
       given-names: Fabian
+      orcid: https://orcid.org/0000-0002-9956-2438
+      affiliation: Karlsruhe Institute of Technology
     - family-names: Wildgaard
       given-names: Lorna
+      orcid: https://orcid.org/0000-0002-3900-5058
+      affiliation: Copenhagen University Library/Royal Danish Library
   title: "Data Steward Training Curriculum"
   abstract: "This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts."
   version: 1.0.0
@@ -120,6 +162,8 @@ citation:
     - "Data Steward"
     - "Entry-level"
   repository: "https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum"
+  repository-code: "https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum"
+  url: "https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/"
 signposting_linkset: https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum/main/linkset.json # do not update manually
 signposting_default_profile: '' # update with an URL towards the profile used for the Markdown pages (optional)
 # signposting_gitbook_url: https://gitbook.example.com # leave commented (prefixed with `#`) if using GitHub Pages with the default domain.
