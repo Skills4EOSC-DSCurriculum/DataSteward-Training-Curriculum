@@ -26,7 +26,7 @@ tags:
 
 ## Total Module Duration
 
-1 hour 50 minutes (approximately, without pre-session activities)
+1 hour 50 minutes (without pre-session activities)
 
 
 ## Learning Objective 1

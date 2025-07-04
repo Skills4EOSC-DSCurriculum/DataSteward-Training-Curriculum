@@ -29,7 +29,7 @@ tags:
 
 ## Total Duration
 
-8 hours 45 minutes approximately
+8 hours 40 minutes
 
 
 ## Learning Objective 1

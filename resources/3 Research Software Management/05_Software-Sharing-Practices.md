@@ -30,7 +30,7 @@ tags:
 
 ## Total Module Duration
 
-5 hours 30 minutes approximately
+5 hours 35 minutes
 
 
 ## Learning Objective 1
