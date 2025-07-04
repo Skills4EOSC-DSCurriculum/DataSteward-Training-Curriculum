@@ -132,7 +132,6 @@ LO3: Describe the applications of structural metadata.
 
 - **Lecture** (90 mins): Give a walk-through of a survey data file online. How does descriptive and structural metadata make it meaningful? The instructor can facilitate learners to discuss how this is achieved or not. The instructor is invited to use Resource 5, an openly available survey conducted on people affected by various conflicts in the Balkans. This survey is interesting, as the respondents and questions are divided up in order to paint a broader picture of how people of different ethnicities, of different countries were impacted by violence, political unrest, and war.
 - **Learning activity: Going through a survey's structure alone or in groups** (30 mins): Instruct students to search within a research data repository for an openly available social science survey. Ask the students to identify the structural metadata, and discuss how this metadata help to give the data meaning. If the course is being held in person, students can write these down on a whiteboard, which can in turn be presented.
-- Questions to consider: What is the purpose of the metadata? What role does this metadata play in the data life cycle? How does the metadata ensure integrity and quality?
 
 
 ### Materials to Prepare
@@ -157,6 +156,12 @@ LO3: Describe the applications of structural metadata.
 - Draw attention to how these metadata enable longer term preservation of data (can refer to the module on data preservation and archiving for more information).
 - Using Resource 4, point out how the survey gets divided depending on the nationality of the respondent. Draw students' attention to how this categorization (through structural metadata) provides a broader picture through the segmentation of the universe.
 
+**Learning Activity:**
+
+- Questions to consider:
+    - What is the purpose of the metadata?
+    - What role does this metadata play in the data life cycle?
+    - How does the metadata ensure integrity and quality?
 
 ### Resources
 
