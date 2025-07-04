@@ -16,67 +16,109 @@
       "orcid": "0000-0003-4800-7925"
     },
     {
-      "name": "Martinez Lavanchy, Paula"
+      "affiliation": "TU Delft",
+      "name": "Martinez Lavanchy, Paula Maria",
+      "orcid": "0000-0003-1448-0917"
     },
     {
-      "name": "Aguilar, Fernando"
+      "affiliation": "Consejo Superior de Investigaciones Científicas",
+      "name": "Aguilar Gómez, Fernando",
+      "orcid": "0000-0001-9462-4831"
     },
     {
-      "name": "Alamettälä, Tuulikki"
+      "affiliation": "Tampere University",
+      "name": "Alamettälä, Tuulikki",
+      "orcid": "0000-0002-3247-6324"
     },
     {
-      "name": "Antoine, Diane"
+      "affiliation": "Centre National de la Recherche Scientifique (CNRS)",
+      "name": "Antoine, Diane",
+      "orcid": "0009-0007-0228-7980"
     },
     {
-      "name": "Bernier, Mathilde"
+      "affiliation": "Centre National de la Recherche Scientifique (CNRS)",
+      "name": "Bernier, Mathilde",
+      "orcid": "0009-0000-5770-3047"
     },
     {
-      "name": "Colcelli, Valentina"
+      "affiliation": "Consiglio Nazionale delle Ricerche",
+      "name": "Colcelli, Valentina",
+      "orcid": "0000-0001-5488-2991"
     },
     {
-      "name": "Derksen, Benjamin"
+      "affiliation": "Copenhagen University Library/Royal Danish Library",
+      "name": "Derksen, Benjamin",
+      "orcid": "0000-0001-9144-7518"
     },
     {
-      "name": "Drazewski, Kasper"
+      "affiliation": "KU Leuven",
+      "name": "Drążewski, Kasper",
+      "orcid": "0000-0002-4851-6829"
     },
     {
-      "name": "Green, Dominique"
+      "affiliation": "Digital Curation Centre",
+      "name": "Green, Dominique",
+      "orcid": "0000-0002-9411-4281"
     },
     {
-      "name": "Hadrossek, Christine"
+      "affiliation": "Centre National de la Recherche Scientifique (CNRS)",
+      "name": "Hadrossek, Christine",
+      "orcid": "0000-0002-2638-6373"
     },
     {
-      "name": "Janik, Joanna"
+      "affiliation": "Centre National de la Recherche Scientifique (CNRS)",
+      "name": "Janik, Joanna",
+      "orcid": "0000-0001-7587-2995"
     },
     {
-      "name": "Kryger Hansen, Karsten"
+      "affiliation": "Aalborg University",
+      "name": "Hansen, Karsten Kryger",
+      "orcid": "0000-0002-2407-8764"
     },
     {
-      "name": "Leister, Carolin"
+      "affiliation": "Karlsruhe Institute of Technology",
+      "name": "Leister, Carolin",
+      "orcid": "0000-0002-6940-0024"
     },
     {
-      "name": "Møldrup-Dalum, Per"
+      "affiliation": "Aarhus University",
+      "name": "Møldrup-Dalum, Per",
+      "orcid": "0000-0001-9976-3515"
     },
     {
-      "name": "Musidlowska, Marta"
+      "affiliation": "KU Leuven",
+      "name": "Musidlowska, Marta",
+      "orcid": "0009-0001-4120-9981"
     },
     {
-      "name": "Peters, Ekaterina"
+      "affiliation": "Karlsruhe Institute of Technology",
+      "name": "Peters, Ekaterina",
+      "orcid": "0000-0002-2966-202X"
     },
     {
-      "name": "Psathas, Giorgos"
+      "affiliation": "National Infrastructures for Research and Technology - GRNET S.A",
+      "name": "Psathas, Giorgos",
+      "orcid": "0000-0003-3574-5320"
     },
     {
-      "name": "Rauste, Päivi"
+      "affiliation": "CSC - IT Center for Science (Finland)",
+      "name": "Rauste, Päivi",
+      "orcid": "0000-0001-8315-5259"
     },
     {
-      "name": "Schirru, Luca"
+      "affiliation": "KU Leuven",
+      "name": "Schirru, Luca",
+      "orcid": "0000-0002-4706-3776"
     },
     {
-      "name": "Schubö, Fabian"
+      "affiliation": "Karlsruhe Institute of Technology",
+      "name": "Schubö, Fabian",
+      "orcid": "0000-0002-9956-2438"
     },
     {
-      "name": "Wildgaard, Lorna"
+      "affiliation": "Copenhagen University Library/Royal Danish Library",
+      "name": "Wildgaard, Lorna",
+      "orcid": "0000-0002-3900-5058"
     }
   ],
   "description": "This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts.",
