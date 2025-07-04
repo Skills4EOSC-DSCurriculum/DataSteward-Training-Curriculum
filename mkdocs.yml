@@ -52,10 +52,16 @@ citation:
   authors:
     - family-names: van Leersum
       given-names: Nida
+      orcid: https://orcid.org/0009-0001-8479-122X
+      affiliation: TU Delft
     - family-names: Sharma
       given-names: Saba
+      orcid: https://orcid.org/0000-0002-8695-5902
+      affiliation: TU Delft
     - family-names: Winandi
       given-names: Achim
+      orcid: https://orcid.org/0000-0003-4800-7925
+      affiliation: Karlsruhe Institute of Technology
     - family-names: Martinez Lavanchy
       given-names: Paula
     - family-names: Aguilar
