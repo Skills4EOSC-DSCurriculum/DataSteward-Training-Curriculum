@@ -28,9 +28,11 @@ author:
     - Lorna Wildgaard
 tags: 
     - Skills4EOSC
-    - DataStewardship
-    - Curriculum
+    - Data Stewardship
+    - FAIR Data
+    - Training Curriculum
     - Data Steward
+    - Entry-level
 
 abstract: "This curriculum for entry-level data stewards has been developed by a working group in the Skills4EOSC project (Task 4.1 of the project), and is intended to provide guidance to teach the foundational topics required for data stewardship."
 primaryLanguage: "EN"
