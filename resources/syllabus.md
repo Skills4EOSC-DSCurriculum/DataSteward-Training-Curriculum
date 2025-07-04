@@ -34,7 +34,7 @@ tags:
     - Data Steward
     - Entry-level
 
-abstract: "This curriculum for entry-level data stewards has been developed by a working group in the Skills4EOSC project (Task 4.1 of the project), and is intended to provide guidance to teach the foundational topics required for data stewardship."
+abstract: "This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts."
 primaryLanguage: "EN"
 license: "http://creativecommons.org/licenses/by/4.0/"
 versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
