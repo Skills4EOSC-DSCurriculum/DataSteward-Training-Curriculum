@@ -1,0 +1,106 @@
+{
+  "creators": [
+    {
+      "affiliation": "TU Delft",
+      "name": "van Leersum, Nida",
+      "orcid": "0009-0001-8479-122X"
+    },
+    {
+      "affiliation": "TU Delft",
+      "name": "Sharma, Saba",
+      "orcid": "0000-0002-8695-5902"
+    },
+    {
+      "affiliation": "Karlsruhe Institute of Technology",
+      "name": "Winandi, Achim",
+      "orcid": "0000-0003-4800-7925"
+    },
+    {
+      "name": "Martinez Lavanchy, Paula"
+    },
+    {
+      "name": "Aguilar, Fernando"
+    },
+    {
+      "name": "Alamettälä, Tuulikki"
+    },
+    {
+      "name": "Antoine, Diane"
+    },
+    {
+      "name": "Bernier, Mathilde"
+    },
+    {
+      "name": "Colcelli, Valentina"
+    },
+    {
+      "name": "Derksen, Benjamin"
+    },
+    {
+      "name": "Drazewski, Kasper"
+    },
+    {
+      "name": "Green, Dominique"
+    },
+    {
+      "name": "Hadrossek, Christine"
+    },
+    {
+      "name": "Janik, Joanna"
+    },
+    {
+      "name": "Kryger Hansen, Karsten"
+    },
+    {
+      "name": "Leister, Carolin"
+    },
+    {
+      "name": "Møldrup-Dalum, Per"
+    },
+    {
+      "name": "Musidlowska, Marta"
+    },
+    {
+      "name": "Peters, Ekaterina"
+    },
+    {
+      "name": "Psathas, Giorgos"
+    },
+    {
+      "name": "Rauste, Päivi"
+    },
+    {
+      "name": "Schirru, Luca"
+    },
+    {
+      "name": "Schubö, Fabian"
+    },
+    {
+      "name": "Wildgaard, Lorna"
+    }
+  ],
+  "description": "This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts.",
+  "keywords": [
+    "Skills4EOSC",
+    "Data Stewardship",
+    "FAIR Data",
+    "Training Curriculum",
+    "Data Steward",
+    "Entry-level"
+  ],
+  "license": "CC-BY-4.0",
+  "publication_date": "1970-01-01",
+  "title": "Data Steward Training Curriculum",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}
