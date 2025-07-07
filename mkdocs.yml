@@ -161,7 +161,6 @@ citation:
     - "Training Curriculum"
     - "Data Steward"
     - "Entry-level"
-  repository: "https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum"
   repository-code: "https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum"
   url: "https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/"
 signposting_linkset: https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum/main/linkset.json # do not update manually
