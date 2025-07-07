@@ -284,6 +284,7 @@ LO6: Describe practical steps to make research software citable.
     - How do I communicate the importance of citing software to researchers?
     - How do I guide researchers through the steps of making their software citable?
 - More information on Think-Pair-Share activities is available in Resource 6.
+- One possible persistent identifier for software is the "SoftWare Heritage persistent IDentifier" (SWHID). More information can be found in Resource 8.
 
 
 ### Resources
@@ -303,3 +304,4 @@ LO6: Describe practical steps to make research software citable.
 **Further reading:**
 
 7. Di Cosmo, Roberto, et al. *Referencing Source Code Artifacts: A Separate Concern in Software Citation*. 2020. *DOI.org (Datacite)*, <https://doi.org/10.48550/ARXIV.2001.08647>.
+8. *SoftWare Heritage persistent IDentifiers (SWHIDs)*. <https://docs.softwareheritage.org/devel/swh-model/persistent-identifiers.html>. Accessed 07 Jul. 2025.

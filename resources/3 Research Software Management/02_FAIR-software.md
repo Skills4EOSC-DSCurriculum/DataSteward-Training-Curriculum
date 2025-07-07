@@ -54,6 +54,7 @@ LO1: Recognise and apply the FAIR principles in research software management.
 
 - The slide presentation should broadly cover an overview of the FAIR4RS Principles.
 - Slides and activity materials from the Netherlands eScience Center can be reused, with attribution provided in accordance with the CC BY 4.0 licence.
+- One possible persistent identifier for software is the "SoftWare Heritage persistent IDentifier" (SWHID). More information can be found in Resource 7.
 
 
 ### Resources
@@ -72,6 +73,7 @@ LO1: Recognise and apply the FAIR principles in research software management.
 
 5. Barker, Michelle, et al. "Introducing the FAIR Principles for Research Software." *Scientific Data*, vol. 9, no. 1, Oct. 2022, p. 622. *DOI.org (Crossref)*, <https://doi.org/10.1038/s41597-022-01710-x>.
 6. Katz, Daniel S., et al. "Taking a Fresh Look at FAIR for Research Software." *Patterns*, vol. 2, no. 3, Mar. 2021, p. 100222. *DOI.org (Crossref)*, <https://doi.org/10.1016/j.patter.2021.100222>.
+7. *SoftWare Heritage persistent IDentifiers (SWHIDs)*. <https://docs.softwareheritage.org/devel/swh-model/persistent-identifiers.html>. Accessed 07 Jul. 2025.
 
 
 
