@@ -118,7 +118,7 @@ The curriculum comprises the following sections and modules.
 |                                   | Module 7: Data Preservation and Archiving                                                            |
 |                                   | Module 8: Data Management Plans                                                                      |
 |                                   |                                                                                                      |
-| **Research Software Management**  | Module 1: What is Research Software                                                                  |
+| **Research Software Management**  | Module 1: What is Research Software?                                                                 |
 |                                   | Module 2: FAIR Software                                                                              |
 |                                   | Module 3: Software Management Plans                                                                  |
 |                                   | Module 4: Software Development Practices                                                             |
@@ -126,7 +126,7 @@ The curriculum comprises the following sections and modules.
 |                                   |                                                                                                      |
 | **Policy and Governance**         | Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science                 |
 |                                   | Module 2: Translating Institutional Data and Software Policy to Strategy                             |
-|                                   | Module 3: Balancing benefits of Open Science and Real-Life Data Related Obligations and Restrictions |
+|                                   | Module 3: Balancing Benefits of Open Science and Real-Life Data Related Obligations and Restrictions |
 |                                   |                                                                                                      |
 | **Usage Rights and Licences**     | Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation                    |
 |                                   | Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework           |

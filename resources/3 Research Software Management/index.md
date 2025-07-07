@@ -25,7 +25,7 @@ Special thanks to Jaro Camphuijsen, Mateusz Kuzak and Robin Richardson from the 
 
 This section consists of the following modules:
 
-- Module 1: What is Research Software
+- Module 1: What is Research Software?
 - Module 2: FAIR Software
 - Module 3: Software Management Plans
 - Module 4: Software Development Practices

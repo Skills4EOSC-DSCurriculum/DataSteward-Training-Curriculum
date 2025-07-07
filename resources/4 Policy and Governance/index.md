@@ -28,4 +28,4 @@ This section consists of three modules:
 
 - Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science
 - Module 2: Translating Institutional Data and Software Policy to Strategy
-- Module 3: Balancing benefits of Open Science and Real-Life Data Related Obligations and Restrictions
+- Module 3: Balancing Benefits of Open Science and Real-Life Data Related Obligations and Restrictions

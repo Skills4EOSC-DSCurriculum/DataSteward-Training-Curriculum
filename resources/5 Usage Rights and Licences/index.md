@@ -23,6 +23,6 @@ The goal of this section is to equip data stewards with knowledge and resources 
 
 This section consists of three modules:
 
-- Module 1: Getting Familiar with the EU Copyright Law and Data and Digital Legislation
+- Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation
 - Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework
 - Module 3: Exploitation and Dissemination Assessments in EU Projects

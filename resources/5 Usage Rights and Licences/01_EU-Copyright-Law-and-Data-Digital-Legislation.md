@@ -1,5 +1,5 @@
 ---
-title: "Module 1: Getting Familiar with the EU Copyright Law and Data and Digital Legislation"
+title: "Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
@@ -9,7 +9,7 @@ tags:
     - Licences
 ---
 
-# Module 1: Getting Familiar with the EU Copyright Law and Data and Digital Legislation
+# Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation
 
 
 !!! warning "This page is currently under construction"

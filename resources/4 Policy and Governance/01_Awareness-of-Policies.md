@@ -1,5 +1,5 @@
 ---
-title: "Module 1: Awareness of National/Institutional Policies on RDM, Open Science"
+title: "Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
