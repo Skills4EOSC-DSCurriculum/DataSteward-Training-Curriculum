@@ -14,24 +14,18 @@
   {
     "@context": "https://schema.org/",
     "@type": "Course",
-    "name": "Data Steward Training Curriculum",
-    "description": "This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts.",
-    "url": "https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/",
+    "name": "{{ config.citation.title }}",
+    "description": "{{ config.citation.abstract }}",
+    "url": "{{ config.citation.url }}",
     "provider": {
       "@type": "Organization",
       "name": "Skills4EOSC",
       "url": "https://skills4eosc.eu"
     },
-    "keywords": [
-      "Data Stewardship",
-      "FAIR Data",
-      "Training Curriculum",
-      "Data Steward",
-      "Entry-level"
-    ],
+    "keywords": {{ config.citation.keywords | tojson() }},
     "learningResourceType": "Curriculum",
     "educationalLevel": "beginner",
-    "datePublished": "2025-06-23"
+    "datePublished": "{{ config.citation['date-released'] }}"
   }
   </script>
   <!-- end JSON-LD -->
