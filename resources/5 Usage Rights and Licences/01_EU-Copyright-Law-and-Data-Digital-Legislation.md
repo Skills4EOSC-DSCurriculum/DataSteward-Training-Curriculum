@@ -26,7 +26,7 @@ tags:
 
 ## Total Module Duration
 
-1 hour &ndash; excluding pre-session work (instructor may go into more detail if needed, the duration is flexible)
+1 hour (excluding pre-session work; instructor may go into more detail if needed, the duration is flexible)
 
 
 ## Learning Objective 1
