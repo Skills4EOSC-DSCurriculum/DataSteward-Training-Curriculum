@@ -24,7 +24,7 @@ tags:
 - **Learning Objective 1 (LO1):** Summarise and present the definition, history and applications of metadata.
 - **Learning Objective 2 (LO2):** Criticise and appraise the quality of descriptive metadata records.
 - **Learning Objective 3 (LO3):** Describe the applications of structural metadata.
-- **Learning Objective 4 (LO4):** Identify the applications of administrative metadata.
+- **Learning Objective 4 (LO4):** Identify the applications of administrative/legal metadata.
 
 
 ## Total Duration
