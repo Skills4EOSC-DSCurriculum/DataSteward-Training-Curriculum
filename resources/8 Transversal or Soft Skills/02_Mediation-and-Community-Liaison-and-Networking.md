@@ -37,9 +37,9 @@ LO1: Identify effective ways to develop networking skills and understand their i
 
 ### Learning Activities
 
-- **Brainstorming** (20 mins): the instructor asks the learners what networking is to them, how they implement it as part of their work, what difficulties they encounter. The discussion can include: how to develop a professional network (identify individual needs, use social networks) how to go about it and what the key success factors are (try to meet lot of people, be bold, share information, take part in seminars).
-- **Presentation** (30 mins): the instructor introduces what networking is and why networking is important.
-- **Optional activity** (15 mins): the instructor can propose to the learners the idea of building their own network. Discuss the key aspects of starting a network before introducing Resource 1.
+- **Brainstorming** (20 mins): The instructor asks the learners what networking is to them, how they implement it as part of their work, what difficulties they encounter. The discussion can include: how to develop a professional network (identify individual needs, use social networks) how to go about it and what the key success factors are (try to meet lot of people, be bold, share information, take part in seminars).
+- **Presentation** (30 mins): The instructor introduces what networking is and why networking is important.
+- **Optional activity** (15 mins): The instructor can propose to the learners the idea of building their own network. Discuss the key aspects of starting a network before introducing Resource 1.
 
 
 ### Materials to Prepare
@@ -78,8 +78,8 @@ LO2: Identify (discipline-specific) experts to develop knowledge and connect peo
 ### Learning Activities
 
 - **Round table** (10 mins): The trainer asks the learners what their original scientific disciplines are, what networks they identified during their career path in research and how they identified them at the time.
-- **Discussion** (10 mins): How can I benefit from professional networks or working groups &ndash; why should I get involved ?
-- **(Optional) Video presentation** (10 mins) of testimonials of networking examples.
+- **Discussion** (10 mins): How can I benefit from professional networks or working groups? Why should I get involved ?
+- **(Optional) Video presentation** (10 mins): Testimonials of networking examples.
 
 
 ### Materials to Prepare
