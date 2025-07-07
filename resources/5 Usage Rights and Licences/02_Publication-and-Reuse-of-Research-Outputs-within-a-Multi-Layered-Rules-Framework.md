@@ -36,7 +36,7 @@ LO1: Identify potential opportunities and obligations related to the publication
 
 ### Learning Activities
 
-- **Slide presentation/lecture** (60mins): The goal of the lecture is to give data stewards an overview of issues within a multi-layered rules framework, such as licensing of research outputs, publication policies of journals, potential effects of publishing research output, and adjudicating between different licences. The instructor can consult or reuse slides prepared as part of Resource 9, a more in-depth learning path on open licensing.
+- **Slide presentation/lecture** (60 mins): The goal of the lecture is to give data stewards an overview of issues within a multi-layered rules framework, such as licensing of research outputs, publication policies of journals, potential effects of publishing research output, and adjudicating between different licences. The instructor can consult or reuse slides prepared as part of Resource 9, a more in-depth learning path on open licensing.
 - **Discussion Activity** (30 mins): In pairs, learners should reflect on the following scenario: A researcher approaches the data steward with a research article and related dataset that they would like to publish in a journal. What advice could you give them on the following points:
     - Why they should share and license their data.
     - What different licence types are available and the implications of each.

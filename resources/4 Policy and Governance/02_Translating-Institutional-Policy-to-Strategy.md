@@ -67,10 +67,10 @@ LO1: Recognise the importance of institutional policies such as data and softwar
    In this course the impact of institutional policies is explained, also examples of different policies, in section V, 'Data policy'. Examples of institutional policies in two Dutch national institutions are provided.
 2. Australian Research Data Commons. Institutional Research Data Management Policies and Procedures. Zenodo, 16 Dec. 2021. DOI.org (Datacite), <https://doi.org/10.5281/ZENODO.5784765>.  
    This resource looks at why have a research data management policy or policies:
-   - Possible approaches to constructing a research data policy suite
-   - Examples of data management policies
-   - Key topics to include in a research data policy suite
-   - Checklist for a Research Data Management Policy for Australian Universities/Institutions (which could be considered as an example)
+    - Possible approaches to constructing a research data policy suite
+    - Examples of data management policies
+    - Key topics to include in a research data policy suite
+    - Checklist for a Research Data Management Policy for Australian Universities/Institutions (which could be considered as an example)
 3. Pereira, Filipa. Institutional Policies on RDM &amp; Exercise. Zenodo, 21 June 2022. DOI.org (Datacite), <https://doi.org/10.5281/ZENODO.6674439>.  
    This resource includes a slide presentation that can be used as a material for the presentation or group activity. It is a part of the ELIXIR data stewardship training program for life sciences. It provides a discussion of important elements of a data management policy.
 
