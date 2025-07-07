@@ -181,7 +181,7 @@ LO4: Identify the applications of administrative/legal metadata.
 
 ### Learning Activities
 
-- **Lecture** (30 mins): The lecture can focus on file format metadata, Data formats and versioning, Access rights (for example, Copyright, Creative Commons) and representing and implementing GDPR with respect to sensitive data.
+- **Lecture** (30 mins): The lecture can focus on file format metadata, data formats and versioning, access rights (for example, copyright, Creative Commons) and representing and implementing GDPR with respect to sensitive data.
 - **Metadata scavenger hunt part 2** (90 mins): Go to data repository and walk through a record's administrative and structural metadata.
 
 
