@@ -96,22 +96,26 @@ LO2: Apply FAIR principles and share data effectively.
 
 - Introduce the learner to FAIR principles (Findable, Accessible, Interoperable, Reusable) and present the purposes of FAIR principles to help share reusable data. The aim is to give an overview of data sharing challenges in research and how FAIR principles address them. Use real-world examples of FAIR data implementation to explain the principles.
 - Explain why the FAIR principles are being taught. The main objective of FAIR is to increase data reuse by researchers. The core concepts of the FAIR principles are based on good scientific practice and intuitively grounded. As data stewards, it will be the learners' job to support good research practice and the implementation of the FAIR principles.
-- Each principle can be explained at a time. For each principle show case how they can be applied. For example, how licences help Reusability and how metadata help Findability, Reusability and Interoperability. Explain how the principles are implemented using data management plans, persistent identifiers, licences for datasets, metadata and using tools such as repositories. For better illustration of the implementation of the FAIR principle, the instructor can highlighting where in the research project life cycle FAIR principles can be applied and where support may be provided. Consider including an interactive quiz such as a Kahoot to assess the learners understanding of FAIR/non-FAIR data practices with regard to the FAIR principles.
+- One principle can be explained at a time. For each principle show case how they can be applied. For example, how licences help Reusability and how metadata help Findability, Reusability and Interoperability. Explain how the principles are implemented using data management plans, persistent identifiers, licences for datasets, metadata and using tools such as repositories. For better illustration of the implementation of the FAIR principle, the instructor can highlighting where in the research project life cycle FAIR principles can be applied and where support may be provided. Consider including an interactive quiz to assess the learners understanding of FAIR/non-FAIR data practices with regard to the FAIR principles.
 - The instructor can cover the following key takeaways:
-    - "Open" data and FAIR data: Ensure learners grasp the difference between "open" data and FAIR data. Be clear that FAIR principles are guidelines, not strict rules, and that flexibility is essential. FAIR principles are designed to make data reusable and more accessible.
+    - "Open" data and FAIR data: Ensure learners grasp the difference between "open" data and FAIR data.
+    - Be clear that FAIR principles are guidelines, not strict rules, and that flexibility is essential. FAIR principles are designed to make data reusable and more accessible.
     - Sharing data using FAIR principles leads to more reproducible and impactful research.
     - Accessibility is not just about Open Data but making data "as open as possible, as closed as necessary."
 - Make sure learners understand that the metadata for a given dataset is often linked to the data repository where it has been published. For instance, in Zenodo, the metadata is very basic, whereas in disciplinary repositories, for instance the Cambridge Structural Database, the metadata is much more detailed. Accordingly, address discipline-specific considerations for implementing FAIR principles in different fields, for example differences in metadata standards or data formats.
 
 **Case Studies:**
 
-- Prepare three cases as below and share it with the learners:
-    - 1) find a "good example" dataset that has been made "FAIR",
-    - 2) a dataset where the metadata or usage licence is missing, and
+- Prepare three cases as below and share it with the learners: find a "good example" dataset
+    - 1) that has been made "FAIR",
+    - 2) where the metadata or usage licence is missing, and
     - 3) where the format is outdated.
 - For each dataset, ask learners to check if all the elements/practices to implement the FAIR principles discussed are present. Is there any principle that does not entirely apply to these datasets? What would be your recommendations to improve them.
-- Prepare questions for the learners to work with such as: which metadata would be appropriate to add to Case 2, how can we ensure that data is usable in years to come, which formats could we recommend (Case 3).
-- Many libraries provide guides to where you can find teachable datasets, such as those linked in Resources 1&ndash;3. These datasets may require you to edit the README file or remove some metadata to make interesting cases. Alternatively, you can search for datasets from different data repositories which are more or less (or not) FAIR. Exposing the learners to how the datasets look in different repositories is an add-on learning experience.
+- Prepare questions for the learners to work with such as:
+    - Which metadata would be appropriate to add to Case 2?
+    - How can we ensure that data is usable in years to come?
+    - Which formats could we recommend (Case 3)?
+- Many university libraries provide guides to where you can find teachable datasets, such as those linked in Resources 1&ndash;3. These datasets may require you to edit the README file or remove some metadata to make interesting cases. Alternatively, you can search for datasets from different data repositories which are more or less (or not) FAIR. Exposing the learners to how the datasets look in different repositories is an add-on learning experience.
 
 
 ### Resources

@@ -127,8 +127,8 @@ LO2: Explain the importance of making data FAIR.
     - There are common concerns (intellectual property, data security, lack of technical skills) about how to work FAIR and also advantages (for example making data FAIR can help secure funding and collaborations) which the data steward will need to mediate. Hence, there are valid concerns about FAIR data, but they can be managed with the right strategies.
     - FAIR data benefits the scientific community and increases research visibility.
 - The activities encourage the learners to articulate the FAIR agenda and consider FAIR from the perspective of researchers and data stewards.
-- In this last lesson, talk about how FAIR principles are interwoven in other data stewardship concepts. Identify for example how other modules in the curriculum build on the FAIR principles (metadata, data quality).This will encourage the learner to think critically across the curriculum and the complexity of the tasks they are working with as data stewards on a deeper level. Make sure learners understand how FAIR connects with broader data stewardship topics and encourage learners to identify their learning needs for future modules.
-- FAIR is a foundational concept that informs all aspects of data stewardship. The principles of FAIR will be applied repeatedly throughout the curriculum. Other lessons in the curriculum dive deeper into specific technical strategies for implementing FAIR.
+- In this last lesson, talk about how FAIR principles are interwoven in other data stewardship concepts. Make sure learners understand how FAIR connects with broader data stewardship topics and encourage learners to identify their learning needs for future modules.
+- FAIR is a foundational concept that informs all aspects of data stewardship. The principles of FAIR will be applied repeatedly throughout the curriculum. Other lessons in the curriculum dive deeper into specific technical strategies for implementing FAIR. Identify for example how other modules in the curriculum build on the FAIR principles (metadata, data quality). This will encourage the learner to think critically across the curriculum and the complexity of the tasks they are working with as data stewards on a deeper level.
 
 **Debate:**
 
@@ -141,7 +141,7 @@ LO2: Explain the importance of making data FAIR.
 
 **Mind map:**
 
-- This activity serves as an assessment to connect different ideas. Mind mapping templates can be prepared (Resource 3) and used in the assessment activity. Likewise prepare to discuss with the learners the areas they feel less confident about FAIR, the skills they may wish to improve and where they can learn more.
+- This activity serves as an assessment to connect different ideas. Mind mapping templates can be prepared (Resource 3) and used in the assessment activity. Prepare to discuss with the learners the areas they feel less confident about FAIR, the skills they may wish to improve and where they can learn more.
 
 
 ### Resources
@@ -187,13 +187,13 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
 **Discussion:**
 
 - Begin with a brief recap of the FAIR principles and the importance of making data FAIR (depending on how the instructor is teaching the module, these can be covered by materials in Learning Objective 1).
-- Present and share the handout, which provides a summary of key elements to make data FAIR (for example, (machine-readable) metadata, PIDs, repositories, open and interoperable formats, licences).The activity will give an overview of tools supporting FAIR data (for example, Zenodo, Figshare, Dataverse). The purpose is to provide a more "hands-on" introduction to workflows for metadata generation, data storage, and archiving (more information about this can be found in the module on Data Preservation and Archiving). It is important to use time explaining licensing options (for instance, Creative Commons) that align with FAIR principles.
+- Present and share the handout, which provides a summary of key elements to make data FAIR (for example, (machine-readable) metadata, PIDs, repositories, open and interoperable formats, licences). The activity will give an overview of tools supporting FAIR data (for example, Zenodo, Figshare, Dataverse). The purpose is to provide a more "hands-on" introduction to workflows for metadata generation, data storage, and archiving (more information about this can be found in the module on Data Preservation and Archiving). It is important to use time explaining licensing options (for instance, Creative Commons) that align with FAIR principles.
 - Key Takeaways are:
     - Not all tools are equally suitable for every type of data or research project.
     - Many tools (such as repositories, metadata creators, ReadMe file templates etc.) exist to facilitate FAIR data, some are more complicated than others. Test the appropriateness of the tool before recommending to learners or including in the workshop material.
     - Choosing the right tool depends on the specific research needs.
     - Well-structured metadata is crucial for making data findable and reusable.
-- The instructor can highlight that each FAIR principle plays a crucial role in ensuring that data can be easily discovered, accessed, integrated, and reused by other researchers and stakeholders. Assigning persistent identifiers, such as DOIs to datasets ensures they are reliably referenced and can be easily located over time. PIDs enhance the Findability and credibility of research outputs. Using standardised formats and controlled vocabularies facilitates data Interoperability, allowing datasets to be easily integrated and analysed alongside other data. This is vital for collaborative research and data sharing across disciplines. Familiarity with the tools and resources (for example metadata generators, repositories, FAIR evaluation tools) is essential for effectively implementing FAIR principles in practice. FAIR principles are also the first step for a reproducible research. These tools help streamline the process of making data FAIR.
+- The instructor can highlight that each FAIR principle plays a crucial role in ensuring that data can be easily discovered, accessed, integrated, and reused by other researchers and stakeholders. Assigning persistent identifiers, such as DOIs to datasets ensures they are reliably referenced and can be easily located over time. PIDs enhance the Findability and credibility of research outputs. Using standardised formats and controlled vocabularies facilitates data interoperability, allowing datasets to be easily integrated and analysed alongside other data. This is vital for collaborative research and data sharing across disciplines. Familiarity with the tools and resources (for example metadata generators, repositories, FAIR evaluation tools) is essential for effectively implementing FAIR principles in practice. FAIR principles are also the first step for a reproducible research. These tools help streamline the process of making data FAIR.
 - Learners can also be asked to share their own inputs about other tools or strategies they know of that can help make data FAIR.
 
 ??? info "Handout for Discussion Activity"
@@ -206,10 +206,10 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
         - Persistent Identifiers (PIDs): Assign globally unique and persistent identifiers (DOIs, Handles) to your data and metadata so that it can be reliably found and referenced. Examples include:
             - DOIs (Digital Object Identifiers) for datasets (DataCite, Zenodo).
             - ORCID iDs for author identification.
-        - Metadata: Create and publish rich metadata using standard schemas (e.g., Dublin Core, DataCite). Ensure metadata includes PIDs and is indexed in searchable databases and repositories.
-        - Tools: DataCite Metadata Generator, Zenodo, Figshare.
-        - Data Catalogs/Repositories: Deposit your data in open, FAIR-compliant repositories that ensure data and metadata are indexed and easily searchable.
-        - Examples: Zenodo, Figshare, Dryad, Dataverse.
+        - Metadata: Create and publish rich metadata using standard schemas (e.g., Dublin Core, DataCite). Ensure metadata includes PIDs and is indexed in searchable databases and repositories.  
+          Tools: DataCite Metadata Generator, Zenodo, Figshare.
+        - Data Catalogues/Repositories: Deposit your data in open, FAIR-compliant repositories that ensure data and metadata are indexed and easily searchable.  
+          Examples: Zenodo, Figshare, Dryad, Dataverse.
     2. Accessible
         - Data Licensing: Use appropriate open licences (e.g., Creative Commons licences) to make data accessible within legal and ethical constraints.
         - Tools: Creative Commons License Chooser.
@@ -276,8 +276,8 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
     1. Each group presents their FAIRification process, explaining the changes they made to the dataset in relation to each FAIR principle.
     2. The group should walk through how they improved the findability, accessibility, interoperability, and reusability of the dataset.
     3. After presentations, facilitate a group discussion focusing on:
-        - What challenges did they encounter while making the data FAIR
-        - Which tools were most useful
+        - What challenges did they encounter while making the data FAIR?
+        - Which tools were most useful?
         - What additional steps could be taken to further enhance the dataset's FAIRness?
 
     *Materials to Prepare:*
@@ -295,7 +295,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
 
     Ask participants to reflect on:
 
-    1. What technical strategies stood out as most important for FAIR data?
+    1. Which technical strategies stood out as most important for FAIR data?
     2. How would they apply these strategies in their own research or work?
     3. What future skills or tools they would like to explore in more detail.
     4. Conclude with a Q&A session to clarify any outstanding questions about the technical strategies for making data FAIR.
