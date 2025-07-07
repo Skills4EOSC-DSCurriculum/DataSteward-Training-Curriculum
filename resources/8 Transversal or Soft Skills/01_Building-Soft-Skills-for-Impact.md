@@ -52,7 +52,7 @@ LO1: Identify the main soft skills required by the data steward.
 
 **Presentation:**
 
-- The instructor can start off by defining soft skills (Resources 1 &ndash; 3) or play the video (Resource 4) with the aim to help learners identify and understand the importance of key soft skills necessary to promote open science and good research data management practices and addressing related challenges.
+- The instructor can start off by defining soft skills (Resources 1&ndash;3) or play the video (Resource 4) with the aim to help learners identify and understand the importance of key soft skills necessary to promote open science and good research data management practices and addressing related challenges.
 - The instructor can use the following case study of the Data Management Plan to discuss the role of the data steward, challenges that can be faced and associated skills that can be used to address the challenges. This case study can be used as a basis and paired with the Role Play Activity in LO2.
 - A researcher approaches the data steward (learner) and is reluctant to create a DMP. The data steward must look at different aspects of why a DMP is important and try and make a persuasive case using a mix of their knowledge while also employing key soft skills. Some points and challenges to be considered are:
     - Resistance to drafting the DMP:  
