@@ -53,23 +53,23 @@ citation:
     - family-names: van Leersum
       given-names: Nida
       orcid: https://orcid.org/0009-0001-8479-122X
-      affiliation: TU Delft
+      affiliation: Delft University of Technology
     - family-names: Sharma
       given-names: Saba
       orcid: https://orcid.org/0000-0002-8695-5902
-      affiliation: TU Delft
+      affiliation: Delft University of Technology
     - family-names: Winandi
       given-names: Achim
       orcid: https://orcid.org/0000-0003-4800-7925
-      affiliation: Karlsruhe Institute of Technology
+      affiliation: Karlsruhe Institute of Technology (KIT)
     - family-names: Martinez Lavanchy
       given-names: Paula Maria
       orcid: https://orcid.org/0000-0003-1448-0917
-      affiliation: TU Delft
+      affiliation: Delft University of Technology
     - family-names: Aguilar Gómez
       given-names: Fernando
       orcid: https://orcid.org/0000-0001-9462-4831
-      affiliation: Consejo Superior de Investigaciones Científicas
+      affiliation: Consejo Superior de Investigaciones Científicas (CSC)
     - family-names: Alamettälä
       given-names: Tuulikki
       orcid: https://orcid.org/0000-0002-3247-6324
@@ -113,7 +113,7 @@ citation:
     - family-names: Leister
       given-names: Carolin
       orcid: https://orcid.org/0000-0002-6940-0024
-      affiliation: Karlsruhe Institute of Technology
+      affiliation: Karlsruhe Institute of Technology (KIT)
     - family-names: Møldrup-Dalum
       given-names: Per
       orcid: https://orcid.org/0000-0001-9976-3515
@@ -125,7 +125,7 @@ citation:
     - family-names: Peters
       given-names: Ekaterina
       orcid: https://orcid.org/0000-0002-2966-202X
-      affiliation: Karlsruhe Institute of Technology
+      affiliation: Karlsruhe Institute of Technology (KIT)
     - family-names: Psathas
       given-names: Giorgos
       orcid: https://orcid.org/0000-0003-3574-5320
@@ -141,7 +141,7 @@ citation:
     - family-names: Schubö
       given-names: Fabian
       orcid: https://orcid.org/0000-0002-9956-2438
-      affiliation: Karlsruhe Institute of Technology
+      affiliation: Karlsruhe Institute of Technology (KIT)
     - family-names: Wildgaard
       given-names: Lorna
       orcid: https://orcid.org/0000-0002-3900-5058
