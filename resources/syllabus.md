@@ -5,14 +5,14 @@ author:
     - Nida van Leersum
     - Saba Sharma
     - Achim Winandi
-    - Paula Martinez Lavanchy
-    - Fernando Aguilar
+    - Paula Maria Martinez Lavanchy
+    - Fernando Aguilar Gómez
     - Tuulikki Alamettälä
     - Diane Antoine
     - Mathilde Bernier
     - Valentina Colcelli
     - Benjamin Derksen
-    - Kasper Drazewski
+    - Kasper Drążewski
     - Dominique Green
     - Christine Hadrossek
     - Joanna Janik
@@ -174,7 +174,7 @@ As a result of being worked on by so many different people at different stages, 
 
 ## Authors and Contributors
 
-Nida van Leersum, Saba Sharma, Achim Winandi, Paula Martinez Lavanchy, Fernando Aguilar, Tuulikki Alamettälä, Diane Antoine, Mathilde Bernier, Valentina Colcelli, Benjamin Derksen, Kasper Drazewski, Dominique Green, Christine Hadrossek, Joanna Janik, Karsten Kryger Hansen, Carolin Leister, Per Møldrup-Dalum, Marta Musidlowska, Ekaterina Peters, Giorgos Psathas, Päivi Rauste, Luca Schirru, Fabian Schubö, Lorna Wildgaard
+Nida van Leersum, Saba Sharma, Achim Winandi, Paula Maria Martinez Lavanchy, Fernando Aguilar Gómez, Tuulikki Alamettälä, Diane Antoine, Mathilde Bernier, Valentina Colcelli, Benjamin Derksen, Kasper Drążewski, Dominique Green, Christine Hadrossek, Joanna Janik, Karsten Kryger Hansen, Carolin Leister, Per Møldrup-Dalum, Marta Musidlowska, Ekaterina Peters, Giorgos Psathas, Päivi Rauste, Luca Schirru, Fabian Schubö, Lorna Wildgaard
 
 ## Licence
 
