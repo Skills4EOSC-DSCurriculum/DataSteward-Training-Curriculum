@@ -1,11 +1,6 @@
 name: cffconvert
 on:
   workflow_call:
-  push:
-    branches:
-      - "main"
-    paths:
-      - "CITATION.cff"
 jobs:
   validate:
     name: cffconvert validate and update .zenodo.json
@@ -64,6 +59,3 @@ jobs:
     if: ${{ (needs.validate.outputs.pushed == 'true') && (github.event_name == 'push') }}
     uses: ./.github/workflows/release-update-mkdocs-citation.yml
 
-  publish:
-    needs: reconcile_mkdocs
-    uses: ./.github/workflows/commit-publish-docs.yml

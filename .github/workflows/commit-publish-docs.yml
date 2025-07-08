@@ -10,15 +10,50 @@ on:
       - "mkdocs.yml"
       - "requirements.txt"
       - "RELEASE_NOTES.md"
+      - "CITATION.cff"
 
 jobs:
+  determine-exec-order:
+    name: Determine execution order
+    runs-on: ubuntu-22.04
+    outputs:
+      citations: ${{ steps.filter.outputs.citations }}
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        ref: main
+    - uses: dorny/paths-filter@v3
+      id: filter
+      with:
+        filters: |
+          citations:
+            - 'CITATION.cff'
+    # run only if 'CITATION.cff' file was changed
+    - name: citation changed
+      if: steps.filter.outputs.citations == 'true'
+      run: echo "CITATION.cff changed"
+
+    # run only if not 'CITATION.cff' files were changed
+    - name: citation not changed
+      if: steps.filter.outputs.citations != 'true'
+      run: echo "CITATION.cff not changed"
+
+  cffconvert:
+    uses: ./.github/workflows/commit-cffconvert.yml
+    needs: determine-exec-order
+    if: ${{ needs.determine-exec-order.outputs.citations == 'true' }}
+
   signposting:
     uses: ./.github/workflows/signposting.yml
+    needs: cffconvert
+    if: always() && !failure() && !cancelled()
 
   deploy_docs:
     name: Deploy docs
     runs-on: ubuntu-22.04
     needs: signposting
+    if: always() && !failure() && !cancelled()
     steps:
       - name: Checkout master
         uses: actions/checkout@v3
