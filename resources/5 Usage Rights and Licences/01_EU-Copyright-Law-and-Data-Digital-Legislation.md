@@ -42,9 +42,9 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
     - Does regulating access and control to publications and data **facilitate** or **harm** the progress of science?
     - Example sub-questions (Note: this can be used to split the group into two sub-groups to discuss and present their conclusions):
         - Is there a difference between copyright and Data and Digital Legislation in this respect?  
-          Suggestions: Consider protection of authors' interests under copyright (also: commercial publishing practices taking away their copyrights), the transaction costs related to licensing in a transnational environment, and the risks of Data and Digital Legislation being new legislation with not enough literature to ensure legal certainty - see Resource 2 and (optionally) also Resource 6.
+          Suggestions: Consider protection of authors' interests under copyright (also: commercial publishing practices taking away their copyrights), the transaction costs related to licensing in a transnational environment, and the risks of Data and Digital Legislation being new legislation with not enough literature to ensure legal certainty. See Resource 2 and (optionally) also Resource 6.
         - When is Open Science **not** the answer? What are the drawbacks of Open Science?  
-          Suggestions: Consider lost anonymity of review (in Open Review), lost authorship, misuse of personal data by scientific institutions or third parties, disruption of privacy, and data utilisation for harmful or ethically/religiously unacceptable research &ndash; see Lakomý et al. (2019), Resource 6.
+          Suggestions: Consider lost anonymity of review (in Open Review), lost authorship, misuse of personal data by scientific institutions or third parties, disruption of privacy, and data utilisation for harmful or ethically/religiously unacceptable research&mdash;see Lakomý et al. (2019), Resource 6.
 
 
 ### Materials to Prepare
@@ -85,15 +85,15 @@ LO1: Identify basic rules for access, ownership, (re)use and sharing of data, da
 
 - In preparation for the live session, learners are expected to follow the online course to gain a basic understanding of the concepts covered in this module. These include:
     - Applicable regimes: from a researcher's perspective, for personal data the key issue is privacy law including the GDPR; for non-personal data, it is mainly copyright (Resource 1).
-    - In the EU, works are closed by default &ndash; it is safe to assume they must be either licensed, public domain, or under a limitation/exception to be reused (Resource 1).
+    - In the EU, works are closed by default: it is safe to assume they must be either licensed, public domain, or under a limitation/exception to be reused (Resource 1).
     - Irrespectively, sui generis protection of databases applies when databases meet the criteria of originality or a substantial investment was made in the obtaining, verification or presentation of the database (in some cases leading to overlapping protection). Exception: databases created by means of sensors or other physical components of connected products and other machine-generated data which are governed by the Data Act. Note: for the "new" data legislative framework there is much less guidance when it comes to practical application than for GDPR or copyright aspects (Resources 1&ndash;3).
-    - Territoriality of copyright: Copyright is territorial and fragmented in the EU &ndash; not benefitting from full harmonisation (Resource 1).
-    - Direct applicability: Digital regulation like the Data Act or the Digital Governance Act benefits from direct applicability &ndash; fragmentation is much less of an issue (Resource 1).
+    - Territoriality of copyright: Copyright is territorial and fragmented in the EU&mdash;not benefitting from full harmonisation (Resource 1).
+    - Direct applicability: Digital regulation like the Data Act or the Digital Governance Act benefits from direct applicability&mdash;fragmentation is much less of an issue (Resource 1).
 
 **Discussion activity:**
 
 - The live session of the module should be used to facilitate a discussion that will prompt the learners to critically assess the content covered in the pre-requisite.
-- Before opening the main discussion during the live session, it is recommended to start by asking learners to establish individual relevance by providing practical examples from their professional context (learners could be told to think of some examples before the session, as part of the pre-session activities) &ndash; this can also give the instructor an opportunity to get a feeling of how understandable the self-paced part has been.
+- Before opening the main discussion during the live session, it is recommended to start by asking learners to establish individual relevance by providing practical examples from their professional context (learners could be told to think of some examples before the session, as part of the pre-session activities). This can also give the instructor an opportunity to get a feeling of how understandable the self-paced part has been.
 
 
 ### Resources

@@ -108,7 +108,7 @@ LO2: Choose communication media that are appropriate to the research environment
     - To create surveys: Limesurvey, Mentimenter
     - To vote: Balotilo
     - For multi-person writing: Cryptpad (secure online notepad, end-to-end encrypted data transfer or cryptdrive)
-    - Social networking communications tools: Mattermost, Slack, Rocket.Chat &ndash; but also Framapad, Framadate, Doodle, Microsoft Teams, ...
+    - Social networking communications tools: Mattermost, Slack, Rocket.Chat&mdash;but also Framapad, Framadate, Doodle, Microsoft Teams, ...
 - The instructor can give an overview of the different tools for project collaboration (a quick demonstration of Miro for example to create a mind map) and explain their role in project management and brainstorming.
 - The instructor can present the 8 elements of communications and give some explanation of of key models (more details on this in Resource 1).
 

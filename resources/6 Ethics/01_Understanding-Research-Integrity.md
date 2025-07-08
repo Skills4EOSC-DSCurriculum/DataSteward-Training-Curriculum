@@ -56,9 +56,9 @@ LO1: Describe the concept of research integrity.
     1. Divide participants into small groups (3&ndash;5 people).
     2. Assign one scenario per group (or let groups choose one). Each scenario presents a research integrity challenge.
     3. Scenarios (examples):
-        - Scenario 1: Authorship Dispute &ndash; A senior researcher adds their name to a paper without contributing significantly.
-        - Scenario 2: Data Manipulation &ndash; A researcher slightly tweaks data to make results look more significant.
-        - Scenario 3: Peer Review Ethics &ndash; A reviewer shares confidential details of a manuscript with a colleague.
+        - Scenario 1: Authorship Dispute&mdash;A senior researcher adds their name to a paper without contributing significantly.
+        - Scenario 2: Data Manipulation&mdash;A researcher slightly tweaks data to make results look more significant.
+        - Scenario 3: Peer Review Ethics&mdash;A reviewer shares confidential details of a manuscript with a colleague.
     4. Each group shares their key takeaways of their scenario by considering the following:
         - What are the principles of research integrity at stake?
         - What are the risks or consequences of integrity violations?

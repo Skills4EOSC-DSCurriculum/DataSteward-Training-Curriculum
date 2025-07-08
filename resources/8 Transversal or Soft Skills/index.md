@@ -27,6 +27,6 @@ The terms transversal/soft skills are both used here. While transversal aligns w
 
 This section consists of three modules:
 
-- Module 1: Advocacy &ndash; Building Soft Skills for Impact
-- Module 2: Mediation and Community &ndash; Liaison and Networking
+- Module 1: Advocacy&mdash;Building Soft Skills for Impact
+- Module 2: Mediation and Community&mdash;Liaison and Networking
 - Module 3: Efficient Communication (Written, Verbal and Visual)

@@ -147,7 +147,7 @@ This learning objective is meant to help guide researchers who are applying for 
         - 1) the **Ethics Review Procedure** conducted **before** the start of the project, and
         - 2) **Ethics Checks, Reviews and Audits** conducted **during** the project.
     - Information for EU project applicants and beneficiaries to ensure their proposals are ethics-compliant. It covers common ethics issues, offers advice on addressing them, and assists with filling out applications. This guidance in Resource 4 is designed to help applicants and beneficiaries of EU projects make their proposal ethics-compliant. The guidance will help them identify and deal with ethics issues that may arise from their project and provide help with filling out your application. It covers most of the ethics issues that usually arise in EU projects and gives advice on dealing with classic cases.
-    - As background, share with learners that the principles of the European Code of Conduct are important for all areas of research &ndash; whether publicly funded or privately conducted &ndash; and apply across disciplines. It can serve as a foundation for local, national, and field-specific guidelines, and it is designed to cover both many research methods, including approaches like citizen science or participatory research.
+    - As background, share with learners that the principles of the European Code of Conduct are important for all areas of research&mdash;whether publicly funded or privately conducted&mdash;and apply across disciplines. It can serve as a foundation for local, national, and field-specific guidelines, and it is designed to cover both many research methods, including approaches like citizen science or participatory research.
 
 **Activity:**
 

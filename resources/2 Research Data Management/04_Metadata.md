@@ -53,7 +53,7 @@ LO1: Summarise and present the definition, history and applications of metadata.
 
 **Lecture:**
 
-- Metadata is a key tool in everyday life &ndash; metadata is a kind of infrastructure, it becomes visible upon breakdown.
+- Metadata is a key tool in everyday life&mdash;metadata is a kind of infrastructure, it becomes visible upon breakdown.
 - Go through the types of metadata and highlight their use in a data stewardship context. Outline the importance of descriptive, structural, and administrative metadata, and how they intersect with the work of data stewards, both as data curators in repositories but also as consultants on projects.
 - Metadata is a crucial part of not only Findability but all elements of the FAIR principles.
 - Relay the history of metadata from early libraries through the structuring of digital technologies. See Gartner 2016 and Pommerantz 2015 (Resources 6, 7) for excellent summaries on this topic.
@@ -102,7 +102,7 @@ LO2: Criticise and appraise the quality of descriptive metadata records.
 - Key-Value Pairs are a simple but flexible way to represent an object. Touch briefly on the various formats, highlighting JSON and XML. Refer to prior technologies, such as library card catalogues.
 - Present Dublin Core as the foundation for contemporary description. If the instructor is comfortable, they can refer to Ontologies and the RDA format as next technological steps in the domain of descriptive metadata.
 - Cover how thesauri and authority files help to disambiguate terms that might otherwise semantically overlap and how this enables searching and systems of knowledge organisation.
-- Different data repositories enable and hinder data discovery in various ways &ndash; consider how metadata interacts with these, and what best practices might improve this. This does not need to be terribly technical, but the instructor can draw attention to how data discover is largely contingent on relatively simple search wizards that parse complex metadata representations.
+- Different data repositories enable and hinder data discovery in various ways&mdash;consider how metadata interacts with these, and what best practices might improve this. This does not need to be terribly technical, but the instructor can draw attention to how data discover is largely contingent on relatively simple search wizards that parse complex metadata representations.
 
 **Metadata scavenger hunt part 1:**
 
@@ -145,9 +145,9 @@ LO3: Describe the applications of structural metadata.
 **Lecture:**
 
 - The lecture can cover the following:
-    - variables and relationships &ndash; structuring datasets,
+    - variables and relationships&mdash;structuring datasets,
     - question texts and documentation (Social sciences),
-    - studies, datasets, data files &ndash; meaningful descriptions for data's structure,
+    - studies, datasets, data files&mdash;meaningful descriptions for data's structure,
     - databases, and
     - data preservation.
 - Draw attention to the importance of a codebook and supporting documentation, which helps to give meaning to various metadata. Something coded as "1" must stand for a semantic phrase in order to draw meaning from the data.

@@ -163,7 +163,7 @@ LO3: Recognise the importance of FAIR data, "CARE-ful" data treatment, documenta
 
 **Lecture and Discussion:**
 
-- The instructor can reiterate some of the key points from the FAIR data module if required: FAIR is not an "is" or "is not" concept but rather a spectrum &ndash; flexibility is key, and should work on a case by case basis.
+- The instructor can reiterate some of the key points from the FAIR data module if required: FAIR is not an "is" or "is not" concept but rather a spectrum&mdash;flexibility is key, and should work on a case by case basis.
 - Introduce the CARE principles through a case study (Resource 3).
 - The instructor can facilitate discussion (Resources 1&ndash;3) around the following questions: how to ensure the CARE principles in data that is to be published or shared? How do these principles impact researchers in different countries? Different research domains? The idea here being researchers doing research on or in post-colonial countries will be impacted by these ethical considerations.
 

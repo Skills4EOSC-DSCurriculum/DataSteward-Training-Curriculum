@@ -1,5 +1,5 @@
 ---
-title: "Module 1: Advocacy &ndash; Building Soft Skills for Impact"
+title: "Module 1: Advocacy&mdash;Building Soft Skills for Impact"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
@@ -8,7 +8,7 @@ tags:
     - Soft Skills
 ---
 
-# Module 1: Advocacy &ndash; Building Soft Skills for Impact
+# Module 1: Advocacy&mdash;Building Soft Skills for Impact
 
 
 !!! warning "This page is currently under construction"

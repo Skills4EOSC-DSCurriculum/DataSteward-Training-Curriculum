@@ -115,8 +115,8 @@ LO2: Apply techniques for preserving the privacy of individual data subjects.
 
 - **Lecture 1** (30 mins): The lecture should discuss the practical aspects of preserving privacy of data subjects, including information on applying privacy-preserving techniques in research, including anonymisation versus pseudonymisation.
 - **Lecture 2** (30 mins): Performing a Data Protection Impact Assessment (DPIA) and using it to conduct risk assessments of collecting and storing personal data.
-- **Exercise 1 &ndash; Case study** (45 mins): Discussing real or fictitious case and preparing a consent form.
-- **Exercise 2 &ndash; Anonymising a fictitious dataset** (45 mins): Look at an exemplary dataset and evaluate it in class for privacy concerns, work with the anonymisation tool (Resource 12).
+- **Exercise 1&mdash;Case study** (45 mins): Discussing real or fictitious case and preparing a consent form.
+- **Exercise 2&mdash;Anonymising a fictitious dataset** (45 mins): Look at an exemplary dataset and evaluate it in class for privacy concerns, work with the anonymisation tool (Resource 12).
 
 
 ### Materials to Prepare
@@ -149,7 +149,7 @@ If the instructor wants to go into more depth, then the following topics can be 
 
 **Penalties:**
 
-- The instructor can also highlight the risk/fines for breach of GDPR (Resource 4) &ndash; the examples from the resource can also serve as good discussion points and examples of when personal data was not processed correctly.
+- The instructor can also highlight the risk/fines for breach of GDPR (Resource 4). The examples from the resource can also serve as good discussion points and examples of when personal data was not processed correctly.
 
 **Lecture 2:**
 
@@ -160,7 +160,7 @@ If the instructor wants to go into more depth, then the following topics can be 
         - data subject rights (for instance access, erasure, objection), and
         - accountability requirements (keeping records of decisions and assessments).
     - To dive deeper into this topic:
-        - Discuss the risks of disclosing personal data in Horizon and other EU-funded research projects which mandate open access publishing &ndash; and to have a discussion on how this impacts the rights of data subjects.
+        - Discuss the risks of disclosing personal data in Horizon and other EU-funded research projects which mandate open access publishing&mdash;and to have a discussion on how this impacts the rights of data subjects.
         - Ask learners to reflect on stakeholders within their organisation they could approach for more advice.
         - Evaluate possible conflicts of interest between Open Data vs GDPR and be able to assist in evaluating the good practice and propose solutions (Resources 12 and 13).
 

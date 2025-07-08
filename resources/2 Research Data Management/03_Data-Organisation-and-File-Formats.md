@@ -70,14 +70,14 @@ LO1: Describe the basic principles of file management.
 
 ### Resources
 
-**Resources for learning activities &ndash; instructor and learners:**
+**Resources for learning activities&mdash;instructor and learners:**
 
 1. Ghent University. "RDM Knowledge Clips" *YouTube,* <https://www.youtube.com/watch?v=YslfY4W-NAg>. Accessed 19 Mar. 2025
 2. *File Naming Conventions | Data Management*. <https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions>. Accessed 19. Mar. 2025.
 3. *File Organization*. <https://datacarpentry.github.io/rr-organization1/>. Accessed 24 Mar. 2025.
 4. *Optional activity: Tidy Data for Librarians: Summary and Setup*. <https://librarycarpentry.github.io/lc-spreadsheets/#setup>. Accessed 24 Mar. 2025.
 
-**Inspiration to the slide deck &ndash; for instructors:**
+**Inspiration to the slide deck&mdash;for instructors:**
 
 5. *Paths and Trees and Folders - PPT Download*. <https://slideplayer.com/slide/17369365/>. Accessed 24 Mar. 2025.
 
@@ -201,7 +201,7 @@ LO2: Set up a file structure for data files.
 
 ### Resources
 
-**Input for the presentation &ndash; for instructors:**
+**Input for the presentation&mdash;for instructors:**
 
 1. Kjorveziroski, V. and Buss, M. Unit 3: *The Technical Aspects* in: Wildgaard, Lorna and Derksen, Benjamin (Ed.): *Technical Skills Are the Bridge to Reproducible Research: An Introduction for Data Librarians*. Zenodo, 27 Feb. 2025. *DOI.org (Datacite)*. <https://doi.org/10.5281/ZENODO.14936647>.
 
@@ -266,7 +266,7 @@ Consider letting the learners read or watch selected materials from the resource
 4. Buttery, Hannah. *Expert Help Guides: Getting Your Data Organised: Durable File Formats*. <https://latrobe.libguides.com/dataorganisation/fileformats>. Accessed 24 Mar. 2025.
 5. Lennertz, Lora. *Research Guides: Data File Management: File Formats*. <https://uark.libguides.com/c.php?g=947342&p=6830130>. Accessed 24 Mar. 2025.
 
-**Examples for discussion &ndash; for instructors:**
+**Examples for discussion&mdash;for instructors:**
 
 6. *Recommended Formats Statement - Resources (Preservation, Library of Congress)*. <https://www.loc.gov/preservation/resources/rfs/>. Accessed 24 Mar. 2025.
 7. *File Formats*. <https://opendatahandbook.org/guide/en/appendices/file-formats/>. Accessed 24 Mar. 2025.
@@ -311,7 +311,7 @@ LO4: Explain the benefits and disadvantages of open and closed file formats.
 2. *Choosing The Right File Format/Quick Guide - Wikibooks, Open Books for an Open World*. <https://en.wikibooks.org/wiki/Choosing_The_Right_File_Format/Quick_Guide>.
 3. Service, UK Data. 'Recommended Formats'. *UK Data Service*. <https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/>.
 
-**Input for datasets to use as cases &ndash; for instructors:**
+**Input for datasets to use as cases&mdash;for instructors:**
 
 4. *Datasets for Teaching and Learning*. <https://www.lib.ncsu.edu/formats/teaching-and-learning-datasets>. Accessed 24 Mar. 2025.
 5. Huck, Jennifer. *LibGuides: Data and Statistics: Find Data for Teaching and Learning*. <https://guides.lib.virginia.edu/data/teachandlearn>. Accessed 24 Mar. 2025.
@@ -463,11 +463,11 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 ### Resources
 
-**Input for file conversion exercise &ndash; for instructors:**
+**Input for file conversion exercise&mdash;for instructors:**
 
 1. *Converting from One File Type to Another | Computing*. <https://www.maths.cam.ac.uk/computing/converting-one-file-type-another>.
 
-**Resources about obsolescence &ndash; slide preparation for instructors:**
+**Resources about obsolescence&mdash;slide preparation for instructors:**
 
 2. *Obsolescence: File Formats and Software | Digital Preservation Management*. <https://dpworkshop.org/dpm-eng/oldmedia/obsolescence1.html>.
 
@@ -475,7 +475,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 3. *FileInfo.Com - The File Format Database*. <https://fileinfo.com/>.
 
-**Resources for slide development &ndash; for instructors:**
+**Resources for slide development&mdash;for instructors:**
 
 4. Administrator. 'DMP - Data Formats for Preservation'. *OpenAIRE*. <https://www.openaire.eu/data-formats-preservation-guide>.
 5. 'Data Ethics Framework'. *GOV.UK*, 16 Sept. 2020. <https://www.gov.uk/government/publications/data-ethics-framework>.

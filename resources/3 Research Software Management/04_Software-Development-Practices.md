@@ -89,7 +89,7 @@ LO2: Identify useful resources on how to implement best practices in research so
 
 **Discussion:**
 
-- The goal is for the learner to learn to navigate different sources to find information about the concepts &ndash; version control, software testing, documentation &ndash; and relevant tools and concepts. This session aims to build a basic understanding and familiarity with these concepts. More in-depth information and activities specific to each concept can be found in the Netherlands eScience Center training (Resource 6&ndash;8).
+- The goal is for the learner to learn to navigate different sources to find information about the concepts&mdash;version control, software testing, documentation&mdash;and relevant tools and concepts. This session aims to build a basic understanding and familiarity with these concepts. More in-depth information and activities specific to each concept can be found in the Netherlands eScience Center training (Resource 6&ndash;8).
 - A second goal is to familiarise learners with resources such as The Turing Way, Software Carpentry, Code Refinery websites, which provide information and links to useful tools and resources. The instructor can supplement these with other relevant resources if they wish and add to or adapt the activity accordingly.
 
 

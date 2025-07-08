@@ -68,7 +68,7 @@ LO1: Recognise the benefits, requirements, and limitations of sharing/publishing
 
 ### Resources
 
-**Benefits/Limitations of sharing your data &ndash; for instructors:**
+**Benefits/Limitations of sharing your data&mdash;for instructors:**
 
 1. NFDI4Chem. Data Publishing | NFDI4Chem Knowledge Base. <https://knowledgebase.nfdi4chem.de/knowledge_base/docs/data_publishing/>. Accessed 11 Nov. 2024.
 2. DataONE Community Engagement & Outreach Working Group. Data Sharing. 2017. <https://dataoneorg.github.io/Education/lessons/02_datasharing/index.html>.

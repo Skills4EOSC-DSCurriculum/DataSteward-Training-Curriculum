@@ -40,7 +40,7 @@ LO1: Recognise the responsibilities regarding Research Data Management during da
 
 ### Learning Activities
 
-- **Practical Exercise &ndash; Data Flow Map** (45 mins): Facilitate the data flow map exercise that is provided in Resource 1.
+- **Practical Exercise&mdash;Data Flow Map** (45 mins): Facilitate the data flow map exercise that is provided in Resource 1.
 - **Reflection activity** (45 mins): Identify institutional data documentation and metadata documentation tools. Make this a think-pair-share exercise which is explained in more details in Resource 3.
 
 

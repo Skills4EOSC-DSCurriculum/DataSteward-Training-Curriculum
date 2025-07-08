@@ -41,7 +41,7 @@ LO1: Identify the target audience and their training needs.
 
 - **Presentation/video** (15 mins): Start off with an introduction on why a trainer needs to identify their target audience, and how to identify the training needs of a target audience. Explain that the trainer should be clear in what they want the target audience to achieve.
 - **Reflection Activity** (30 mins): In breakout groups of 3&ndash;4 learners, think about and discuss what possible target audiences data stewards might need to train and what training needs they could have.
-- **Exercise** (15 mins): A hands-on exercise to map the training need by identifying the target audience and their possible RDM needs. Use a planning template for this exercise (e.g. the EOSC synergy training template &ndash; Resource 3).
+- **Exercise** (15 mins): A hands-on exercise to map the training need by identifying the target audience and their possible RDM needs. Use a planning template for this exercise (e.g. the EOSC synergy training template in Resource 3).
 
 
 ### Materials to Prepare
@@ -109,7 +109,7 @@ LO2: Design a training for the target audience to meet the learning objectives.
     - Introduce the concept of learning objectives
     - What is the overall goal and purpose of the training and which learning goals will help achieve this.
     - When developing learning objectives, keep in mind that they should be measurable, can be assessed and are realistic to achieve in the time of the training.
-- There are various tools to help create learning objectives which can be shared (e.g. Blooms Taxonomy &ndash; Resource 1, or other guides that the instructor prefers).
+- There are various tools to help create learning objectives which can be shared (e.g. Blooms Taxonomy in Resource 1, or other guides that the instructor prefers).
 - Introduce learning activities and how they help to meet the learning objectives and deliver the content. Learning activities can have different purposes. The instructor introduces different activities and explains they can be used for different levels of learning (Example: Fair by Design Methodology Resources 2, 3).
 
 **Reflection Activity 1:**

@@ -1,5 +1,5 @@
 ---
-title: "Module 2: Mediation and Community &ndash; Liaison and Networking"
+title: "Module 2: Mediation and Community&mdash;Liaison and Networking"
 author: "Skills4EOSC T4.1"
 tags:
     - Skills4EOSC
@@ -8,7 +8,7 @@ tags:
     - Soft Skills
 ---
 
-# Module 2: Mediation and Community &ndash; Liaison and Networking"
+# Module 2: Mediation and Community&mdash;Liaison and Networking
 
 
 !!! warning "This page is currently under construction"

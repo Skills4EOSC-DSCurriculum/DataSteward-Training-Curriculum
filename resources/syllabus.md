@@ -137,8 +137,8 @@ The curriculum comprises the following sections and modules.
 |                                   |                                                                                                      |
 | **Personal Data and GDPR**        | Module 1: Personal Data and GDPR                                                                     |
 |                                   |                                                                                                      |
-| **Transversal or Soft Skills**    | Module 1: Advocacy &ndash; Building Soft Skills for Impact                                           |
-|                                   | Module 2: Mediation and Community &ndash; Liaison and Networking                                     |
+| **Transversal or Soft Skills**    | Module 1: Advocacy&mdash;Building Soft Skills for Impact                                             |
+|                                   | Module 2: Mediation and Community&mdash;Liaison and Networking                                       |
 |                                   | Module 3: Efficient Communication (Written, Verbal and Visual)                                       |
 
 

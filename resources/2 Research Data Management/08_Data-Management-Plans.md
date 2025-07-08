@@ -106,7 +106,7 @@ LO2: Design practical data management strategies to meet research requirements a
 
 **Case Study on DMP and FAIR principles:**
 
-- Through the use of a case study, explain to learners how each part of the DMP relates to FAIR principles (for instance, how metadata standards contribute to making data findable and interoperable &ndash; make a link to the Metadata module of this curriculum).
+- Through the use of a case study, explain to learners how each part of the DMP relates to FAIR principles (for instance, how metadata standards contribute to making data findable and interoperable&mdash;make a link to the Metadata module of this curriculum).
 - Highlight that DMPs need regular updates to maintain FAIR compliance, particularly as research evolves or new data is generated. DMPs are not static documents but evolve throughout the research life cycle to stay aligned with FAIR principles.
 - Address discipline-specific considerations for implementing FAIR principles in different fields (differences in metadata standards or repository selection). A strong DMP is essential for implementing FAIR principles in research. Each aspect of the FAIR framework must be addressed in the DMP to ensure effective data stewardship.
 

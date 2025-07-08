@@ -258,12 +258,12 @@ LO6: Describe practical steps to make research software citable.
 - **Slide presentation** (30 mins): Slide presentation on the principles of research software citation, and how and why to cite research software and make your own research software citable. Slides in Resource 1 can be reused or adapted with proper citation.
 - **Discussion/Think-Pair-Share Activity** (30 mins): (Adapted from the activity in Resource 2) Learners should be given the following prompt to discuss with one another in pairs:
     - Suppose that a researcher approaches you to ask how to cite the software they have used for a research paper they have been writing and they provide you with the list below, which software would you recommend the researchers to cite and which not? Why?
-        - Ubuntu - Operating System
-        - Microsoft word - text editor (used to write the paper, take notes)
-        - Git - Version control software
-        - Numpy - Python math library (used in nearly all python-based research software)
-        - ESMValTool - Diagnostic tool/library for Earth System Models (Used in many climate research projects)
-        - ClimAnal - Their own domain specific python library (defines various analytical functions that they used in their climate research)
+        - Ubuntu&mdash;Operating System
+        - Microsoft word&mdash;text editor (used to write the paper, take notes)
+        - Git&mdash;Version control software
+        - Numpy&mdash;Python math library (used in nearly all python-based research software)
+        - ESMValTool&mdash;Diagnostic tool/library for Earth System Models (Used in many climate research projects)
+        - ClimAnal&mdash;Their own domain specific python library (defines various analytical functions that they used in their climate research)
         - The original code on which they based their library ClimAnal
         - Their own local python script, used to execute the analysis
 
