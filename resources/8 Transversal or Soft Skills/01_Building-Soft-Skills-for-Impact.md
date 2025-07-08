@@ -37,9 +37,9 @@ LO1: Identify the main soft skills required by the data steward.
 
 ### Learning Activities
 
-- **Presentation or video** (10 mins): Introduction to soft skills: Definition of soft skills and distinction with hard skills.
-- **Self-assessment and discussion** (25 mins): The learners can complete a self-assessment questionnaire on key soft skills and reflect on their strengths and what they need to develop further.
-- **Discussion** (20 mins): In groups, identify the major challenges facing data stewards to meet the needs of data and research support and the soft skills needed to address them.
+- **Presentation or video** (10&nbsp;mins): Introduction to soft skills: Definition of soft skills and distinction with hard skills.
+- **Self-assessment and discussion** (25&nbsp;mins): The learners can complete a self-assessment questionnaire on key soft skills and reflect on their strengths and what they need to develop further.
+- **Discussion** (20&nbsp;mins): In groups, identify the major challenges facing data stewards to meet the needs of data and research support and the soft skills needed to address them.
 
 
 ### Materials to Prepare
@@ -52,7 +52,7 @@ LO1: Identify the main soft skills required by the data steward.
 
 **Presentation:**
 
-- The instructor can start off by defining soft skills (Resources 1&ndash;3) or play the video (Resource 4) with the aim to help learners identify and understand the importance of key soft skills necessary to promote open science and good research data management practices and addressing related challenges.
+- The instructor can start off by defining soft skills (Resources&nbsp;1&ndash;3) or play the video (Resource&nbsp;4) with the aim to help learners identify and understand the importance of key soft skills necessary to promote open science and good research data management practices and addressing related challenges.
 - The instructor can use the following case study of the Data Management Plan to discuss the role of the data steward, challenges that can be faced and associated skills that can be used to address the challenges. This case study can be used as a basis and paired with the Role Play Activity in LO2.
 - A researcher approaches the data steward (learner) and is reluctant to create a DMP. The data steward must look at different aspects of why a DMP is important and try and make a persuasive case using a mix of their knowledge while also employing key soft skills. Some points and challenges to be considered are:
     - Resistance to drafting the DMP:  
@@ -114,13 +114,13 @@ LO2: Apply soft skills to particular audiences.
 
 ### Learning Activities
 
-- **Ice breaker** (10 mins):
+- **Ice breaker** (10&nbsp;mins):
     - Instructor prepares a list of hypothetical situations based on the personal experience of the instructor in which a person is reluctant to adopt one or more open science practices or uses some of the examples below. The instructor presents the following situations to the learners, for instance:
     - Have you ever been in a situation in which a stakeholder:
         - Argues that using a DMP is useless.
         - Thinks that open science will do him/her a disservice for their career.
-- **Brainstorming activity** (30 mins): Based on these shared experiences, the instructor and the learners can start to brainstorm meaningful arguments to convince a non-receptive audience to an OS subject and to do so, the right attitude to adopt.
-- **(Optional) Role Play activity** (30 mins): in pairs, the learners start a role-play in which one plays a reluctant stakeholder and the other a data steward trying to convince them. The Case Study from LO1 can be used for this role play.
+- **Brainstorming activity** (30&nbsp;mins): Based on these shared experiences, the instructor and the learners can start to brainstorm meaningful arguments to convince a non-receptive audience to an OS subject and to do so, the right attitude to adopt.
+- **(Optional) Role Play activity** (30&nbsp;mins): in pairs, the learners start a role-play in which one plays a reluctant stakeholder and the other a data steward trying to convince them. The Case Study from LO1 can be used for this role play.
     - Appoint two observers to take note of any particular points in the dialogue: for example, if a researcher was impatient, or conversely, showed a lot of interest but had no understanding of the subject, what was the data steward's attitude? How did the data steward adapt to the circumstances?
     - At the end of the game, the observers report back and a discussion takes place on what strategies were most effective.
 
@@ -136,7 +136,7 @@ LO2: Apply soft skills to particular audiences.
 **Ice Breaker:**
 
 - Through this exercise, the instructor helps learners to Identify the use of soft skills to promote Open Science (OS) practices through tailored arguments and strategies, recognise and address resistance in professional interactions, develop active listening, empathy, and constructive responses to challenges.
-- For example: For the stakeholder that argues that using a DMP is useless. The instructor can prepare arguments in favour of developing/using a DMP or use the video (Resource 1).
+- For example: For the stakeholder that argues that using a DMP is useless. The instructor can prepare arguments in favour of developing/using a DMP or use the video (Resource&nbsp;1).
 
 **Brainstorm:**
 
@@ -144,7 +144,7 @@ LO2: Apply soft skills to particular audiences.
     - Organise the argument in such a way that the person sees that the use of a DMP is in their interest. For example, that it is not a waste of time but a time saver in the long term when the data cycle is perfectly described (this makes it easier to reuse data, and deposit data in repositories).
     - Suggest tools that could facilitate the writing of the DMP.
     - Try to think about success stories to support your arguments.
-- Video of persuasion techniques: Can be shown after the brainstorming activity (Resource 2).
+- Video of persuasion techniques: Can be shown after the brainstorming activity (Resource&nbsp;2).
 
 **(Optional) Role Play:**
 
@@ -176,8 +176,8 @@ LO3: Identify strategies for being proactive and resourceful in a decision makin
 
 ### Learning Activities
 
-- **Brainstorming activity or round table** (20 mins): Where do decisions get made in your environment/institute? Where can you make your voice heard and how?
-- **Discussion** (20 mins): Ask learners to discuss situations where they have seen examples of successful advocacy. Discuss the strategies that they (or others) undertook that made it a successful situation.
+- **Brainstorming activity or round table** (20&nbsp;mins): Where do decisions get made in your environment/institute? Where can you make your voice heard and how?
+- **Discussion** (20&nbsp;mins): Ask learners to discuss situations where they have seen examples of successful advocacy. Discuss the strategies that they (or others) undertook that made it a successful situation.
 
 
 ### Materials to Prepare

@@ -36,9 +36,9 @@ LO1: Recognise and apply the FAIR principles in research software management.
 
 ### Learning Activities
 
-- **Presentation** (15 mins): slide presentation on FAIR software (a brief presentation can be put together using the given resources, including a slide presentation from the Netherlands eScience Center that can be adapted), and followed by the discussion activity below.
-- **Discussion/Mapping Activity** (30 mins): This activity adapted from the Netherlands eScience Center module on "Software in the Scientific Landscape" (Resource 3). Learners should be given the following prompt by the instructor:
-    - Choose one of the three examples of software mentioned in Resource 3 (Comet, PureGoMe, gammaShiny). The software has been described with statements that can be mapped to the FAIR Principles for Research Software (FAIR4RS), as elaborated in the table given in the resource, and also discussed in the lecture/slide presentation. With each statement in the software description, identify the principles it maps to, and which facets of the principles it addresses. A single statement may map to multiple facets. Discuss in breakout groups of 3&ndash;4 learners.
+- **Presentation** (15&nbsp;mins): slide presentation on FAIR software (a brief presentation can be put together using the given resources, including a slide presentation from the Netherlands eScience Center that can be adapted), and followed by the discussion activity below.
+- **Discussion/Mapping Activity** (30&nbsp;mins): This activity adapted from the Netherlands eScience Center module on "Software in the Scientific Landscape" (Resource&nbsp;3). Learners should be given the following prompt by the instructor:
+    - Choose one of the three examples of software mentioned in Resource&nbsp;3 (Comet, PureGoMe, gammaShiny). The software has been described with statements that can be mapped to the FAIR Principles for Research Software (FAIR4RS), as elaborated in the table given in the resource, and also discussed in the lecture/slide presentation. With each statement in the software description, identify the principles it maps to, and which facets of the principles it addresses. A single statement may map to multiple facets. Discuss in breakout groups of 3&ndash;4 learners.
     - The instructor may also choose an example of research software which is relevant in a particular discipline or that has been developed by researchers of their institution. In this case, the instructor should provide a generic description of the software (for instance, which programming language it is written in, the use/application, how it is provided), and a set of statements about the software that can be mapped to the FAIR4RS Principles.
 
 
@@ -54,7 +54,7 @@ LO1: Recognise and apply the FAIR principles in research software management.
 
 - The slide presentation should broadly cover an overview of the FAIR4RS Principles.
 - Slides and activity materials from the Netherlands eScience Center can be reused, with attribution provided in accordance with the CC BY 4.0 licence.
-- One possible persistent identifier for software is the "SoftWare Heritage persistent IDentifier" (SWHID). More information can be found in Resource 7.
+- One possible persistent identifier for software is the "SoftWare Heritage persistent IDentifier" (SWHID). More information can be found in Resource&nbsp;7.
 
 
 ### Resources
@@ -84,8 +84,8 @@ LO2: Distinguish between FAIR and open source software.
 
 ### Learning Activities
 
-- **Role-Play/Think-Pair-Share Activity** (45 mins): Divide the class into pairs. Each person in the pair will play one role, a researcher and a data professional.
-    - They should pick a piece of software you know of or pick one from the following examples, all of which can be found in the Research Software Directory (Resource 1):
+- **Role-Play/Think-Pair-Share Activity** (45&nbsp;mins): Divide the class into pairs. Each person in the pair will play one role, a researcher and a data professional.
+    - They should pick a piece of software you know of or pick one from the following examples, all of which can be found in the Research Software Directory (Resource&nbsp;1):
         - [ESMValTool](https://research-software-directory.org/software/esmvaltool)
         - [LitStudy](https://research-software-directory.org/software/litstudy)
         - [Haddock](https://research-software-directory.org/software/haddock3)
@@ -104,7 +104,7 @@ LO2: Distinguish between FAIR and open source software.
         - Is the software FOSS (Free and Open Source)?
         - Is there an organisation or person responsible for maintenance?
     - Both people in the pair then together summarise their conclusions about how they assessed the chosen software, with the lens of FAIRness and and FOSS. These assessments are briefly shared by all the pairs with the group in plenum. Some key common distinctions highlighted from the different case studies should be summarised by the trainer, to emphasise the distinction between FAIR and FOSS.
-    - Further details are available in Resource 2, a suggested activity from the Netherlands eScience Center, on which this current activity is based.
+    - Further details are available in Resource&nbsp;2, a suggested activity from the Netherlands eScience Center, on which this current activity is based.
 
 
 ### Materials to Prepare
@@ -117,7 +117,7 @@ LO2: Distinguish between FAIR and open source software.
 **Activity:**
 
 - The main goal of this exercise is to distinguish between FAIR and Open Source in the context of software.
-- A relevant activity from the Netherlands eScience Center course is available to adapt or reuse for this module, as long as it is properly attributed and cited according to the CC BY 4.0 licence (Resource 2). Resource 3 gives more details about how to structure a Think-Pair-Share activity.
+- A relevant activity from the Netherlands eScience Center course is available to adapt or reuse for this module, as long as it is properly attributed and cited according to the CC BY 4.0 licence (Resource&nbsp;2). Resource&nbsp;3 gives more details about how to structure a Think-Pair-Share activity.
 - The reading material can either be used by the instructor to provide a brief overview as part of the learning activity or it could be assigned as pre-session reading to the learners.
 
 

@@ -38,7 +38,7 @@ LO1: Identify essential trainer skills.
 
 ### Learning Activities
 
-- **Activity** (15 mins): What makes a good trainer? Ask learners to think about a time they had a good trainer in a workshop, training, etc. and list some of their qualities.
+- **Activity** (15&nbsp;mins): What makes a good trainer? Ask learners to think about a time they had a good trainer in a workshop, training, etc. and list some of their qualities.
 - **Presentation** (15 min): Introduce trainer skills and the role of the trainer in the training.
 
 
@@ -75,8 +75,8 @@ LO2: Summarise key aspects of learner engagement and the role of the trainer.
 
 ### Learning Activities
 
-- **Presentation** (10 mins): Discuss different ways to engage learners. The presentation can also discuss briefly how adults learn and how to keep them motivated.
-- **Group work** (15 mins): Ask learners to identify one or two topics that they will be training on. In pairs, ask them to discuss how they will keep learners engaged with the topic.
+- **Presentation** (10&nbsp;mins): Discuss different ways to engage learners. The presentation can also discuss briefly how adults learn and how to keep them motivated.
+- **Group work** (15&nbsp;mins): Ask learners to identify one or two topics that they will be training on. In pairs, ask them to discuss how they will keep learners engaged with the topic.
 
 
 ### Materials to Prepare
@@ -91,11 +91,11 @@ LO2: Summarise key aspects of learner engagement and the role of the trainer.
 
 - The instructor introduces the importance of engagement in training. The instructor can discuss how repetition (in different ways) is useful for remembering concepts such as using written text to back up speech because hearing **and** seeing helps to remember concepts.
 - Engaging the learners: The instructor can introduce the idea of the trainer as a performer. A good trainer knows how to keep the attention of learners which can vary depending the modality of the training (face to face versus online). Little tricks could include varying speech patterns, tone, and intonation.
-- The instructor should address that teaching adults is different from teaching children and discuss some key aspects (Resource 1).
+- The instructor should address that teaching adults is different from teaching children and discuss some key aspects (Resource&nbsp;1).
 
 **Group work:**
 
-- The instructor can explain how learners are engaged via learning activities. Ask learners to come up with one engagement technique which they can demonstrate or explain. At the end of the group work the instructor can also emphasis to the group how motivation and demotivation works (Resource 1).
+- The instructor can explain how learners are engaged via learning activities. Ask learners to come up with one engagement technique which they can demonstrate or explain. At the end of the group work the instructor can also emphasis to the group how motivation and demotivation works (Resource&nbsp;1).
 
 
 ### Resources
@@ -113,8 +113,8 @@ LO3: Identify methods to make trainings inclusive and accessible.
 
 ### Learning Activities
 
-- **Group work** (25 mins): In small groups, develop together a code of conduct to use in trainings or facilitate the development of a code of conduct for the current training that is being given.
-- **Activity** (25 mins): The instructor provides example situations where accessibility and inclusivity of trainings can be improved. The learners can discuss best practices.
+- **Group work** (25&nbsp;mins): In small groups, develop together a code of conduct to use in trainings or facilitate the development of a code of conduct for the current training that is being given.
+- **Activity** (25&nbsp;mins): The instructor provides example situations where accessibility and inclusivity of trainings can be improved. The learners can discuss best practices.
 
 
 ### Materials to Prepare
@@ -127,12 +127,12 @@ LO3: Identify methods to make trainings inclusive and accessible.
 
 **Group work:**
 
-- The instructor can introduce the learners to code of conducts and how these can be developed during a training. Codes of conduct are important to improve inclusivity. Resource 1 and 2 can serve as examples.
+- The instructor can introduce the learners to code of conducts and how these can be developed during a training. Codes of conduct are important to improve inclusivity. Resource&nbsp;1 and 2 can serve as examples.
 - The instructor can engage the learners to think about the components of a code of conduct and the group activity can focus on developing one for the current training. Learners can be encouraged to explore their institutions own websites and see if they have their own institutional codes of conduct.
 
 **Activity:**
 
-- The instructor should introduce how accessibility in trainings can be improved by taking into consideration disability, language, inequality in digital access and overview of practical tools that enable accessibility in the presentation (Resource 3).
+- The instructor should introduce how accessibility in trainings can be improved by taking into consideration disability, language, inequality in digital access and overview of practical tools that enable accessibility in the presentation (Resource&nbsp;3).
 - The instructor can adapt this exercise based on first-hand experiences and other established guidance.
 
 

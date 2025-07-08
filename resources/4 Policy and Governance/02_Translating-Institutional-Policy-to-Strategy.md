@@ -37,9 +37,9 @@ LO1: Recognise the importance of institutional policies such as data and softwar
 
 ### Learning Activities
 
-- **Introduction slides/lecture** (25 mins): Why are institutional policies like data and software policies important? What topics do they include, and what considerations guide their creation? What are some examples of institutional data and software policies? (Resources 1&ndash;3 contain examples from Dutch and Australian contexts).
-- **Discovery Activity** (30 mins): Look up what the data policy says about the data ownership in your institution. Who owns research data collected by researchers as part of their research project? Does it vary depending on the type of project? Share your findings with the rest of the group. If representing different institutions, are your institutional policies similar or different?
-- **Group Activity** (35 mins): In groups, suggest and define the key responsibilities of various stakeholders (for example legal and IT personnel) in institutional policy as it relates to RDM and Open Science. Report the discussion back to the larger group.
+- **Introduction slides/lecture** (25&nbsp;mins): Why are institutional policies like data and software policies important? What topics do they include, and what considerations guide their creation? What are some examples of institutional data and software policies? (Resources&nbsp;1&ndash;3 contain examples from Dutch and Australian contexts).
+- **Discovery Activity** (30&nbsp;mins): Look up what the data policy says about the data ownership in your institution. Who owns research data collected by researchers as part of their research project? Does it vary depending on the type of project? Share your findings with the rest of the group. If representing different institutions, are your institutional policies similar or different?
+- **Group Activity** (35&nbsp;mins): In groups, suggest and define the key responsibilities of various stakeholders (for example legal and IT personnel) in institutional policy as it relates to RDM and Open Science. Report the discussion back to the larger group.
 
 
 ### Materials to Prepare
@@ -52,7 +52,7 @@ LO1: Recognise the importance of institutional policies such as data and softwar
 
 **Slides/lecture:**
 
-- Help the learners to understand the role and importance of the institutional policies, such as data and software policies in highlighting good research data and software management practices and the different roles and responsibilities of key stakeholders within an institute to implement/facilitate these practices. Provide them with the examples of the institutional policies. Help learners to understand the impact of the institutional policies with the help of the background material (Resources 1&ndash;3).
+- Help the learners to understand the role and importance of the institutional policies, such as data and software policies in highlighting good research data and software management practices and the different roles and responsibilities of key stakeholders within an institute to implement/facilitate these practices. Provide them with the examples of the institutional policies. Help learners to understand the impact of the institutional policies with the help of the background material (Resources&nbsp;1&ndash;3).
 - It is important to explain how the national open science policy influences the positions and the implementation of strategies regarding open science in different research and higher education institutions. A national open science policy, effectively implemented in research institutions and universities, promotes equal access to knowledge, stimulates innovation and scientific collaboration, and optimises the impact of publicly funded research.
 
 **Activities:**
@@ -83,7 +83,7 @@ LO2: Translate institutional policies into actionable data management strategies
 
 ### Learning Activities
 
-- **Reading (background) + discussion activity** (30 mins): Learners should be asked to read 'Building a Culture of Data Sharing' (Resource 1) in preparation for this module.  
+- **Reading (background) + discussion activity** (30&nbsp;mins): Learners should be asked to read 'Building a Culture of Data Sharing' (Resource&nbsp;1) in preparation for this module.  
   In the session, discuss the key elements of the implementation of data management. Summarise the key takeaways of this article with regards to implementation of institutional policies.
 
 
@@ -96,8 +96,8 @@ LO2: Translate institutional policies into actionable data management strategies
 
 **Discussion activity:**
 
-- The reading 'Building a Culture of Data Sharing' (Resource 1) can be shared with learners in advance of the session. A discussion activity which summarises the reading in the live session can be used to briefly recap the contents of the article.
-- The article summarises the key points for policy design which the instructor can use to summarise the reading/discussion. The instructor can take further points into consideration on how policies need to be supported by relevant infrastructures (e.g. Resource 2, Table 2, Institutional instruments to support open research data sharing and reuse, as identified in the literature).
+- The reading 'Building a Culture of Data Sharing' (Resource&nbsp;1) can be shared with learners in advance of the session. A discussion activity which summarises the reading in the live session can be used to briefly recap the contents of the article.
+- The article summarises the key points for policy design which the instructor can use to summarise the reading/discussion. The instructor can take further points into consideration on how policies need to be supported by relevant infrastructures (e.g. Resource&nbsp;2, Table&nbsp;2, Institutional instruments to support open research data sharing and reuse, as identified in the literature).
 - Ask the learners to discuss the key elements of the institutional policy implementation with each other. If there is time, ask learners to reflect on what is required in terms of infrastructure and support structures to implement policies.
 
 

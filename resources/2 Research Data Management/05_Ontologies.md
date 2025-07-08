@@ -38,8 +38,8 @@ LO1: Explain the concept of ontologies.
 
 ### Learning Activities
 
-- **Lecture** (30 mins): Introduce the basics of ontologies (see Instructor Notes for detailed contents).
-- **Research and group discussion** (30 mins): Search for ontologies, discover terms and relationships, and exchange with others (see "Instructor Notes" for a more detailed example).
+- **Lecture** (30&nbsp;mins): Introduce the basics of ontologies (see Instructor Notes for detailed contents).
+- **Research and group discussion** (30&nbsp;mins): Search for ontologies, discover terms and relationships, and exchange with others (see "Instructor Notes" for a more detailed example).
 
 
 ### Materials to Prepare
@@ -52,7 +52,7 @@ LO1: Explain the concept of ontologies.
 
 **Lecture:**
 
-- The learners should learn the definition and purpose of an ontology as well as the difference to similar concepts like a taxonomy. The most important concepts and languages/tools should be included (see Resources 1&ndash;6). The instructor can use the video from Resource 7 for a basic understanding of ontologies as well as examples.
+- The learners should learn the definition and purpose of an ontology as well as the difference to similar concepts like a taxonomy. The most important concepts and languages/tools should be included (see Resources&nbsp;1&ndash;6). The instructor can use the video from Resource&nbsp;7 for a basic understanding of ontologies as well as examples.
 - Content to include in lecture:
     - Basic concepts of ontologies (class, property, relationship)
     - Delimit use of ontology term from other usages (e.g. in philosophy)
@@ -61,7 +61,7 @@ LO1: Explain the concept of ontologies.
     - Benefits of using controlled vocabularies (for metadata)
 - If possible, include examples where ontologies are important to find datasets, for example, World Protein Databank.
 - For data stewards, ontologies help improve data interoperability and integration by using an established set of names and description of the knowledge from a discipline.
-- If the audience is known, give hints about specific ontologies and adapt the examples to the domain of the learners (see Resources 8, 9 for some examples).
+- If the audience is known, give hints about specific ontologies and adapt the examples to the domain of the learners (see Resources&nbsp;8, 9 for some examples).
 
 **Research and group discussion:**
 
@@ -118,8 +118,8 @@ LO2: Explain the concept of linked data.
 
 ### Learning Activities
 
-- **Lecture** (30 mins): Introduce the topic of linked data (see Instructor Notes for more detailed contents).
-- **Exercise** (30 mins): The learners should modify some queries on linked datasets or create their own queries (see "Instructor Notes" for more detailed information).
+- **Lecture** (30&nbsp;mins): Introduce the topic of linked data (see Instructor Notes for more detailed contents).
+- **Exercise** (30&nbsp;mins): The learners should modify some queries on linked datasets or create their own queries (see "Instructor Notes" for more detailed information).
 
 
 ### Materials to Prepare
@@ -132,14 +132,14 @@ LO2: Explain the concept of linked data.
 
 **Lecture:**
 
-- The lecture should contain the following contents (see Resources 1&ndash;3):
+- The lecture should contain the following contents (see Resources&nbsp;1&ndash;3):
     - basic concepts of linked data,
     - relevant standards and technologies (such as URI, HTTP, ...), and
     - relationship between ontologies and linked data.
 
 **Exercise:**
 
-- First, the instructor should demonstrate how to execute queries on linked data, e.g. with SPARQL (see Resource 4 for an example service that can be run in the browser).
+- First, the instructor should demonstrate how to execute queries on linked data, e.g. with SPARQL (see Resource&nbsp;4 for an example service that can be run in the browser).
 - Then, the learners should modify or create their own queries (see the info box below for example queries).
 - Depending on the level of the learners, they should either modify only existing queries or create queries on their own.
 
@@ -202,8 +202,8 @@ LO3: Apply ontologies to datasets.
 
 ### Learning Activities
 
-- **Lecture** (10 mins): Introduce the exercises to be done by the learners (for example, show them how to search for terms and ontologies and introduce them to the sample dataset).
-- **Exercise** (50 mins): Apply ontology terms to metadata from a dataset.
+- **Lecture** (10&nbsp;mins): Introduce the exercises to be done by the learners (for example, show them how to search for terms and ontologies and introduce them to the sample dataset).
+- **Exercise** (50&nbsp;mins): Apply ontology terms to metadata from a dataset.
 
 
 ### Materials to Prepare
@@ -228,13 +228,13 @@ LO3: Apply ontologies to datasets.
 
 - This LO builds on the knowledge from LO1/LO2 and demonstrates the practical use case.
 - The instructor should quickly introduce in the task to be done by the students.
-- The instructor can use Resource 1 and 2 to prepare for this presentation.
+- The instructor can use Resources&nbsp;1 and 2 to prepare for this presentation.
 
 **Exercise:**
 
 - Create or find a dataset with metadata. If the metadata is not already linked to an ontology, then conduct this task.
 - The learners get the dataset without the values from the ontology and should then find the relevant entries in the ontology and map the values to these terms.
-- The services in Resources 3&ndash;7 can be used for finding ontologies.
+- The services in Resources&nbsp;3&ndash;7 can be used for finding ontologies.
 - If a specialised software is available (and useful for the learners), then the exercise can be conducted using this software. Otherwise, this can be done manually e.g. using a spreadsheet software.
 - If the audience is known, adapt the dataset and/or ontology to the domain of the learners.
 

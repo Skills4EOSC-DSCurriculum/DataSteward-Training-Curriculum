@@ -41,9 +41,9 @@ LO1: Describe the basic principles of file management.
 
 ### Learning Activities
 
-- **Pre-session reading** (45 mins): Before the lesson ask the learners to watch a short video about organising files and data (Resource 1) and read this webpage about file naming conventions (Resource 2).
-- **Lecture** (120 mins): Introduce the basics of file management, building on the *Carpentries lesson in File management* (Resource 3).
-- **(Optional) Supplementary activity** (120 mins): Follow the Library Carpentry lesson on Tidy Data (Resource 4) either as an in-class activity or self-paced option.
+- **Pre-session reading** (45&nbsp;mins): Before the lesson ask the learners to watch a short video about organising files and data (Resource&nbsp;1) and read this webpage about file naming conventions (Resource&nbsp;2).
+- **Lecture** (120&nbsp;mins): Introduce the basics of file management, building on the *Carpentries lesson in File management* (Resource&nbsp;3).
+- **(Optional) Supplementary activity** (120&nbsp;mins): Follow the Library Carpentry lesson on Tidy Data (Resource&nbsp;4) either as an in-class activity or self-paced option.
 
 
 ### Materials to Prepare
@@ -57,7 +57,7 @@ LO1: Describe the basic principles of file management.
 
 **Lecture:**
 
-- Give an introduction to the basics of file management (see Resource 2 *File Naming Conventions* and Resource 5 *Paths and Trees and Folders*) to give an overview of why file management is important for data security, efficiency and collaboration. Introduce concepts and terminology, such as hierarchical, network and relational systems; file management tools such as organisational, search functions, version control, access management, collaboration and integration.
+- Give an introduction to the basics of file management (see Resource&nbsp;2 *File Naming Conventions* and Resource&nbsp;5 *Paths and Trees and Folders*) to give an overview of why file management is important for data security, efficiency and collaboration. Introduce concepts and terminology, such as hierarchical, network and relational systems; file management tools such as organisational, search functions, version control, access management, collaboration and integration.
 - Key takeaways to cover include:
     - Every computer has a file system used to keep track of the files on that machine. This system varies according to the computer. However, there is a common aim: The operational system (OS) allows the user to organise the contents of their computer in a hierarchical structure of directories that includes drives, folders, subfolders, and files.
     - File organisation means the information/documents are organised so that a computer can read and understand it. This lets you use the full power of the computer for your analyses and stewardship.
@@ -65,7 +65,7 @@ LO1: Describe the basic principles of file management.
 
 **Optional Activity:**
 
-- This activity follows the Library Carpentry lesson on file management. The Carpentry lessons include instructor notes and exercises and can be taught as "code-along" or self-paced activities. An optional hands-on activity is the Carpentry lesson about the Tidy Data principles. The Tidy Data activity would add another 120 mins to the lesson.
+- This activity follows the Library Carpentry lesson on file management. The Carpentry lessons include instructor notes and exercises and can be taught as "code-along" or self-paced activities. An optional hands-on activity is the Carpentry lesson about the Tidy Data principles. The Tidy Data activity would add another 120&nbsp;mins to the lesson.
 
 
 ### Resources
@@ -90,8 +90,8 @@ LO2: Set up a file structure for data files.
 
 ### Learning Activities
 
-- **Presentation** (20 mins): Presentation to the practicalities of file-naming and version control.
-- **Reflection activity** (45 mins): This activity is on the advantages and disadvantages the instructor and learners have experienced when storing files locally on their own computer and in a cloud solution (such as OneDrive, Dropbox, Google Drive).
+- **Presentation** (20&nbsp;mins): Presentation to the practicalities of file-naming and version control.
+- **Reflection activity** (45&nbsp;mins): This activity is on the advantages and disadvantages the instructor and learners have experienced when storing files locally on their own computer and in a cloud solution (such as OneDrive, Dropbox, Google Drive).
     - The learners are encouraged to share in small breakout groups how files on their computer are organised and assess and give feedback to each other on how they have named the files and worked with version control (as covered in LO1 of this module).
     - After the reflection activity, the learners can conduct an independent reflection to write a file naming convention using a project or files the learner has in their path finder. They formulate the naming convention and best practices for a fictitious research group working with these files.
 
@@ -118,7 +118,7 @@ LO2: Set up a file structure for data files.
 
     **Presentation:**
 
-    Prepare a slide deck on the practicalities of file management and version control (Resource 1). The instructor can cover information on sorting files, what is good information for file naming, and how to do version control.
+    Prepare a slide deck on the practicalities of file management and version control (Resource&nbsp;1). The instructor can cover information on sorting files, what is good information for file naming, and how to do version control.
 
     The presentation can be kicked off by the following two questions:
 
@@ -139,7 +139,7 @@ LO2: Set up a file structure for data files.
 
     **What information is good to include in the file name?** Think about what other information is good to include in the file name. For example, the initials of the person who conducted the experiment, performed the interview or collected the information in some other way. You might then add the experiment or interview number, if the data are collected in a specific order.
 
-    Finally, you might add an abbreviation for the project or assignment. If you create a folder for data solely for a specific project, it might seem unnecessary to include the project name or abbreviation in the file name, but it may still be a good idea, as you might send a file to someone who has a different folder structure. In this case, it is good that they can see which project the file belongs to. Also, file names should be kept short. Try to limit them to 25&ndash;30 characters.
+    Finally, you might add an abbreviation for the project or assignment. If you create a folder for data solely for a specific project, it might seem unnecessary to include the project name or abbreviation in the file name, but it may still be a good idea, as you might send a file to someone who has a different folder structure. In this case, it is good that they can see which project the file belongs to. Also, file names should be kept short. Try to limit them to 25&ndash;30&nbsp;characters.
 
     **Elements that can be included in file names are:**
 
@@ -196,7 +196,7 @@ LO2: Set up a file structure for data files.
 **Reflection Activity:**
 
 - Prepare instructions for the reflection activity. Include a case to exemplify file organisation and a codex for versioning.
-- Prepare a checklist for file-naming using the information below developed by Copenhagen University working group for Digital Competences (Resource 3).
+- Prepare a checklist for file-naming using the information below developed by Copenhagen University working group for Digital Competences (Resource&nbsp;3).
 
 
 ### Resources
@@ -226,14 +226,14 @@ LO3: Identify and distinguish between open and closed file formats.
 
 ### Learning Activities
 
-- **Lecture** (45 mins): Slide presentation or lecture on file formats, durability and recommended formats.
-- **Discussion Activity** (20 mins): This activity can be facilitated in plenum, as a Q&A guided by prompts and questions (and answers) that the instructor has prepared before the session. The walking questions (Resource 2) can be used for this activity about image formats, formats that are best suited for short and medium term storage, file formats best suited for long term preservation and why use non-proprietary/open formats. The instructor can use Resource 1 where it discusses formats to facilitate the discussion.
+- **Lecture** (45&nbsp;mins): Slide presentation or lecture on file formats, durability and recommended formats.
+- **Discussion Activity** (20&nbsp;mins): This activity can be facilitated in plenum, as a Q&A guided by prompts and questions (and answers) that the instructor has prepared before the session. The walking questions (Resource&nbsp;2) can be used for this activity about image formats, formats that are best suited for short and medium term storage, file formats best suited for long term preservation and why use non-proprietary/open formats. The instructor can use Resource&nbsp;1 where it discusses formats to facilitate the discussion.
 
 
 ### Materials to Prepare
 
 - Lecture/slide deck on open and closed file formats and considerations to use each.
-- Question prompts to facilitate the discussion activity around file formats (Resources 1, 2).
+- Question prompts to facilitate the discussion activity around file formats (Resources&nbsp;1, 2).
 
 
 ### Instructor Notes
@@ -250,7 +250,7 @@ Consider letting the learners read or watch selected materials from the resource
 
 **Discussion:**
 
-- This activity helps learners to think and provide their own answers to questions they may have. The instructor facilitates this by having prompts ready as well as the answers ready for discussion (Resources 1, 2).
+- This activity helps learners to think and provide their own answers to questions they may have. The instructor facilitates this by having prompts ready as well as the answers ready for discussion (Resources&nbsp;1, 2).
 
 
 ### Resources
@@ -280,8 +280,8 @@ LO4: Explain the benefits and disadvantages of open and closed file formats.
 
 ### Learning Activities
 
-- **Introduction** (20 mins): Introduction to the topic and the workshop and aligning expectations to learners' participation.
-- **Case Study** (60 mins): Case study where the learners suggest file formats for a fictional PI and research project. The aim is to get the learners to weigh the benefits and disadvantages of different formats in the context of the research field's traditions and requirements. Consequently, they will have to argue for and against open/closed formats considering factors such as accessibility, longevity, and data integrity. Resources 1&ndash;3 can be shared with learners to refer to during this activity.
+- **Introduction** (20&nbsp;mins): Introduction to the topic and the workshop and aligning expectations to learners' participation.
+- **Case Study** (60&nbsp;mins): Case study where the learners suggest file formats for a fictional PI and research project. The aim is to get the learners to weigh the benefits and disadvantages of different formats in the context of the research field's traditions and requirements. Consequently, they will have to argue for and against open/closed formats considering factors such as accessibility, longevity, and data integrity. Resources&nbsp;1&ndash;3 can be shared with learners to refer to during this activity.
 
 
 ### Materials to Prepare
@@ -326,9 +326,9 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 ### Learning Activities
 
-- **Exercise** (45 mins): Learners will convert a provided file from a closed format (such as .docx) to various open formats (such as .pdf, .txt, .csv). They will note any data loss during conversion (formatting, embedded images, metadata) and prepare any questions they have about why certain data might not be preserved in the new format (Resource 1). The exercise will be followed by a discussion to address any questions the learners may have.
-- **Lecture** (45 mins): Lecture about obsolescence, preservation and working open and FAIR.
-- **(Optional) Module Assessment** (45 mins): Gauge comprehension of LO1&ndash;LO5.
+- **Exercise** (45&nbsp;mins): Learners will convert a provided file from a closed format (such as .docx) to various open formats (such as .pdf, .txt, .csv). They will note any data loss during conversion (formatting, embedded images, metadata) and prepare any questions they have about why certain data might not be preserved in the new format (Resource&nbsp;1). The exercise will be followed by a discussion to address any questions the learners may have.
+- **Lecture** (45&nbsp;mins): Lecture about obsolescence, preservation and working open and FAIR.
+- **(Optional) Module Assessment** (45&nbsp;mins): Gauge comprehension of LO1&ndash;LO5.
 
 
 ### Materials to Prepare
@@ -347,7 +347,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
 **Slide deck:**
 
-- Prepare a slide deck using the materials about the implications of obsolescence (Resources 2, 3), the benefits of using open formats (Resources 4, 5), and (optionally) in line with FAIR and OPEN principles.
+- Prepare a slide deck using the materials about the implications of obsolescence (Resources&nbsp;2, 3), the benefits of using open formats (Resources&nbsp;4, 5), and (optionally) in line with FAIR and OPEN principles.
 - Points to present and discuss with the learners during the presentation can be:
     - The concept of "obsolescence" is introduced. Obsolescence refers to the process by which file formats, software, or hardware become outdated and unusable over time. Factors that contribute to obsolescence are technological advancements, propriety formats and lack of documentation. Obsolescence needs to be addressed in a disciplinary and project context.
     - Open and closed file formats serve various purposes and have unique characteristics, including how they handle data, compatibility with software, and ease of access, and these need to be considered in file conversion. Therefore converting files between formats can impact data integrity and usability, affecting the reliability and accessibility of the information.
@@ -362,7 +362,7 @@ LO5: Explain the concept of obsolescence and identify factors that can contribut
 
     Prepare an assessment activity to gauge the learners comprehension of LO1&ndash;LO5.
 
-    The instructor presents a research project they know well (such as one of their own) OR uses one of the project examples below (Example 1, Example 2). Ensure the project description contains information about the type of data collected (this could be qualitative interviews, quantitative measurements, images), software and file formats initially used, potential collaborators and stakeholders, ethical considerations and privacy issues and requirements for long-term preservation.
+    The instructor presents a research project they know well (such as one of their own) OR uses one of the project examples below (Example&nbsp;1, Example&nbsp;2). Ensure the project description contains information about the type of data collected (this could be qualitative interviews, quantitative measurements, images), software and file formats initially used, potential collaborators and stakeholders, ethical considerations and privacy issues and requirements for long-term preservation.
 
     **How to conduct the activity:**
 

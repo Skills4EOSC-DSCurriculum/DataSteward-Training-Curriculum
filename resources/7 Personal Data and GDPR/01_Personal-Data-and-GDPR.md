@@ -37,8 +37,8 @@ LO1: Recognise applicable laws and identify personal data in research settings.
 
 ### Learning Activities
 
-- **Lecture** (60 mins): Define personal data in research, and explain the different types of personal data (directly identifiable and indirectly identifiable) and special categories of personal data. Highlight what the General Data Protection Regulation (GDPR) states in relation to the right to protection of personal data.
-- **Exercise** (30 mins): The instructor provides the learners with a semi-blank list (Resource 13) and asks them to reflect on how some of this information can be combined with other data points to identify someone.
+- **Lecture** (60&nbsp;mins): Define personal data in research, and explain the different types of personal data (directly identifiable and indirectly identifiable) and special categories of personal data. Highlight what the General Data Protection Regulation (GDPR) states in relation to the right to protection of personal data.
+- **Exercise** (30&nbsp;mins): The instructor provides the learners with a semi-blank list (Resource&nbsp;13) and asks them to reflect on how some of this information can be combined with other data points to identify someone.
 
 
 ### Materials to Prepare
@@ -51,12 +51,12 @@ LO1: Recognise applicable laws and identify personal data in research settings.
 
 **Lecture:**
 
-- The lecture could start with a short interaction with the learners on what they think constitutes personal data, for instance: names, addresses, e-mail addresses, IP addresses. Resources 1&ndash;3 can be used as inspiration for some questions for this learning objective or Learning Objective 2 in this module.
-- Outline the definition of personal data: Resource 1 has a good definition that the instructor can use as a base.
-- Introduce the General Data Protection Regulation (GDPR) within the EU legal system. Highlight what the General Data Protection Regulation (GDPR) states in relation to key GDPR principles, data subjects' rights, obligations of data controllers (Resource 1).
-- Explain the different types of personal data (directly, indirectly identifiable and quasi-identifiers) and special categories of personal data. Interact with the learners on what they think constitutes personal data, for instance: names, addresses, e-mail addresses, IP addresses. Resources 1&ndash;3 can be used as inspiration for some questions for this learning objective or Learning Objective 2 in this module.
+- The lecture could start with a short interaction with the learners on what they think constitutes personal data, for instance: names, addresses, e-mail addresses, IP addresses. Resources&nbsp;1&ndash;3 can be used as inspiration for some questions for this learning objective or Learning Objective&nbsp;2 in this module.
+- Outline the definition of personal data: Resource&nbsp;1 has a good definition that the instructor can use as a base.
+- Introduce the General Data Protection Regulation (GDPR) within the EU legal system. Highlight what the General Data Protection Regulation (GDPR) states in relation to key GDPR principles, data subjects' rights, obligations of data controllers (Resource&nbsp;1).
+- Explain the different types of personal data (directly, indirectly identifiable and quasi-identifiers) and special categories of personal data. Interact with the learners on what they think constitutes personal data, for instance: names, addresses, e-mail addresses, IP addresses. Resources&nbsp;1&ndash;3 can be used as inspiration for some questions for this learning objective or Learning Objective&nbsp;2 in this module.
 - Overview of typical scenarios and rules applicable to researchers and research-performing organisations:
-    - The rights of research participants and the obligations of the researcher (Resource 1 Module 5, Purpose of GDPR).
+    - The rights of research participants and the obligations of the researcher (Resource&nbsp;1 Module&nbsp;5, Purpose of GDPR).
     - The instructor should introduce the following topics:
         - "Research exemptions" in the GDPR,
         - Purpose and scope for Processing Personal Data,
@@ -74,9 +74,9 @@ LO1: Recognise applicable laws and identify personal data in research settings.
 
 **Exercise:**
 
-- The instructor can use Resource 13 or excerpts of Resource 14 to prepare an exercise where learners can discuss the different types of personal data and the how easy it is to overlook different kinds of personal data. The instructor can have a discussion around how small pieces of information when combined can lead to privacy risks for an individual. The purpose of the exercise is to deepen the learners understanding of personal data before moving to the next module where practical aspects of preserving the privacy of data subjects will be discussed.
-    - This exercise is meant to introduce learners to the complexity of the GDPR, without going into detail on each point unless specifically required by their home institutions or roles, and the session is designed to cover more depth. The instructor can re-use a case study with prompts to help learners make their own assessment of the case study (Resource 1 Module 6 on complex cases can be used for this exercise, there are already questions embedded into the cases which the instructor can use as discussion points).
-- An additional exercise can be facilitated if there is time. Present and discuss various case studies (Resource 4) and discuss the case before providing the learners with the actions taken by the Data Protection Commission on these cases.
+- The instructor can use Resource&nbsp;13 or excerpts of Resource&nbsp;14 to prepare an exercise where learners can discuss the different types of personal data and the how easy it is to overlook different kinds of personal data. The instructor can have a discussion around how small pieces of information when combined can lead to privacy risks for an individual. The purpose of the exercise is to deepen the learners understanding of personal data before moving to the next module where practical aspects of preserving the privacy of data subjects will be discussed.
+    - This exercise is meant to introduce learners to the complexity of the GDPR, without going into detail on each point unless specifically required by their home institutions or roles, and the session is designed to cover more depth. The instructor can re-use a case study with prompts to help learners make their own assessment of the case study (Resource&nbsp;1 Module&nbsp;6 on complex cases can be used for this exercise, there are already questions embedded into the cases which the instructor can use as discussion points).
+- An additional exercise can be facilitated if there is time. Present and discuss various case studies (Resource&nbsp;4) and discuss the case before providing the learners with the actions taken by the Data Protection Commission on these cases.
 
 
 ### Resources
@@ -113,18 +113,18 @@ LO2: Apply techniques for preserving the privacy of individual data subjects.
 
 ### Learning Activities
 
-- **Lecture 1** (30 mins): The lecture should discuss the practical aspects of preserving privacy of data subjects, including information on applying privacy-preserving techniques in research, including anonymisation versus pseudonymisation.
-- **Lecture 2** (30 mins): Performing a Data Protection Impact Assessment (DPIA) and using it to conduct risk assessments of collecting and storing personal data.
-- **Exercise 1&mdash;Case study** (45 mins): Discussing real or fictitious case and preparing a consent form.
-- **Exercise 2&mdash;Anonymising a fictitious dataset** (45 mins): Look at an exemplary dataset and evaluate it in class for privacy concerns, work with the anonymisation tool (Resource 12).
+- **Lecture 1** (30&nbsp;mins): The lecture should discuss the practical aspects of preserving privacy of data subjects, including information on applying privacy-preserving techniques in research, including anonymisation versus pseudonymisation.
+- **Lecture 2** (30&nbsp;mins): Performing a Data Protection Impact Assessment (DPIA) and using it to conduct risk assessments of collecting and storing personal data.
+- **Exercise 1&mdash;Case study** (45&nbsp;mins): Discussing real or fictitious case and preparing a consent form.
+- **Exercise 2&mdash;Anonymising a fictitious dataset** (45&nbsp;mins): Look at an exemplary dataset and evaluate it in class for privacy concerns, work with the anonymisation tool (Resource&nbsp;12).
 
 
 ### Materials to Prepare
 
 - Lecture on privacy-preserving techniques such as pseudonymisation and anonymisation.
 - Lecture on data protection impact assessments.
-- Case study for Exercise 1 on handling personal data (Resource 10 has some cases that can be used).
-- Dataset for Exercise 2 on anonymisation activity: the use of UKDS tool (Resource 18).
+- Case study for Exercise 1 on handling personal data (Resource&nbsp;10 has some cases that can be used).
+- Dataset for Exercise 2 on anonymisation activity: the use of UKDS tool (Resource&nbsp;18).
 
 
 ### Instructor Notes
@@ -135,26 +135,26 @@ LO2: Apply techniques for preserving the privacy of individual data subjects.
 
 **Anonymisation and pseudonymisation:**
 
-- Anonymisation and pseudonymisation of data and the associated risks: When is a dataset considered anonymous and the difference between anonymisation and pseudonymisation (Resources 1, 2, 5).
-- The misunderstandings of anonymisation and risks of re-identification (Resource 3).
+- Anonymisation and pseudonymisation of data and the associated risks: When is a dataset considered anonymous and the difference between anonymisation and pseudonymisation (Resources&nbsp;1, 2, 5).
+- The misunderstandings of anonymisation and risks of re-identification (Resource&nbsp;3).
 
 **Advanced methods of preserving privacy in research:**
 
 If the instructor wants to go into more depth, then the following topics can be covered:
 
-- Differential privacy in research, overview and privacy robustness assessment of different data storage systems, federated learning and its implications to personal data protection, secure multiparty computation. There are some additional resources provided in Resources 5&ndash;10.
+- Differential privacy in research, overview and privacy robustness assessment of different data storage systems, federated learning and its implications to personal data protection, secure multiparty computation. There are some additional resources provided in Resources&nbsp;5&ndash;10.
 - Introduce various techniques for anonymisation (such as data masking, aggregation, and noise addition) and pseudonymisation (such as hashing, tokenisation). Provide examples of how these techniques can be applied to different types of data, such as structured databases and unstructured text. Discuss the trade-offs between data utility and privacy.
 - Best practices: data audits to identify sensitive information; applying anonymisation and pseudonymisation techniques in data collection, reviewing and updating methods to comply with regulations.
 - The different types of storage options, databases, file storage systems for handling sensitive data.
 
 **Penalties:**
 
-- The instructor can also highlight the risk/fines for breach of GDPR (Resource 4). The examples from the resource can also serve as good discussion points and examples of when personal data was not processed correctly.
+- The instructor can also highlight the risk/fines for breach of GDPR (Resource&nbsp;4). The examples from the resource can also serve as good discussion points and examples of when personal data was not processed correctly.
 
 **Lecture 2:**
 
 - The goal of the lecture is to cover the role and practical aspects of carrying out Data Protection Impact Assessments:
-    - The instructor introduces DPIAs, which is a risk assessment tool to anticipate risks before data is collected (Resource 11).
+    - The instructor introduces DPIAs, which is a risk assessment tool to anticipate risks before data is collected (Resource&nbsp;11).
     - The instructor demonstrates how DPIAs help organisations show that they are complying with:
         - principles of data protection (such as data minimisation, storage limitation),
         - data subject rights (for instance access, erasure, objection), and
@@ -162,13 +162,13 @@ If the instructor wants to go into more depth, then the following topics can be 
     - To dive deeper into this topic:
         - Discuss the risks of disclosing personal data in Horizon and other EU-funded research projects which mandate open access publishing&mdash;and to have a discussion on how this impacts the rights of data subjects.
         - Ask learners to reflect on stakeholders within their organisation they could approach for more advice.
-        - Evaluate possible conflicts of interest between Open Data vs GDPR and be able to assist in evaluating the good practice and propose solutions (Resources 12 and 13).
+        - Evaluate possible conflicts of interest between Open Data vs GDPR and be able to assist in evaluating the good practice and propose solutions (Resources&nbsp;12, 13).
 
 **Exercise 1:**
 
 - The instructor should give the learners choice to discuss either:
-    1. A fictional case (for instance, tracking students studying habits via an app, making a study about mental health of Master students via qualitative interviews). Some short suggestions are provided in Resource 16, the instructor may choose a different example as well, OR
-    2. The instructor should introduce a real life example to discuss what types of personal data would be processed and how. Resource 17 introduces various case studies that can be shared for discussion on processing personal data.
+    1. A fictional case (for instance, tracking students studying habits via an app, making a study about mental health of Master students via qualitative interviews). Some short suggestions are provided in Resource&nbsp;16, the instructor may choose a different example as well, OR
+    2. The instructor should introduce a real life example to discuss what types of personal data would be processed and how. Resource&nbsp;17 introduces various case studies that can be shared for discussion on processing personal data.
 - Once the learners have chosen their case, ask them to reflect on the data protection principles and to draft a consent form covering the various aspects of GDPR and privacy protection, such as:
     - What data will be collected?
     - Why is it needed?
@@ -178,7 +178,7 @@ If the instructor wants to go into more depth, then the following topics can be 
 
 **Exercise 2:**
 
-- The instructor should find a dataset that is discipline-relevant and includes some form of personal data. A possible example could be the dataset on support for childhood vaccination in Resource 15.
+- The instructor should find a dataset that is discipline-relevant and includes some form of personal data. A possible example could be the dataset on support for childhood vaccination in Resource&nbsp;15.
 - The goal is to instruct and ask the learners to apply the anonymisation tool. Does it work? What concerns do the learners have, given the content of the lecture, of applying this kind of tool? What ethical issues might you be concerned with prior to sharing this data openly?
 
 

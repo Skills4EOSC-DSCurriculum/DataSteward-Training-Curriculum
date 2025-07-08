@@ -36,12 +36,12 @@ LO1: Identify potential opportunities and obligations related to the publication
 
 ### Learning Activities
 
-- **Slide presentation/lecture** (60 mins): The goal of the lecture is to give data stewards an overview of issues within a multi-layered rules framework, such as licensing of research outputs, publication policies of journals, potential effects of publishing research output, and adjudicating between different licences. The instructor can consult or reuse slides prepared as part of Resource 9, a more in-depth learning path on open licensing.
-- **Discussion Activity** (30 mins): In pairs, learners should reflect on the following scenario: A researcher approaches the data steward with a research article and related dataset that they would like to publish in a journal. What advice could you give them on the following points:
+- **Slide presentation/lecture** (60&nbsp;mins): The goal of the lecture is to give data stewards an overview of issues within a multi-layered rules framework, such as licensing of research outputs, publication policies of journals, potential effects of publishing research output, and adjudicating between different licences. The instructor can consult or reuse slides prepared as part of Resource&nbsp;9, a more in-depth learning path on open licensing.
+- **Discussion Activity** (30&nbsp;mins): In pairs, learners should reflect on the following scenario: A researcher approaches the data steward with a research article and related dataset that they would like to publish in a journal. What advice could you give them on the following points:
     - Why they should share and license their data.
     - What different licence types are available and the implications of each.
     - The benefits (or not) of using open licences.
-    - Resource 1 can be used as a guiding document to discuss the importance of licences and how to choose them. The Creative Commons License Chooser (Resource 4) can also be used as a tool for this exercise.
+    - Resource&nbsp;1 can be used as a guiding document to discuss the importance of licences and how to choose them. The Creative Commons License Chooser (Resource&nbsp;4) can also be used as a tool for this exercise.
 
 
 ### Materials to Prepare
@@ -58,7 +58,7 @@ LO1: Identify potential opportunities and obligations related to the publication
 - The multi-layered framework (IPR, national rules, open licences)
 - The societal significance of ensuring FAIR publication
 - Main rules affecting the licensing of research outputs, including national copyright laws, internal rules and policies at the level of the organisation
-- Considerations for licence compatibility in Open Licensing (instructor could go over licensing issues in a brief/introductory way, and refer to Resource 9 for more detailed course on licensing)
+- Considerations for licence compatibility in Open Licensing (instructor could go over licensing issues in a brief/introductory way, and refer to Resource&nbsp;9 for more detailed course on licensing)
 - When Open Access is mandatory: Discussing the example of Horizon projects
 - The limits of openness: when to consider opting out from Text and Data Mining under the Copyright and Digital Single Market (CDSM) Directive
 
@@ -74,7 +74,7 @@ LO1: Identify potential opportunities and obligations related to the publication
 
 **Additional materials:**
 
-- A more detailed (intermediate level) learning path on Open Licensing intended for Data Stewards and Data Professionals has also been developed in the Skills4EOSC project, and if instructors choose, they can use either parts or all of this material to go into more depth or point learners towards additional resources. It covers issues such as adapting content to local contexts, applying licences throughout projects, complying with funder and institutional requirements, and aligning with research discipline and project aims. See Resource 9 for details.
+- A more detailed (intermediate level) learning path on Open Licensing intended for Data Stewards and Data Professionals has also been developed in the Skills4EOSC project, and if instructors choose, they can use either parts or all of this material to go into more depth or point learners towards additional resources. It covers issues such as adapting content to local contexts, applying licences throughout projects, complying with funder and institutional requirements, and aligning with research discipline and project aims. See Resource&nbsp;9 for details.
 
 
 ### Resources

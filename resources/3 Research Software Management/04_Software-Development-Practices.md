@@ -37,13 +37,13 @@ LO1: Summarise best practices in research software development (version control,
 
 ### Learning Activities
 
-- **Slide presentation** (30 mins): Discuss the importance of good software practices that include software version control, software documentation, testing. Resources 1&ndash;3 include slide presentations on these different topics from the Netherlands eScience Center training, which can be combined with proper attribution.
-- **Discussion Activity** (30 mins): Following the presentation, the learners should discuss in pairs the top five things they would advise researchers to keep in mind during research software development, based on what they have learned. Each pair should appoint one person to summarise their recommendations to the group.
+- **Slide presentation** (30&nbsp;mins): Discuss the importance of good software practices that include software version control, software documentation, testing. Resources&nbsp;1&ndash;3 include slide presentations on these different topics from the Netherlands eScience Center training, which can be combined with proper attribution.
+- **Discussion Activity** (30&nbsp;mins): Following the presentation, the learners should discuss in pairs the top five things they would advise researchers to keep in mind during research software development, based on what they have learned. Each pair should appoint one person to summarise their recommendations to the group.
 
 
 ### Materials to Prepare
 
-- Slide presentation on best practices in research software development (adapted from Resources 1&ndash;3).
+- Slide presentation on best practices in research software development (adapted from Resources&nbsp;1&ndash;3).
 - A list of best practices to compare against the ones the breakout groups come up with.
 
 
@@ -53,7 +53,7 @@ LO1: Summarise best practices in research software development (version control,
 
 - These learning activities should aim to introduce best practices and not go into the details of software development.
 - The instructor can choose, based on the group of learners, how much detail would be appropriate to go into on these topics. While many data stewards work with researchers who create research software, some may encounter only a few such cases (or none at all). This module is currently set up to convey only the most basic information and point to useful information and resources that learners can engage with either through self-study, or as part of the training session if the instructor deems it appropriate.
-- If some learners are interested in exploring these topics in more depth, or if the trainer is interested in a more detailed exploration of one or more of these topics in the session, entire slide decks and learning activities specific to each topic can also be used for version control (Resource 1), Software Testing (Resource 2), and Documentation (Resource 3).
+- If some learners are interested in exploring these topics in more depth, or if the trainer is interested in a more detailed exploration of one or more of these topics in the session, entire slide decks and learning activities specific to each topic can also be used for version control (Resource&nbsp;1), Software Testing (Resource&nbsp;2), and Documentation (Resource&nbsp;3).
 
 
 ### Resources
@@ -73,10 +73,10 @@ LO2: Identify useful resources on how to implement best practices in research so
 
 ### Learning Activities
 
-- **Review Activity** (60 mins): In groups of 3, learners should use the information given in the associated resources to identify the following:
-    - Three services or platforms that help to facilitate version control in research software projects (Resources 1, 2).
-    - Five types of commonly used software testing tools/frameworks, and one or two lines about what each of them are testing (Resources 3, 4).
-    - Seven kinds of tools used for code documentation, and their respective pros and cons (Resource 5).
+- **Review Activity** (60&nbsp;mins): In groups of 3, learners should use the information given in the associated resources to identify the following:
+    - Three services or platforms that help to facilitate version control in research software projects (Resources&nbsp;1, 2).
+    - Five types of commonly used software testing tools/frameworks, and one or two lines about what each of them are testing (Resources&nbsp;3, 4).
+    - Seven kinds of tools used for code documentation, and their respective pros and cons (Resource&nbsp;5).
     - Learners collaborate in their breakout groups, compiling the found resources and tools together in one collaborative document (where all the breakout groups will put their findings together).
 
 
@@ -89,7 +89,7 @@ LO2: Identify useful resources on how to implement best practices in research so
 
 **Discussion:**
 
-- The goal is for the learner to learn to navigate different sources to find information about the concepts&mdash;version control, software testing, documentation&mdash;and relevant tools and concepts. This session aims to build a basic understanding and familiarity with these concepts. More in-depth information and activities specific to each concept can be found in the Netherlands eScience Center training (Resource 6&ndash;8).
+- The goal is for the learner to learn to navigate different sources to find information about the concepts&mdash;version control, software testing, documentation&mdash;and relevant tools and concepts. This session aims to build a basic understanding and familiarity with these concepts. More in-depth information and activities specific to each concept can be found in the Netherlands eScience Center training (Resource&nbsp;6&ndash;8).
 - A second goal is to familiarise learners with resources such as The Turing Way, Software Carpentry, Code Refinery websites, which provide information and links to useful tools and resources. The instructor can supplement these with other relevant resources if they wish and add to or adapt the activity accordingly.
 
 

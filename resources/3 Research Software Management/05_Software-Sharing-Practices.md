@@ -40,14 +40,14 @@ LO1: Advocate for the importance of applying software licences.
 
 ### Learning Activities
 
-- **Slide presentation** (30 mins): Lecture or presentation to go over what software licences are and the different permissions they grant, how they differ from copyright, and the importance of using them. A presentation from the Netherlands eScience Center training can be reused or adapted (Resource 1).
-- **Applied learning activity** (30 mins): The learners should break up into groups of 3, and each access the website Choose a License (Resource 2). Each person in the group should imagine they are approached by a researcher who has requested advice on applying a software licence based on one of the three scenarios mentioned on the website: 1) I need to work in a community, 2) I want it simple and permissive, 3) I care about sharing improvements. Use the options of licences provided on the website to decide what advice you would give in each case. Share your reflections with the rest of the breakout group and note your observations together in a shared document.
-- **Add-on applied learning activity** (15 mins): The learners can consider the following scenario (based on the 6<sup>th</sup> and final scenario mentioned in Resource 2): Discuss what would happen if you were approached by a researcher who does not want to use a software licence. What would you tell them about the implications of this for their research software? What advice would you give them? Discuss in your breakout groups.
+- **Slide presentation** (30&nbsp;mins): Lecture or presentation to go over what software licences are and the different permissions they grant, how they differ from copyright, and the importance of using them. A presentation from the Netherlands eScience Center training can be reused or adapted (Resource&nbsp;1).
+- **Applied learning activity** (30&nbsp;mins): The learners should break up into groups of 3, and each access the website Choose a License (Resource&nbsp;2). Each person in the group should imagine they are approached by a researcher who has requested advice on applying a software licence based on one of the three scenarios mentioned on the website: 1) I need to work in a community, 2) I want it simple and permissive, 3) I care about sharing improvements. Use the options of licences provided on the website to decide what advice you would give in each case. Share your reflections with the rest of the breakout group and note your observations together in a shared document.
+- **Add-on applied learning activity** (15&nbsp;mins): The learners can consider the following scenario (based on the 6<sup>th</sup> and final scenario mentioned in Resource&nbsp;2): Discuss what would happen if you were approached by a researcher who does not want to use a software licence. What would you tell them about the implications of this for their research software? What advice would you give them? Discuss in your breakout groups.
 
 
 ### Materials to Prepare
 
-- Presentation on software licences (Resource 1).
+- Presentation on software licences (Resource&nbsp;1).
 - Collaborative document such as HackMD or Google docs to note down observations from the activity (one document can be used for all the breakout groups).
 
 
@@ -83,7 +83,7 @@ LO2: Explain the relationship between copyright and software licences.
 
 ### Learning Activities
 
-- **Individual in-session activity** (40 mins): The learners should be given the following prompt to explore on their own: Look up the software policy of your research institution. What does it say about what software licences researchers should apply? What does it say about copyright? If there is no institutional policy, make a note of that, and try to see if there are any other guidelines (such as national laws or regulations) that are used instead. Each person should do a quick 2-minute summary about what they found.
+- **Individual in-session activity** (40&nbsp;mins): The learners should be given the following prompt to explore on their own: Look up the software policy of your research institution. What does it say about what software licences researchers should apply? What does it say about copyright? If there is no institutional policy, make a note of that, and try to see if there are any other guidelines (such as national laws or regulations) that are used instead. Each person should do a quick 2-minute summary about what they found.
 
 
 ### Materials to Prepare
@@ -94,7 +94,7 @@ LO2: Explain the relationship between copyright and software licences.
 ### Instructor Notes
 
 - This learning activity builds on materials covered under LO1 and encourages the learner to think about software licences and copyright in the context of their own institutions, which may have differing policies.
-- This activity is adapted from the Netherlands eScience Center course material in Resource 3 and can be reused, provided it is properly cited and attributes in accordance with the CC BY 4.0 licence.
+- This activity is adapted from the Netherlands eScience Center course material in Resource&nbsp;3 and can be reused, provided it is properly cited and attributes in accordance with the CC BY 4.0 licence.
 
 
 ### Resources
@@ -114,15 +114,15 @@ LO3: Identify appropriate software licences to apply, taking into consideration 
 
 ### Learning Activities
 
-- **Reflection Activity** (40 mins): The instructor can use the software licensing compatibility tool in the EU Academy Licensing Assistant (Resource 1) to guide learners through assessing the compatibility of different software licences (use information from Resource 2 to get further information). Guidance from The Turing Way (Resource 3) can also be used to consider more detailed software licence compatibility scenarios.
-    - Small breakout groups explore the following scenario: Consider 6 common open source software licences mentioned in the NL eScience Center module on Software Licensing (Resource 4):
+- **Reflection Activity** (40&nbsp;mins): The instructor can use the software licensing compatibility tool in the EU Academy Licensing Assistant (Resource&nbsp;1) to guide learners through assessing the compatibility of different software licences (use information from Resource&nbsp;2 to get further information). Guidance from The Turing Way (Resource&nbsp;3) can also be used to consider more detailed software licence compatibility scenarios.
+    - Small breakout groups explore the following scenario: Consider 6 common open source software licences mentioned in the NL eScience Center module on Software Licensing (Resource&nbsp;4):
         - GPL: GNU General Public License,
         - AGPL: Affero General Public License,
         - LGPL: GNU Lesser General Public License,
         - MPL: Mozilla Public License,
         - BSD: Berkeley Software Distribution, and
         - MIT: Massachusetts Institute of Technology.
-    - Identifying combinations of these licences two at a time in the EU Academy Licensing Assistant (Resource 1), select one as the inbound licence (covering the third party source code that you plan to use in your project), and one as the outbound licence (already covering your main project source code and/or planned for the distribution of your project). Are these compatible with one another? Explore at least 3 different scenarios in your group and consider how the conditions of the inbound software licence affect your ability to use the licence of your choice on the outbound software.
+    - Identifying combinations of these licences two at a time in the EU Academy Licensing Assistant (Resource&nbsp;1), select one as the inbound licence (covering the third party source code that you plan to use in your project), and one as the outbound licence (already covering your main project source code and/or planned for the distribution of your project). Are these compatible with one another? Explore at least 3 different scenarios in your group and consider how the conditions of the inbound software licence affect your ability to use the licence of your choice on the outbound software.
     - Breakout groups should discuss in plenum their key takeaways from the activity, and whether they are common across groups.
 
 
@@ -155,10 +155,10 @@ LO4: Identify the steps necessary to distribute research software.
 
 ### Learning Activities
 
-- **Slide presentation** (20 mins): The importance of distributing research software, types of software and how to distribute them (can be adapted from Resource 1).
-- **Discussion Activity** (40 mins): The learners are divided into small breakout groups of 3&ndash;4. The instructor should assign each group a case in which they give advice about distributing a particular kind of software (adapted from the suggested activity in Resource 2). Other case studies can be proposed by the instructor.
-    - Case 1: A senior researcher who leads a group asks for advice on distributing some software that a junior researcher from their group has created. They say: "One of my people has made an amazing application for calculating where you can best put solar panels, and how much energy they will produce. We think there are lots of researchers studying the energy transition and working on solutions, and they should all use our program because it's just so great. We're submitting a paper on solar panels in the province next week, but how do we make the code available?"
-    - Case 2: A historian who studies historical natural disasters wants to share code associated with a paper. They have a background in economics, and have taken a quantitative approach, working with a statistician to modify existing data analysis techniques and got some really good results. The author submitted a paper some time ago and have now been asked to share the code by the journal. What should they do?
+- **Slide presentation** (20&nbsp;mins): The importance of distributing research software, types of software and how to distribute them (can be adapted from Resource&nbsp;1).
+- **Discussion Activity** (40&nbsp;mins): The learners are divided into small breakout groups of 3&ndash;4. The instructor should assign each group a case in which they give advice about distributing a particular kind of software (adapted from the suggested activity in Resource&nbsp;2). Other case studies can be proposed by the instructor.
+    - Case&nbsp;1: A senior researcher who leads a group asks for advice on distributing some software that a junior researcher from their group has created. They say: "One of my people has made an amazing application for calculating where you can best put solar panels, and how much energy they will produce. We think there are lots of researchers studying the energy transition and working on solutions, and they should all use our program because it's just so great. We're submitting a paper on solar panels in the province next week, but how do we make the code available?"
+    - Case&nbsp;2: A historian who studies historical natural disasters wants to share code associated with a paper. They have a background in economics, and have taken a quantitative approach, working with a statistician to modify existing data analysis techniques and got some really good results. The author submitted a paper some time ago and have now been asked to share the code by the journal. What should they do?
     - The groups should present their approaches in a session in plenum, to see the different approaches taken by other learners.
 
 
@@ -199,9 +199,9 @@ LO5: List the steps to publish research software.
 
 ### Learning Activities
 
-- **Slide presentation** (20 mins): Short presentation on why research software should be published, and what steps can be taken to publish it (adapted from Resource 1).
-- **Discussion activity** (40 mins): This activity is adapted from an activity from the Netherlands eScience Center Course in Resource 2.
-    - Learners should be divided into small groups of 3 or 4, and be asked to choose a piece of research software that they know, or pick one of the packages from this list (source: Research Software Directory, Resource 3):
+- **Slide presentation** (20&nbsp;mins): Short presentation on why research software should be published, and what steps can be taken to publish it (adapted from Resource&nbsp;1).
+- **Discussion activity** (40&nbsp;mins): This activity is adapted from an activity from the Netherlands eScience Center Course in Resource&nbsp;2.
+    - Learners should be divided into small groups of 3 or 4, and be asked to choose a piece of research software that they know, or pick one of the packages from this list (source: Research Software Directory, Resource&nbsp;3):
         - [ESMValTool](https://research-software-directory.org/software/esmvaltool)
         - [LitStudy](https://research-software-directory.org/software/litstudy)
         - [Haddock](https://research-software-directory.org/software/haddock3)
@@ -209,14 +209,14 @@ LO5: List the steps to publish research software.
         - [democracy-topic-modelling](https://research-software-directory.org/software/democracy-topic-modelling)
     - They should then consider the following questions in their breakout groups.
         - Find out what the software is about.
-        - Look individually in the [Research Software Registries Awesome List](https://github.com/NLeSC/awesome-research-software-registries) (Resource 4) for a registry that is suitable for the chosen piece of software. Discuss in the group which registry to choose. After choosing a software registry discuss in the group what further steps are required to publish research software (for instance, software repository, software paper).
+        - Look individually in the [Research Software Registries Awesome List](https://github.com/NLeSC/awesome-research-software-registries) (Resource&nbsp;4) for a registry that is suitable for the chosen piece of software. Discuss in the group which registry to choose. After choosing a software registry discuss in the group what further steps are required to publish research software (for instance, software repository, software paper).
     - Groups should then discuss in plenum how they made their choices of registries and key takeaways from the activity
 
 
 ### Materials to Prepare
 
-- Slide presentation on publishing research software (can be reused or adapted from Resource 1).
-- List of software to choose from for the discussion activity (can be chosen from Resource 4).
+- Slide presentation on publishing research software (can be reused or adapted from Resource&nbsp;1).
+- List of software to choose from for the discussion activity (can be chosen from Resource&nbsp;4).
 
 
 ### Instructor Notes
@@ -255,8 +255,8 @@ LO6: Describe practical steps to make research software citable.
 
 ### Learning Activities
 
-- **Slide presentation** (30 mins): Slide presentation on the principles of research software citation, and how and why to cite research software and make your own research software citable. Slides in Resource 1 can be reused or adapted with proper citation.
-- **Discussion/Think-Pair-Share Activity** (30 mins): (Adapted from the activity in Resource 2) Learners should be given the following prompt to discuss with one another in pairs:
+- **Slide presentation** (30&nbsp;mins): Slide presentation on the principles of research software citation, and how and why to cite research software and make your own research software citable. Slides in Resource&nbsp;1 can be reused or adapted with proper citation.
+- **Discussion/Think-Pair-Share Activity** (30&nbsp;mins): (Adapted from the activity in Resource&nbsp;2) Learners should be given the following prompt to discuss with one another in pairs:
     - Suppose that a researcher approaches you to ask how to cite the software they have used for a research paper they have been writing and they provide you with the list below, which software would you recommend the researchers to cite and which not? Why?
         - Ubuntu&mdash;Operating System
         - Microsoft word&mdash;text editor (used to write the paper, take notes)
@@ -283,8 +283,8 @@ LO6: Describe practical steps to make research software citable.
     - What are the principles of software citation?
     - How do I communicate the importance of citing software to researchers?
     - How do I guide researchers through the steps of making their software citable?
-- More information on Think-Pair-Share activities is available in Resource 6.
-- One possible persistent identifier for software is the "SoftWare Heritage persistent IDentifier" (SWHID). More information can be found in Resource 8.
+- More information on Think-Pair-Share activities is available in Resource&nbsp;6.
+- One possible persistent identifier for software is the "SoftWare Heritage persistent IDentifier" (SWHID). More information can be found in Resource&nbsp;8.
 
 
 ### Resources

@@ -40,8 +40,8 @@ LO1: Recognise the responsibilities regarding Research Data Management during da
 
 ### Learning Activities
 
-- **Practical Exercise&mdash;Data Flow Map** (45 mins): Facilitate the data flow map exercise that is provided in Resource 1.
-- **Reflection activity** (45 mins): Identify institutional data documentation and metadata documentation tools. Make this a think-pair-share exercise which is explained in more details in Resource 3.
+- **Practical Exercise&mdash;Data Flow Map** (45&nbsp;mins): Facilitate the data flow map exercise that is provided in Resource&nbsp;1.
+- **Reflection activity** (45&nbsp;mins): Identify institutional data documentation and metadata documentation tools. Make this a think-pair-share exercise which is explained in more details in Resource&nbsp;3.
 
 
 ### Materials to Prepare
@@ -55,7 +55,7 @@ LO1: Recognise the responsibilities regarding Research Data Management during da
 **Presentation:**
 
 - Highlight the importance of storing contents of research as well as data and metadata (information about the data). The presentation can highlight which tools are available for data documentation. The facilitator can relate this to the local context by introducing (for example) different tools available according to the policies of their institutes or by initiating discussion among the learners.
-- The instructor can introduce the data flow map at this stage and use this to facilitate a practical exercise or use parts of it in a presentation format (see Resource 1).
+- The instructor can introduce the data flow map at this stage and use this to facilitate a practical exercise or use parts of it in a presentation format (see Resource&nbsp;1).
 
 **Reflection Activity:**
 
@@ -79,7 +79,7 @@ LO2: Summarise the means to and benefits of organising and cleaning data.
 
 ### Learning Activities
 
-- **Lecture** (60 mins): Introduce the concept of tidy data and the difficulties presented by untidy data.
+- **Lecture** (60&nbsp;mins): Introduce the concept of tidy data and the difficulties presented by untidy data.
 
 
 ### Materials to Prepare
@@ -128,12 +128,12 @@ LO3: Apply documentation to data in accordance with policy and regulations relev
 
 ### Learning Activities
 
-- **Discussion** (45 mins): Participants list their institutional policies (if any) that outline RDM. They discuss the best practices for data documentation and storage within these policies. This discussion can be done in small groups. At the end of the discussion, each group can present/summarise documentation/storage practices highlighted in the policy they discussed OR if they have real life examples to showcase the practice this would be even better. If there is no institutional policy in place then they can discuss what are the current RDM practices within their institute and what a policy document should take into account or the trainer can provide them with an existing RDM policy.
+- **Discussion** (45&nbsp;mins): Participants list their institutional policies (if any) that outline RDM. They discuss the best practices for data documentation and storage within these policies. This discussion can be done in small groups. At the end of the discussion, each group can present/summarise documentation/storage practices highlighted in the policy they discussed OR if they have real life examples to showcase the practice this would be even better. If there is no institutional policy in place then they can discuss what are the current RDM practices within their institute and what a policy document should take into account or the trainer can provide them with an existing RDM policy.
 
 
 ### Materials to Prepare
 
-- Facilitate discussion by having one or two institutional policies to share with the group (refer to Resources 1&ndash;4 for some examples).
+- Facilitate discussion by having one or two institutional policies to share with the group (refer to Resources&nbsp;1&ndash;4 for some examples).
 
 
 ### Instructor Notes
@@ -145,7 +145,7 @@ LO3: Apply documentation to data in accordance with policy and regulations relev
     - the goal of a policy as well as definitions,
     - scope of policy (which data it is dealing with),
     - roles and responsibilities of various stakeholders with regards to data documentation and storage, and
-    - any compliance or recommendations that have to be adhered to or other practices to be followed (Resources 3, 4).
+    - any compliance or recommendations that have to be adhered to or other practices to be followed (Resources&nbsp;3, 4).
 - The instructor can find many institutional data policies online by doing an online search. Some links have been provided in the resource.
 
 

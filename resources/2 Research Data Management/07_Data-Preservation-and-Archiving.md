@@ -39,8 +39,8 @@ LO1: Evaluate data in order to set up its preservation.
 
 ### Learning Activities
 
-- **Lecture** (15 mins): Lecture on definitions, stakes, challenges, criteria for data preservation.
-- **Group Work** (30 mins): In small groups, provide learners with fictional datasets and their documentation of different types (simulation data, experimental data, survey data). Each group must classify these data into three categories: to preserve indefinitely, to evaluate periodically, or no need for long-term preservation/suppression. The group work can be followed by a reflection exercise where each group shares its decisions and justifications with all participants, followed by a discussion to compare the choices made by different groups.
+- **Lecture** (15&nbsp;mins): Lecture on definitions, stakes, challenges, criteria for data preservation.
+- **Group Work** (30&nbsp;mins): In small groups, provide learners with fictional datasets and their documentation of different types (simulation data, experimental data, survey data). Each group must classify these data into three categories: to preserve indefinitely, to evaluate periodically, or no need for long-term preservation/suppression. The group work can be followed by a reflection exercise where each group shares its decisions and justifications with all participants, followed by a discussion to compare the choices made by different groups.
 
 
 ### Materials to Prepare
@@ -60,7 +60,7 @@ LO1: Evaluate data in order to set up its preservation.
 **Group work:**
 
 - The trainer is encouraged to prepare a variety of datasets, which will encourage the learners to ask themselves the right questions. For example, choose a dataset that objectively lacks documentation. This encourages the learners to think about the relevance of recommending a dataset when little or nothing is known about how it was produced.
-- The instructor can also use non-fictional datasets that are licensed for re-use for educational purposes. Data can be found in data repositories (such as Zenodo, or thematic repositories depending on the target audience for the course, or OpenAIRE Explore which is the European platform for accessing publications and datasets). Resources 1 and 2 provide some links.
+- The instructor can also use non-fictional datasets that are licensed for re-use for educational purposes. Data can be found in data repositories (such as Zenodo, or thematic repositories depending on the target audience for the course, or OpenAIRE Explore which is the European platform for accessing publications and datasets). Resources&nbsp;1 and 2 provide some links.
 - For the activity, the trainer can use these criteria to help the learners classify the data:
     - *Preserve indefinitely:* Data with indisputable scientific, legal, or operational value (crucial for future research, irreplaceable or very costly to reproduce, or legally required to be preserved).
     - *Data that needs to be evaluated periodically to assure its preservation:* Data with significant value at the time of creation but with uncertain long-term importance, whose relevance depends on the evolution of research, the cost of preservation, and so on.
@@ -83,9 +83,9 @@ LO2: Provide practical advice on the technical aspects of data preservation and 
 
 ### Learning Activities
 
-- **Group work** (30 mins): Learners are given several cards representing different elements to take into account in the creation of a data preservation workflow. The learners look at their card (for example, "formatting data in a durable format") and then they have to construct a short argument about this element. They should try to explain why they think this particular element is important to consider when setting up a workflow for data management.
-- **Peer Review process** (15 mins): The learners are encouraged to take notes while the person presents the element on their card. The learners then discuss the different presentations that have been made, adding to them and commenting on them.
-- **Conclusion lecture** (25 mins): The trainer goes over all the content of the cards and gives keys takeaways on each of the elements that constitute a workflow for preserving research data.
+- **Group work** (30&nbsp;mins): Learners are given several cards representing different elements to take into account in the creation of a data preservation workflow. The learners look at their card (for example, "formatting data in a durable format") and then they have to construct a short argument about this element. They should try to explain why they think this particular element is important to consider when setting up a workflow for data management.
+- **Peer Review process** (15&nbsp;mins): The learners are encouraged to take notes while the person presents the element on their card. The learners then discuss the different presentations that have been made, adding to them and commenting on them.
+- **Conclusion lecture** (25&nbsp;mins): The trainer goes over all the content of the cards and gives keys takeaways on each of the elements that constitute a workflow for preserving research data.
 
 
 ### Materials to Prepare
@@ -111,7 +111,7 @@ LO2: Provide practical advice on the technical aspects of data preservation and 
 **Lecture:**
 
 - The trainer should emphasise how data preservation steps may vary depending on data type, legal requirements, reinforcing the flexibility and adaptability required in data stewardship.
-- The trainer may recommend reading additional resources, such as case studies (Resource 3).
+- The trainer may recommend reading additional resources, such as case studies (Resource&nbsp;3).
 - Other areas to cover include:
     - practical advice on the technical aspects of data preservation and data archiving,
     - best practices for organising and structuring data before archiving (file naming and arborescence),
@@ -152,11 +152,11 @@ LO3: Identify information about local and national data infrastructures.
 
 ### Learning Activities
 
-- **Lecture** (20 mins): Presentation by the trainer of one or more infrastructures and organisations in their country and/or internationally (show what the infrastructure/services offer for data preservation). Presentation of certification bodies such as CoreTrustSeal and discussion of certification criteria for warehouses with the learners.
-- **Research and reflective Activity** (30 mins): Learners select a data repository from their country or a repository recognised in their discipline. Using information from the presentation and their own knowledge (internet research, use of tools such as fair sharing), they prepare a short presentation on the chosen repository, addressing two questions:
+- **Lecture** (20&nbsp;mins): Presentation by the trainer of one or more infrastructures and organisations in their country and/or internationally (show what the infrastructure/services offer for data preservation). Presentation of certification bodies such as CoreTrustSeal and discussion of certification criteria for warehouses with the learners.
+- **Research and reflective Activity** (30&nbsp;mins): Learners select a data repository from their country or a repository recognised in their discipline. Using information from the presentation and their own knowledge (internet research, use of tools such as fair sharing), they prepare a short presentation on the chosen repository, addressing two questions:
     1. What elements make this repository trustworthy?
     2. Why might a data steward recommend this repository to a scientist?
-- **Presentation and Debate** (20 mins): Volunteers can present the results of their synthesis, while other learners are encouraged to highlight key elements for effective data preservation, as well as any potential "missing" elements.
+- **Presentation and Debate** (20&nbsp;mins): Volunteers can present the results of their synthesis, while other learners are encouraged to highlight key elements for effective data preservation, as well as any potential "missing" elements.
 
 
 ### Materials to Prepare

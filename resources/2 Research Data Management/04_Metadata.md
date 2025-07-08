@@ -39,13 +39,13 @@ LO1: Summarise and present the definition, history and applications of metadata.
 
 ### Learning Activities
 
-- **Lecture** (45 mins): The lecture can focus on defining metadata (suggestion to use Pommerantz 2015, Resource 6). History of Metadata can be covered, from ancient libraries to the present. Additionally the lecture can cover metadata types in the context of data stewardship; Descriptive, Structural, Administrative and Metadata in everyday life, and in the news. The driving point is to open students up to the reality that metadata is used all the time, everywhere in every day life in small, invisible but meaningful ways (ranging from the contents descriptions on a can of soup to your phone's metadata on a phone call). The instructor can then move to how metadata works within a data steward's portfolio of tasks.
-- **Discussion** (90 mins): Discussion about the metadata used in the Edward Snowden case (Resources 8, 9). What does the metadata reveal? How can different bits of metadata contribute to a broader picture of meaning? How does it "tell a story" (true or not) or realise something that could be relayed with semantic meaning? The instructor can also choose another news source.
+- **Lecture** (45&nbsp;mins): The lecture can focus on defining metadata (suggestion to use Pommerantz 2015, Resource&nbsp;6). History of Metadata can be covered, from ancient libraries to the present. Additionally the lecture can cover metadata types in the context of data stewardship; Descriptive, Structural, Administrative and Metadata in everyday life, and in the news. The driving point is to open students up to the reality that metadata is used all the time, everywhere in every day life in small, invisible but meaningful ways (ranging from the contents descriptions on a can of soup to your phone's metadata on a phone call). The instructor can then move to how metadata works within a data steward's portfolio of tasks.
+- **Discussion** (90&nbsp;mins): Discussion about the metadata used in the Edward Snowden case (Resources&nbsp;8, 9). What does the metadata reveal? How can different bits of metadata contribute to a broader picture of meaning? How does it "tell a story" (true or not) or realise something that could be relayed with semantic meaning? The instructor can also choose another news source.
 
 
 ### Materials to Prepare
 
-- Lecture slides to be drawn from material in Resources 4&ndash;7.
+- Lecture slides to be drawn from material in Resources&nbsp;4&ndash;7.
 - Facilitate discussion by presenting the Edward Snowden case or another news source and broad points about the Snowden leaks to guide the conversation.
 
 
@@ -56,12 +56,12 @@ LO1: Summarise and present the definition, history and applications of metadata.
 - Metadata is a key tool in everyday life&mdash;metadata is a kind of infrastructure, it becomes visible upon breakdown.
 - Go through the types of metadata and highlight their use in a data stewardship context. Outline the importance of descriptive, structural, and administrative metadata, and how they intersect with the work of data stewards, both as data curators in repositories but also as consultants on projects.
 - Metadata is a crucial part of not only Findability but all elements of the FAIR principles.
-- Relay the history of metadata from early libraries through the structuring of digital technologies. See Gartner 2016 and Pommerantz 2015 (Resources 6, 7) for excellent summaries on this topic.
+- Relay the history of metadata from early libraries through the structuring of digital technologies. See Gartner 2016 and Pommerantz 2015 (Resources&nbsp;6, 7) for excellent summaries on this topic.
 - Highlight a few instances of metadata as a tool that enables our digital lifestyles.
 
 **Discussion:**
 
-- The goal of the discussion is to engage with a real case (Resources 8, 9) and have the learners discuss this with their understanding of metadata from the lecture. The instructor can ask the learners to consider the questions either through group discussions or alone. Drive the point in the discussion that labels are important in giving order/meaning/or even a story (like who you are and what you are doing through your phone metadata) its structure and description.
+- The goal of the discussion is to engage with a real case (Resources&nbsp;8, 9) and have the learners discuss this with their understanding of metadata from the lecture. The instructor can ask the learners to consider the questions either through group discussions or alone. Drive the point in the discussion that labels are important in giving order/meaning/or even a story (like who you are and what you are doing through your phone metadata) its structure and description.
 
 
 ### Resources
@@ -85,8 +85,8 @@ LO2: Criticise and appraise the quality of descriptive metadata records.
 
 ### Learning Activities
 
-- **Lecture** (45 mins): The instructor can cover the following: Key-Value Pairs, Dublin Core elements and the introduction to descriptive schemes, Metadata record, Thesauri, controlled vocabularies and classification: how to gather and disambiguate records by their attribute, data repositories, knowledge (records) organisation, Domains and cross-domain integration (Data Documentation Initiative, DDI), Descriptive metadata within data files (further coverage in structural metadata Learning Objective), connection to ontologies and linked data (in the Ontologies Module of this curriculum), the semantic triple and a brief view of the future.
-- **Metadata scavenger hunt part 1** (100 mins): Look in a library catalogue or bibliographic database and analyse the contents of one or two records in groups, to be taken up as a group. Points of interest could be how a search engine produced a particular result, which can point to issues with weighting in such a search. Consider how tags and descriptive metadata enable findability. A twist of this can be done on a platform that allows for folksonomies. If time allows, this scavenger hunt could compare and contrast records that use authority files and folksonomic tagging (this could be accomplished on platforms such as YouTube or Reddit, which do not necessitate logins).
+- **Lecture** (45&nbsp;mins): The instructor can cover the following: Key-Value Pairs, Dublin Core elements and the introduction to descriptive schemes, Metadata record, Thesauri, controlled vocabularies and classification: how to gather and disambiguate records by their attribute, data repositories, knowledge (records) organisation, Domains and cross-domain integration (Data Documentation Initiative, DDI), Descriptive metadata within data files (further coverage in structural metadata Learning Objective), connection to ontologies and linked data (in the Ontologies Module of this curriculum), the semantic triple and a brief view of the future.
+- **Metadata scavenger hunt part 1** (100&nbsp;mins): Look in a library catalogue or bibliographic database and analyse the contents of one or two records in groups, to be taken up as a group. Points of interest could be how a search engine produced a particular result, which can point to issues with weighting in such a search. Consider how tags and descriptive metadata enable findability. A twist of this can be done on a platform that allows for folksonomies. If time allows, this scavenger hunt could compare and contrast records that use authority files and folksonomic tagging (this could be accomplished on platforms such as YouTube or Reddit, which do not necessitate logins).
 
 
 ### Materials to Prepare
@@ -130,14 +130,14 @@ LO3: Describe the applications of structural metadata.
 
 ### Learning Activities
 
-- **Lecture** (90 mins): Give a walk-through of a survey data file online. How does descriptive and structural metadata make it meaningful? The instructor can facilitate learners to discuss how this is achieved or not. The instructor is invited to use Resource 5, an openly available survey conducted on people affected by various conflicts in the Balkans. This survey is interesting, as the respondents and questions are divided up in order to paint a broader picture of how people of different ethnicities, of different countries were impacted by violence, political unrest, and war.
-- **Learning activity: Going through a survey's structure alone or in groups** (30 mins): Instruct students to search within a research data repository for an openly available social science survey. Ask the students to identify the structural metadata, and discuss how this metadata help to give the data meaning. If the course is being held in person, students can write these down on a whiteboard, which can in turn be presented.
+- **Lecture** (90&nbsp;mins): Give a walk-through of a survey data file online. How does descriptive and structural metadata make it meaningful? The instructor can facilitate learners to discuss how this is achieved or not. The instructor is invited to use Resource&nbsp;5, an openly available survey conducted on people affected by various conflicts in the Balkans. This survey is interesting, as the respondents and questions are divided up in order to paint a broader picture of how people of different ethnicities, of different countries were impacted by violence, political unrest, and war.
+- **Learning activity: Going through a survey's structure alone or in groups** (30&nbsp;mins): Instruct students to search within a research data repository for an openly available social science survey. Ask the students to identify the structural metadata, and discuss how this metadata help to give the data meaning. If the course is being held in person, students can write these down on a whiteboard, which can in turn be presented.
 
 
 ### Materials to Prepare
 
 - Slides based on the content of the instructor notes.
-- Familiarity with Resource 4.
+- Familiarity with Resource&nbsp;4.
 
 
 ### Instructor Notes
@@ -154,7 +154,7 @@ LO3: Describe the applications of structural metadata.
 - Discuss how metadata works within a dataset in order to give the raw data their meaning. Materials from this curriculum from the modules on Data Documentation and Storage, and FAIR data can also be reused here.
 - Discuss how metadata structures datasets: Question texts, variables, and relationships can be used and applied to datasets.
 - Draw attention to how these metadata enable longer term preservation of data (can refer to the module on data preservation and archiving for more information).
-- Using Resource 4, point out how the survey gets divided depending on the nationality of the respondent. Draw students' attention to how this categorization (through structural metadata) provides a broader picture through the segmentation of the universe.
+- Using Resource&nbsp;4, point out how the survey gets divided depending on the nationality of the respondent. Draw students' attention to how this categorization (through structural metadata) provides a broader picture through the segmentation of the universe.
 
 **Learning Activity:**
 
@@ -181,8 +181,8 @@ LO4: Identify the applications of administrative/legal metadata.
 
 ### Learning Activities
 
-- **Lecture** (30 mins): The lecture can focus on file format metadata, data formats and versioning, access rights (for example, copyright, Creative Commons) and representing and implementing GDPR with respect to sensitive data.
-- **Metadata scavenger hunt part 2** (90 mins): Go to data repository and walk through a record's administrative and structural metadata.
+- **Lecture** (30&nbsp;mins): The lecture can focus on file format metadata, data formats and versioning, access rights (for example, copyright, Creative Commons) and representing and implementing GDPR with respect to sensitive data.
+- **Metadata scavenger hunt part 2** (90&nbsp;mins): Go to data repository and walk through a record's administrative and structural metadata.
 
 
 ### Materials to Prepare

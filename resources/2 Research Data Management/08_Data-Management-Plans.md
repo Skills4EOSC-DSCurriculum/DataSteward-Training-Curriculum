@@ -41,7 +41,7 @@ LO1: Describe the concept of data management plans, identify challenges, and com
 
 ### Learning Activities
 
-- **Lecture** (60 mins): Slide presentation with a data management plan (DMP) example for illustration. The learners will be provided with a reflection document, that encourages them to question their understanding of the many concepts, terms and workflows the lecture presents. A case study or examples of situations where a DMP is being used to predict certain eventualities can also be used during the lecture to illustrate better (Resource 4).
+- **Lecture** (60&nbsp;mins): Slide presentation with a data management plan (DMP) example for illustration. The learners will be provided with a reflection document, that encourages them to question their understanding of the many concepts, terms and workflows the lecture presents. A case study or examples of situations where a DMP is being used to predict certain eventualities can also be used during the lecture to illustrate better (Resource&nbsp;4).
 
 
 ### Materials to Prepare
@@ -57,9 +57,9 @@ LO1: Describe the concept of data management plans, identify challenges, and com
 
 **Lecture:**
 
-- What is a DMP and what value does it bring to a research project? What are the pros? Which problems, resistance and friction may arise? The instructor can use material and the video from Resource 3 to develop the lecture.
+- What is a DMP and what value does it bring to a research project? What are the pros? Which problems, resistance and friction may arise? The instructor can use material and the video from Resource&nbsp;3 to develop the lecture.
 - The set of questions for the learners encourages them to discuss their understanding of key terms and workflows introduced during the lecture.
-- The instructor can use a real DMP to illustrate this learning activity. They can use a database to find some DMPs for re-use (Resource 5).
+- The instructor can use a real DMP to illustrate this learning activity. They can use a database to find some DMPs for re-use (Resource&nbsp;5).
 - Learners should be encouraged to understand the data management planning process, and what resources are necessary for a professional data management planning process. Identify risks, for example that the plan is created at the time of highest uncertainty and the doubt that the value of the plan is worth the effort.
 
 
@@ -89,9 +89,9 @@ LO2: Design practical data management strategies to meet research requirements a
 
 ### Learning Activities
 
-- **Case study** (60 mins): Analyse an existing data management plan (DMP) for a research project and identify how well it meets the FAIR principles. Discuss improvements.
-- **Group work on DMP Development** (60 mins): In small groups, design a basic DMP for a hypothetical (or real) project, ensuring alignment with each of the FAIR principles. Share Resource 5 with the groups so that they can see if they missed anything.
-- **Checklist activity** (30 mins): Use a FAIR data checklist to evaluate DMPs and ensure they incorporate key FAIR elements (e.g., using persistent identifiers, selecting appropriate repositories), and they are in alignment with local institutional policies (or national/funder policies, dependent on the example used in the case).
+- **Case study** (60&nbsp;mins): Analyse an existing data management plan (DMP) for a research project and identify how well it meets the FAIR principles. Discuss improvements.
+- **Group work on DMP Development** (60&nbsp;mins): In small groups, design a basic DMP for a hypothetical (or real) project, ensuring alignment with each of the FAIR principles. Share Resource&nbsp;5 with the groups so that they can see if they missed anything.
+- **Checklist activity** (30&nbsp;mins): Use a FAIR data checklist to evaluate DMPs and ensure they incorporate key FAIR elements (e.g., using persistent identifiers, selecting appropriate repositories), and they are in alignment with local institutional policies (or national/funder policies, dependent on the example used in the case).
 
 
 ### Materials to Prepare
@@ -112,13 +112,13 @@ LO2: Design practical data management strategies to meet research requirements a
 
 **Group work:**
 
-- A blank DMP can be shared with the learners for the group work (Resource 3). The groups should be asked to come up with a hypothetical (or real) research project and then prepare a DMP together. A plenary discussion can summarise the questions that each group had, challenges they faced or other comments they had during this activity.
-- The instructor can use Resource 2 if they want to prepare research projects for each group for which they can make their DMP. They can then also show the groups the real DMPs at the end of the activity.
+- A blank DMP can be shared with the learners for the group work (Resource&nbsp;3). The groups should be asked to come up with a hypothetical (or real) research project and then prepare a DMP together. A plenary discussion can summarise the questions that each group had, challenges they faced or other comments they had during this activity.
+- The instructor can use Resource&nbsp;2 if they want to prepare research projects for each group for which they can make their DMP. They can then also show the groups the real DMPs at the end of the activity.
 
 **Checklist activity:**
 
 - This activity is to align DMPs with making data FAIR (Findable, Accessible, Interoperable, and Reusable). This will help to map research needs to FAIR-aligned data strategies (metadata standards, storage, sharing protocols).
-- The instructor can use Resource 4 to do this mapping exercise.
+- The instructor can use Resource&nbsp;4 to do this mapping exercise.
 
 
 ### Resources
@@ -140,7 +140,7 @@ LO3: Identify data management requirements of research funders and institutions 
 
 ### Learning Activities
 
-- **Lecture** (45 mins): Workshop activity of reading one or more requirements with regard to data management plans (DMPs) by funders or institutions and discuss in plenary.
+- **Lecture** (45&nbsp;mins): Workshop activity of reading one or more requirements with regard to data management plans (DMPs) by funders or institutions and discuss in plenary.
 
 
 ### Materials to Prepare
@@ -155,7 +155,7 @@ LO3: Identify data management requirements of research funders and institutions 
 
 **Lecture:**
 
-- The aim of this learning objective is to identify which research funders and institutions require DMPs or descriptions at the application stage. What are the requirements? The instructor can use the EU DMP template and at least one local template as examples (Resources 2, 3).
+- The aim of this learning objective is to identify which research funders and institutions require DMPs or descriptions at the application stage. What are the requirements? The instructor can use the EU DMP template and at least one local template as examples (Resources&nbsp;2, 3).
 - Regarding the resources, choose guidelines from national funders as appropriate. Possible questions the instructor can use to structure the plenary discussion are:
     - What strategies or best practices could be used to effectively meet these requirements in a DMP?
     - What are the most common requirements you have observed among the different funders?
@@ -194,8 +194,8 @@ LO4: Apply solutions for creating data management plans (knowing at least one to
 
 ### Learning Activities
 
-- **Lecture** (45 mins): Slide presentation on going from a project description to a data management plan (DMP).
-- **Practical exercise** (90 mins): The learner will prepare a DMP based on the project description in the DMP tool of their institution.
+- **Lecture** (45&nbsp;mins): Slide presentation on going from a project description to a data management plan (DMP).
+- **Practical exercise** (90&nbsp;mins): The learner will prepare a DMP based on the project description in the DMP tool of their institution.
 
 
 ### Materials to Prepare
@@ -227,8 +227,8 @@ LO5: Develop data management planning templates.
 
 ### Learning Activities
 
-- **Lecture** (60 mins): Lecture or slide presentation on domain specific data management plans (DMPs) and cross-disciplinary interoperability. Illustration of the creation of data management planning templates using a tool available at your institution. Resources 3 and 4 provide ideas on content for such a lecture (which can be supplemented with the instructor's domain-specific expertise).
-- **Think-Pair-Share Activity** (60 mins): Interview scenarios between groups of learners, in which they practice asking about the needs of a project. Resource 5 has more detail on how to structure such an activity, and the Instructor Notes have more guidance on the kinds of questions that could be included in the interview.
+- **Lecture** (60&nbsp;mins): Lecture or slide presentation on domain specific data management plans (DMPs) and cross-disciplinary interoperability. Illustration of the creation of data management planning templates using a tool available at your institution. Resources&nbsp;3 and 4 provide ideas on content for such a lecture (which can be supplemented with the instructor's domain-specific expertise).
+- **Think-Pair-Share Activity** (60&nbsp;mins): Interview scenarios between groups of learners, in which they practice asking about the needs of a project. Resource&nbsp;5 has more detail on how to structure such an activity, and the Instructor Notes have more guidance on the kinds of questions that could be included in the interview.
 
 
 ### Materials to Prepare

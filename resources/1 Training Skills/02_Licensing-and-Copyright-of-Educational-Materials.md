@@ -38,9 +38,9 @@ LO1: Summarise the importance of copyright, open licences, and the role they pla
 
 ### Learning Activities
 
-- **Presentation 1** (30 mins): Introduction to copyright, fair use, and public domain. Introduction to why licensing is used.
-- **Activity** (45 mins): The instructor provides 2&ndash;3 resources with licences. The learners work in pairs to identify the licence and any restrictions that may come with this licence. They discuss what it means if these resources are reused for training. An activity can be designed using Resource 7 as input.
-- **Presentation 2** (20 mins): Introduction to creating and licensing your own materials, re-using materials, combining existing materials, and attributing them. This module makes a case for reusing open materials and FAIRly publishing developed material (Resource 4).
+- **Presentation 1** (30&nbsp;mins): Introduction to copyright, fair use, and public domain. Introduction to why licensing is used.
+- **Activity** (45&nbsp;mins): The instructor provides 2&ndash;3 resources with licences. The learners work in pairs to identify the licence and any restrictions that may come with this licence. They discuss what it means if these resources are reused for training. An activity can be designed using Resource&nbsp;7 as input.
+- **Presentation 2** (20&nbsp;mins): Introduction to creating and licensing your own materials, re-using materials, combining existing materials, and attributing them. This module makes a case for reusing open materials and FAIRly publishing developed material (Resource&nbsp;4).
 
 
 ### Materials to Prepare
@@ -63,8 +63,8 @@ LO1: Summarise the importance of copyright, open licences, and the role they pla
 **Presentation 2:**
 
 - The presentation can make a case for reusing existing materials and why we should make our own developed materials open. When reusing any material, the content licence needs to be checked. The instructor can explain strategies on what can be done if using the material is not permissible (for instance, only cite the material or ask for permission for the material from the owner).
-- The instructor can also point to resources that provide more information on copyright (Resource 6).
-- The instructor should show how to combine resources with different licences. However, the instructor should clarify that this is a complex part of licensing and one should exercise care when doing so. If the instructor wants to go into further detail, the concept of remixing licences (Resources 4, 8) can be introduced.
+- The instructor can also point to resources that provide more information on copyright (Resource&nbsp;6).
+- The instructor should show how to combine resources with different licences. However, the instructor should clarify that this is a complex part of licensing and one should exercise care when doing so. If the instructor wants to go into further detail, the concept of remixing licences (Resources&nbsp;4, 8) can be introduced.
 
 
 ### Resources
@@ -89,8 +89,8 @@ LO2: Recognise the importance of proper attribution and citation.
 
 ### Learning Activities
 
-- **Presentation** (20 mins): Introduction to attribution.
-- **Activity** (10 mins): Give the learners images and texts from different sources. Ask them to attribute the examples using attribution best practices (for example, TASL, Resource 3).
+- **Presentation** (20&nbsp;mins): Introduction to attribution.
+- **Activity** (10&nbsp;mins): Give the learners images and texts from different sources. Ask them to attribute the examples using attribution best practices (for example, TASL, Resource&nbsp;3).
 
 
 ### Materials to Prepare
@@ -104,7 +104,7 @@ LO2: Recognise the importance of proper attribution and citation.
 **Presentation:**
 
 - Learners are introduced to the importance of attribution when reusing materials, as this is a legal requirement.
-- The instructor can present the TASL method (Title, Author, Source, Licence) as one approach to proper attribution and introduce other tools that support this process (Resource 3).
+- The instructor can present the TASL method (Title, Author, Source, Licence) as one approach to proper attribution and introduce other tools that support this process (Resource&nbsp;3).
 
 **Activity:**
 
@@ -128,8 +128,8 @@ LO3: Recognise the difference between using Open Educational Resources (OER) and
 
 ### Learning Activities
 
-- **Presentation** (30 mins): Introduction to Open Educational resources and their role in the reuse of materials for training purposes.
-- **Activity** (15 mins): The trainer presents a few starting places to find OER. The learners can search these databases for OER as related to their subject area or field. This can be done as an individual activity or in pairs.
+- **Presentation** (30&nbsp;mins): Introduction to Open Educational resources and their role in the reuse of materials for training purposes.
+- **Activity** (15&nbsp;mins): The trainer presents a few starting places to find OER. The learners can search these databases for OER as related to their subject area or field. This can be done as an individual activity or in pairs.
 
 
 ### Materials to Prepare

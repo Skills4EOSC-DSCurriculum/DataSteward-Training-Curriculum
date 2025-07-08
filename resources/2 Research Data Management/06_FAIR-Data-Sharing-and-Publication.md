@@ -41,8 +41,8 @@ LO1: Recognise the benefits, requirements, and limitations of sharing/publishing
 
 ### Learning Activities
 
-- **Lecture** (45 mins): Prepare a lecture on the benefits of data sharing/publication for researchers, the research community, funders, and the public. The lecture can also cover limitations (confidentiality, industrial exploitation, data protection) and what to do if the data cannot be made publicly available (for example, archive data and publish metadata with access rules). Requirements from institutional policies, funders and publishers (like data availability statements) should also be addressed.
-- **Group Discussion** (30 mins): Learners are confronted with a case in which a researcher resists sharing data and they need to provide arguments to convince the researcher. The activity can be done in small breakout groups, with results from each group discussed in plenum.
+- **Lecture** (45&nbsp;mins): Prepare a lecture on the benefits of data sharing/publication for researchers, the research community, funders, and the public. The lecture can also cover limitations (confidentiality, industrial exploitation, data protection) and what to do if the data cannot be made publicly available (for example, archive data and publish metadata with access rules). Requirements from institutional policies, funders and publishers (like data availability statements) should also be addressed.
+- **Group Discussion** (30&nbsp;mins): Learners are confronted with a case in which a researcher resists sharing data and they need to provide arguments to convince the researcher. The activity can be done in small breakout groups, with results from each group discussed in plenum.
 
 
 ### Materials to Prepare
@@ -55,12 +55,12 @@ LO1: Recognise the benefits, requirements, and limitations of sharing/publishing
 
 **Lecture:**
 
-- These are some of the key takeaways the instructor needs to cover in their presentation (see Resources 1&ndash;10 for information and inspiration):
+- These are some of the key takeaways the instructor needs to cover in their presentation (see Resources&nbsp;1&ndash;10 for information and inspiration):
     - Sharing data promotes collaboration, accelerates discoveries, and supports evidence-based decision-making across disciplines.
     - Open data allows for verification of results, reducing errors, bias, and misconduct in research and data-driven initiatives.
     - While open data drives progress, responsible sharing requires balancing openness with privacy, security, and proprietary concerns.
     - Sometimes there are recommendations on where to publish your data.
-    - Making sure that guidelines from different stakeholders are known and followed is important to not violate any laws or good scientific practice (see Resources 11&ndash;14 for examples).
+    - Making sure that guidelines from different stakeholders are known and followed is important to not violate any laws or good scientific practice (see Resources&nbsp;11&ndash;14 for examples).
     - Discuss briefly the reproducibility crisis. The instructor can highlight the 'publish or perish' culture that is one of the factors that has led to this crisis.
 - If the audience is known, search for relevant requirements from institution/funders/publishers for the audience (see generic example requirements under Resources).
 - For further details about repositories and data infrastructure, please also refer to the module *Data Preservation and Archiving* of this curriculum.
@@ -107,9 +107,9 @@ LO2: Explain the importance of making data FAIR.
 
 ### Learning Activities
 
-- **Debate** (45 mins): Should all data be FAIR? Divide learners into two groups to argue for and against.
-- **Role-play** (45 mins): Advocate for FAIR data to a funding agency or a skeptical researcher.
-- **Mind mapping** (50 mins): Create a mind map showing the connections between FAIR principles and other key concepts like metadata, data curation, and preservation (covered in other modules). Based on the mind mapping activity, identify areas where learners feel less confident about FAIR data and address them.
+- **Debate** (45&nbsp;mins): Should all data be FAIR? Divide learners into two groups to argue for and against.
+- **Role-play** (45&nbsp;mins): Advocate for FAIR data to a funding agency or a skeptical researcher.
+- **Mind mapping** (50&nbsp;mins): Create a mind map showing the connections between FAIR principles and other key concepts like metadata, data curation, and preservation (covered in other modules). Based on the mind mapping activity, identify areas where learners feel less confident about FAIR data and address them.
 
 
 ### Materials to Prepare
@@ -133,15 +133,15 @@ LO2: Explain the importance of making data FAIR.
 **Debate:**
 
 - The topic can be: Should all data be FAIR?
-- How to prepare for the debate and for tips can be found in Resource 1.
+- How to prepare for the debate and for tips can be found in Resource&nbsp;1.
 
 **Role Play:**
 
-- Advocate for FAIR data to a funding agency or a skeptical researcher. "The What I Need From You" activity is an engaging format to structure the role play (Resource 2).
+- Advocate for FAIR data to a funding agency or a skeptical researcher. "The What I Need From You" activity is an engaging format to structure the role play (Resource&nbsp;2).
 
 **Mind map:**
 
-- This activity serves as an assessment to connect different ideas. Mind mapping templates can be prepared (Resource 3) and used in the assessment activity. Prepare to discuss with the learners the areas they feel less confident about FAIR, the skills they may wish to improve and where they can learn more.
+- This activity serves as an assessment to connect different ideas. Mind mapping templates can be prepared (Resource&nbsp;3) and used in the assessment activity. Prepare to discuss with the learners the areas they feel less confident about FAIR, the skills they may wish to improve and where they can learn more.
 
 
 ### Resources
@@ -171,7 +171,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
 
 ### Learning Activities
 
-- **Discussion activity** (180 mins): The activity aims to familiarise learners with tools and practical strategies to make data FAIR and identify the competencies they need to develop further to support the implementation of FAIR research data. The learners are introduced to a toolbox via a handout, which will help them identify further what tools can facilitate the achievement of each FAIR principle.
+- **Discussion activity** (180&nbsp;mins): The activity aims to familiarise learners with tools and practical strategies to make data FAIR and identify the competencies they need to develop further to support the implementation of FAIR research data. The learners are introduced to a toolbox via a handout, which will help them identify further what tools can facilitate the achievement of each FAIR principle.
 
 
 ### Materials to Prepare
@@ -237,7 +237,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
 
 ??? info "(Optional) Detailed Plan of Discussion Activity"
 
-    **Part A: Hands-on Exercise: Making a Dataset FAIR (60 mins)**
+    **Part A: Hands-on Exercise: Making a Dataset FAIR (60&nbsp;mins)**
 
     Check there is internet access for participants and they have their computers with them to explore the tools later in the workshop.
 
@@ -265,7 +265,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
         - README file generator or templates.
         - Internet access for groups to access tools.
 
-    **Part B: Evaluation and Group Presentations (60 mins)**
+    **Part B: Evaluation and Group Presentations (60&nbsp;mins)**
 
     *Objective:*
 
@@ -285,7 +285,7 @@ LO3: Recommend tools, workflows, and technical strategies to make research data 
     - Presentation slides or flip charts for each group to summarise their process.
     - A rubric or checklist to evaluate the improvements made to the datasets according to the FAIR principles.
 
-    **Part C: Wrap-up and Reflection (30 mins)**
+    **Part C: Wrap-up and Reflection (30&nbsp;mins)**
 
     *Objective:*
 
@@ -356,8 +356,8 @@ LO4: Identify different forms of data publication and infrastructure to make out
 
 ### Learning Activities
 
-- **Lecture** (45 mins): Lecture on different forms of data publication, infrastructures, persistent identifiers. The lecture should include a live demonstration of publishing data to some demo infrastructure.
-- **Discussion activity** (45 mins): Learners should take a dataset from their research and:
+- **Lecture** (45&nbsp;mins): Lecture on different forms of data publication, infrastructures, persistent identifiers. The lecture should include a live demonstration of publishing data to some demo infrastructure.
+- **Discussion activity** (45&nbsp;mins): Learners should take a dataset from their research and:
     - Choose the best form and licence for publishing their dataset (take into consideration possible relevant laws or guidelines from institutions).
     - Find a data journal suitable for a given dataset.
     - Create a network of different related publications (datasets, research papers, software); the publications may not yet exist, but can also be planned for the future.
@@ -366,7 +366,7 @@ LO4: Identify different forms of data publication and infrastructure to make out
 ### Materials to Prepare
 
 - Presentation slides on data publication, infrastructures, persistent identifiers.
-- Prepare notes and practice live demonstration of publishing a dataset to a demo repository (for example, Zenodo Sandbox, see Resource 18).
+- Prepare notes and practice live demonstration of publishing a dataset to a demo repository (for example, Zenodo Sandbox, see Resource&nbsp;18).
 - If available, learners should bring their own datasets for the discussion activity. If they do not have any datasets, the instructor should prepare some sample datasets that can be used by the learners.
 
 
@@ -374,22 +374,22 @@ LO4: Identify different forms of data publication and infrastructure to make out
 
 **Lecture:**
 
-- Resources 1&ndash;10 already provide content (some under an open licences) that can be used for creating the slides.
+- Resources&nbsp;1&ndash;10 already provide content (some under an open licences) that can be used for creating the slides.
 - Content to include in lecture or presentation:
-    - Different forms of data publication (see Resources 1&ndash;7)
+    - Different forms of data publication (see Resources&nbsp;1&ndash;7)
         - Standalone Dataset
         - Attachment to research paper
         - Data paper/publication
-    - Data Citaitons (see Resource 8)
-    - Licences for dats (see Resource 9)
-    - Promote your data publication (see Resource 10)
+    - Data Citaitons (see Resource&nbsp;8)
+    - Licences for dats (see Resource&nbsp;9)
+    - Promote your data publication (see Resource&nbsp;10)
     - Infrastructure
-        - Data repositories/Data registries/Research data centres (see Resources 11&ndash;20)
+        - Data repositories/Data registries/Research data centres (see Resources&nbsp;11&ndash;20)
             - discipline-specific
             - institutional repositories
             - general repositories
             - national & international repositories
-        - How to determine trustworthy repositories (see Resources 21&ndash;26)
+        - How to determine trustworthy repositories (see Resources&nbsp;21&ndash;26)
             - Criteria:
                 - moderation of deposit
                 - guarantee about sustainability
@@ -398,8 +398,8 @@ LO4: Identify different forms of data publication and infrastructure to make out
                 - TRUST principles
             - Certification
                 - CoreTrustSeal
-        - Data journals (see Resources 27&ndash;30)
-    - Persistent identifiers (PID; see Resources 31&ndash;33)
+        - Data journals (see Resources&nbsp;27&ndash;30)
+    - Persistent identifiers (PID; see Resources&nbsp;31&ndash;33)
         - DOI
         - ROR
         - ORCID
@@ -413,7 +413,7 @@ LO4: Identify different forms of data publication and infrastructure to make out
     - Use dataset repositories when enabling direct access and reuse is a priority.
     - Publish a data paper when contextualisation and academic recognition are important.
     - Attach supplementary materials when data primarily supports a research article without independent reuse.
-- Assessing FAIRness (for instance with F-UJI or FAIReva, see Resources 34, 35) ensures compliance with best practices, making data more useful for future research and innovation.
+- Assessing FAIRness (for instance with F-UJI or FAIReva, see Resources&nbsp;34, 35) ensures compliance with best practices, making data more useful for future research and innovation.
 - A clear data licence defines how others can access, use, and build upon research. Selecting the right licence balances openness with necessary restrictions, fostering trust and ethical reuse while protecting intellectual contributions.
 - Data citations, just like research article citations, give proper credit to data creators and encourage responsible reuse.
 - Connecting datasets to code, research software, and publications provides the provenance of the research process and help the advancement of science. Breaking a single big journal publication containing everything into these smaller pieces values each step of the research process; the researcher does not only focus on publishing interpretations, but also puts effort into data collection and publishing. This supports reproducibility, verification, and reuse.
@@ -514,8 +514,8 @@ LO5: Apply CoreTrustSeal's requirements and CURATED checklist for datasets to ce
 
 ### Learning Activities
 
-- **Lecture** (20 mins): The instructor can introduce CoreTrustSeal as a criteria for repositories and its advantages. The learners can be introduced to cataloguing data, CURATE(D) checklist prior to data.
-- **Exercise** (45 mins): The goal of the exercise is to apply the CoreTrustSeal requirements as a checklist for individual datasets. Query the NASA dataset repository: Ask participants to analyse which curatorial decisions NASA has made to curate their studies on the planet Venus. The exercise can be done in pairs or small groups so that there is discussion during the activity.
+- **Lecture** (20&nbsp;mins): The instructor can introduce CoreTrustSeal as a criteria for repositories and its advantages. The learners can be introduced to cataloguing data, CURATE(D) checklist prior to data.
+- **Exercise** (45&nbsp;mins): The goal of the exercise is to apply the CoreTrustSeal requirements as a checklist for individual datasets. Query the NASA dataset repository: Ask participants to analyse which curatorial decisions NASA has made to curate their studies on the planet Venus. The exercise can be done in pairs or small groups so that there is discussion during the activity.
 
 
 ### Materials to Prepare
@@ -530,14 +530,14 @@ LO5: Apply CoreTrustSeal's requirements and CURATED checklist for datasets to ce
 
 - The instructor can link to materials in the ontologies and meta data modules for the lecture.
 - The learners can be introduced to CoreTrustSeal with the instructor going through the CoreTrustSeal's requirements, and how to prepare a dataset for a repository with the CoreTrustSeal? How do we administer a local repository to meet these requirements?
-- Discuss the advantages of obtaining the CoreTrustSeal for organisations and data stewards, such as increased credibility, improved data sharing and collaboration opportunities, and enhanced user trust. Highlight case studies or examples of organisations that have successfully achieved certification and the positive impacts it had on their data management practices (Resource 7).
+- Discuss the advantages of obtaining the CoreTrustSeal for organisations and data stewards, such as increased credibility, improved data sharing and collaboration opportunities, and enhanced user trust. Highlight case studies or examples of organisations that have successfully achieved certification and the positive impacts it had on their data management practices (Resource&nbsp;7).
 - Explain the steps involved in the assessment and certification process for obtaining the CoreTrustSeal. Discuss the self-assessment tools, documentation requirements, and the role of external audits. Provide insights into how data stewards can prepare their repositories for evaluation.
 - Go through the CURATE(D) checklist: Check, Understand, Request, Augment, Transform, Evaluate, Document.
 - This can either be done by way of a theoretical discussion of each step in which a data steward would review a dataset, or practically, by means of a sample dataset, that you go through together.
 
 **Exercise:**
 
-- For the learning activity, search for and review NASA's curatorial choices, and how they curate their data. How would you go through this dataset as a data steward in such a way that you are checking the requirements of CoreTrustSeal repositories and the CURATE(D) checklist when curating datasets. A way to get the conversation going could be to look at CoreTrustSeal's guidance with respect digital object management (p. 13 of the 2023&ndash;2025 requirements document). Does NASA note any changes to the data and metadata (versioning)? How does the repository handle providence? With respect to preservation, does NASA include documentation as to how these files will be preserved long term? Some items of the checklist are of course internal workflows at NASA that are not completely transparent, but try to pry out elements of CoreTrustSeal and CURATE(D) that can be accessed through what is openly available.
+- For the learning activity, search for and review NASA's curatorial choices, and how they curate their data. How would you go through this dataset as a data steward in such a way that you are checking the requirements of CoreTrustSeal repositories and the CURATE(D) checklist when curating datasets. A way to get the conversation going could be to look at CoreTrustSeal's guidance with respect digital object management (p.&nbsp;13 of the 2023&ndash;2025 requirements document). Does NASA note any changes to the data and metadata (versioning)? How does the repository handle providence? With respect to preservation, does NASA include documentation as to how these files will be preserved long term? Some items of the checklist are of course internal workflows at NASA that are not completely transparent, but try to pry out elements of CoreTrustSeal and CURATE(D) that can be accessed through what is openly available.
 
 
 ### Resources

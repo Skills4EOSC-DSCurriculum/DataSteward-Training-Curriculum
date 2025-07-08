@@ -36,16 +36,16 @@ LO1: Recognise the challenges in balancing the objectives of Open Science and th
 
 ### Learning Activities
 
-- **Lecture with slides** (20 mins): The lecture will focus on the different aspects to consider when considering the benefits of open science (Information security, dual use, archiving law, GDPR, and so on).
-- **Discussion activity** (40 mins): This activity will require some pre-reading on the part of the learners. The activity aims to let learners acquaint themselves with the resources in greater detail and have a discussion on the different aspects of real life obligations and restrictions, and strategies to overcome this.
+- **Lecture with slides** (20&nbsp;mins): The lecture will focus on the different aspects to consider when considering the benefits of open science (Information security, dual use, archiving law, GDPR, and so on).
+- **Discussion activity** (40&nbsp;mins): This activity will require some pre-reading on the part of the learners. The activity aims to let learners acquaint themselves with the resources in greater detail and have a discussion on the different aspects of real life obligations and restrictions, and strategies to overcome this.
     - The objective of this activity is to explore and understand the complexities institutions face in balancing the goals of Open Science with real-life data management obligations and restrictions.
     - Plan for group discussion:
         - Divide participants into small groups.
-        - Assign each group a specific challenge and share thematic resources for support. This could be: information security (Resources 1, 2), dual use of data (Resources 3, 4), commercial and contractual regulations (Resources 5), archiving laws (Resources 6), GDPR (Resources 7, 8).
+        - Assign each group a specific challenge and share thematic resources for support. This could be: information security (Resources&nbsp;1, 2), dual use of data (Resources&nbsp;3, 4), commercial and contractual regulations (Resources&nbsp;5), archiving laws (Resources&nbsp;6), GDPR (Resources&nbsp;7, 8).
         - Ask each group to discuss how this challenge impacts the balance between Open Science objectives and real-life obligations.
         - Encourage groups to consider solutions or strategies to address these challenges.
     - The activity will be followed by a presentation from each group.
-- **(Optional) Presentation by Expert** (40 mins): Within an institution there are various experts (Ethical, legal, contract managers, for example). One such expert can be requested to come and share challenges specific to an institution (if feasible to organise).
+- **(Optional) Presentation by Expert** (40&nbsp;mins): Within an institution there are various experts (Ethical, legal, contract managers, for example). One such expert can be requested to come and share challenges specific to an institution (if feasible to organise).
 
 
 ### Materials to Prepare
@@ -59,9 +59,9 @@ LO1: Recognise the challenges in balancing the objectives of Open Science and th
 
 **Lecture:**
 
-- Provide the learners an overview of the specific data-related obligations and restrictions including information security (see Resources 1, 2), dual use of data (Resources 3, 4), commercial and contractual regulations (Resource 5), archiving laws (Resource 6), GDPR (Resources 7, 8) and stakeholder interaction (Resource 9).
+- Provide the learners an overview of the specific data-related obligations and restrictions including information security (see Resources&nbsp;1, 2), dual use of data (Resources&nbsp;3, 4), commercial and contractual regulations (Resource&nbsp;5), archiving laws (Resource&nbsp;6), GDPR (Resources&nbsp;7, 8) and stakeholder interaction (Resource&nbsp;9).
 - The material provided helps to describe the information security principles and practices, recognise the considerations related to dual use potential, identify contractual regulations relating to access and use of data, recognising existing archiving laws and GDPR regulation. Always remember to check national laws in force.
-- The video (Resource 9) gives an overview of the questions that the researcher can ask the data steward, including the above issues, and the related stakeholders, who might be of help.
+- The video (Resource&nbsp;9) gives an overview of the questions that the researcher can ask the data steward, including the above issues, and the related stakeholders, who might be of help.
 - Further content can be found in the GDPR and stakeholder collaboration sections of this curriculum.
 
 **Discussion Activity:**

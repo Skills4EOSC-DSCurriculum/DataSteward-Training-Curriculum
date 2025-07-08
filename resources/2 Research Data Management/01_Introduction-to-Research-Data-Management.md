@@ -38,8 +38,8 @@ LO1: Define research data with examples.
 
 ### Learning Activities
 
-- **Presentation** (20 mins): Define research data and introduce the importance of data collection during the research process.
-- **Discussion** (40 mins): Give the participants a case study (suggestions for where to source one provided in instructor notes) or ask them to present an example of a research project. Discuss in pairs what is the research data collected during different stages of the research process.
+- **Presentation** (20&nbsp;mins): Define research data and introduce the importance of data collection during the research process.
+- **Discussion** (40&nbsp;mins): Give the participants a case study (suggestions for where to source one provided in instructor notes) or ask them to present an example of a research project. Discuss in pairs what is the research data collected during different stages of the research process.
 
 
 ### Materials to Prepare
@@ -52,12 +52,12 @@ LO1: Define research data with examples.
 
 **Presentation:**
 
-- Introduce the concept of research data and how research data is collected during the different phases of the research life cycle. To help with the slide presentation, definitions of research data and how research data is collected can be found in Resources 1 and 2.
+- Introduce the concept of research data and how research data is collected during the different phases of the research life cycle. To help with the slide presentation, definitions of research data and how research data is collected can be found in Resources&nbsp;1 and 2.
 
 **Discussion:**
 
-- The instructor can initiate the discussion exercise by asking learners to discuss a research case (from their experience) or by playing one or two of the videos that are available within Resource 1 where researchers talk about their research.
-- The instructor can also use one of the case studies provided under Scary Tales (Resource 3) to demonstrate how things can go badly with poor research data collection.
+- The instructor can initiate the discussion exercise by asking learners to discuss a research case (from their experience) or by playing one or two of the videos that are available within Resource&nbsp;1 where researchers talk about their research.
+- The instructor can also use one of the case studies provided under Scary Tales (Resource&nbsp;3) to demonstrate how things can go badly with poor research data collection.
 
 
 ### Resources
@@ -77,11 +77,11 @@ LO2: Apply FAIR principles and share data effectively.
 
 ### Learning Activities
 
-- **Presentation** (45 mins): Explain each of the FAIR principles, the benefits of applying the FAIR principles, and how to implement each principle. Explain how each principle is implemented during a research project through the use of persistent identifiers, licences for datasets, (machine-readable) metadata and tools such as the use of repositories. Highlight the difference between 'open' data and FAIR data.
-- **Case study analysis** (60 mins):
-    - Case 1: A research project where data was made FAIR (a good example).
-    - Case 2: A dataset where metadata is missing.
-    - Case 3: A dataset where the formats are no longer supported.
+- **Presentation** (45&nbsp;mins): Explain each of the FAIR principles, the benefits of applying the FAIR principles, and how to implement each principle. Explain how each principle is implemented during a research project through the use of persistent identifiers, licences for datasets, (machine-readable) metadata and tools such as the use of repositories. Highlight the difference between 'open' data and FAIR data.
+- **Case study analysis** (60&nbsp;mins):
+    - Case&nbsp;1: A research project where data was made FAIR (a good example).
+    - Case&nbsp;2: A dataset where metadata is missing.
+    - Case&nbsp;3: A dataset where the formats are no longer supported.
 
 
 ### Materials to Prepare
@@ -112,10 +112,10 @@ LO2: Apply FAIR principles and share data effectively.
     - 3) where the format is outdated.
 - For each dataset, ask learners to check if all the elements/practices to implement the FAIR principles discussed are present. Is there any principle that does not entirely apply to these datasets? What would be your recommendations to improve them.
 - Prepare questions for the learners to work with such as:
-    - Which metadata would be appropriate to add to Case 2?
+    - Which metadata would be appropriate to add to Case&nbsp;2?
     - How can we ensure that data is usable in years to come?
-    - Which formats could we recommend (Case 3)?
-- Many university libraries provide guides to where you can find teachable datasets, such as those linked in Resources 1&ndash;3. These datasets may require you to edit the README file or remove some metadata to make interesting cases. Alternatively, you can search for datasets from different data repositories which are more or less (or not) FAIR. Exposing the learners to how the datasets look in different repositories is an add-on learning experience.
+    - Which formats could we recommend (Case&nbsp;3)?
+- Many university libraries provide guides to where you can find teachable datasets, such as those linked in Resources&nbsp;1&ndash;3. These datasets may require you to edit the README file or remove some metadata to make interesting cases. Alternatively, you can search for datasets from different data repositories which are more or less (or not) FAIR. Exposing the learners to how the datasets look in different repositories is an add-on learning experience.
 
 
 ### Resources
@@ -146,8 +146,8 @@ LO3: Recognise the importance of FAIR data, "CARE-ful" data treatment, documenta
 
 ### Learning Activities
 
-- **Lecture** (45 mins): Lecture on FAIR and CARE principles in data curation (Resources 1, 2).
-- **Discussion** (45 mins): Debate about data sovereignty, CARE, and data curation.
+- **Lecture** (45&nbsp;mins): Lecture on FAIR and CARE principles in data curation (Resources&nbsp;1, 2).
+- **Discussion** (45&nbsp;mins): Debate about data sovereignty, CARE, and data curation.
 
 
 ### Materials to Prepare
@@ -164,8 +164,8 @@ LO3: Recognise the importance of FAIR data, "CARE-ful" data treatment, documenta
 **Lecture and Discussion:**
 
 - The instructor can reiterate some of the key points from the FAIR data module if required: FAIR is not an "is" or "is not" concept but rather a spectrum&mdash;flexibility is key, and should work on a case by case basis.
-- Introduce the CARE principles through a case study (Resource 3).
-- The instructor can facilitate discussion (Resources 1&ndash;3) around the following questions: how to ensure the CARE principles in data that is to be published or shared? How do these principles impact researchers in different countries? Different research domains? The idea here being researchers doing research on or in post-colonial countries will be impacted by these ethical considerations.
+- Introduce the CARE principles through a case study (Resource&nbsp;3).
+- The instructor can facilitate discussion (Resources&nbsp;1&ndash;3) around the following questions: how to ensure the CARE principles in data that is to be published or shared? How do these principles impact researchers in different countries? Different research domains? The idea here being researchers doing research on or in post-colonial countries will be impacted by these ethical considerations.
 
 
 ### Resources

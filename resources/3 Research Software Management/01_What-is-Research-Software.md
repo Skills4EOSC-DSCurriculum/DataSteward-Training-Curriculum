@@ -34,13 +34,13 @@ LO1: Describe the difference between research software and software used in rese
 
 ### Learning Activities
 
-- **Presentation/lecture** (15 mins): Slide presentation on what research software is, how it differs from data, and how it differs from software used during the research process (can be adapted from Netherlands eScience Center slides, Resource 1).
-- **Discussion Activity** (30 mins): The instructor can give the following instructions to the learners in small breakout groups (3&ndash;4 people): Think about the research life cycle. Where in the research life cycle does a piece of research software developed in a research project fit? Summarise each group's discussions to the entire cohort. This activity is modelled on the suggested activity in the Netherlands eScience Center course (Resource 2).
+- **Presentation/lecture** (15&nbsp;mins): Slide presentation on what research software is, how it differs from data, and how it differs from software used during the research process (can be adapted from Netherlands eScience Center slides, Resource&nbsp;1).
+- **Discussion Activity** (30&nbsp;mins): The instructor can give the following instructions to the learners in small breakout groups (3&ndash;4 people): Think about the research life cycle. Where in the research life cycle does a piece of research software developed in a research project fit? Summarise each group's discussions to the entire cohort. This activity is modelled on the suggested activity in the Netherlands eScience Center course (Resource&nbsp;2).
 
 
 ### Materials to Prepare
 
-- Slide presentation on research software (Resource 1).
+- Slide presentation on research software (Resource&nbsp;1).
 
 
 ### Instructor Notes
@@ -51,7 +51,7 @@ LO1: Describe the difference between research software and software used in rese
     - Research software is a distinct research output.
     - Research software is different from software used in research.
 - Reusable slides and suggested activities from the Netherlands eScience Center course are available to adapt or reuse for this module, as long as they are properly attributed and cited according to the CC BY 4.0 licence.
-- A key message in this section is to highlight research software as distinct from software in general. For this curriculum (following the definition of the FAIR 4 Research Software Working Group of RDA ReSA and FORCE11, Resource 2), we understand research software to be software developed during the course of a research project, either as a tool (of analysis), or as a distinct output in itself. Programming languages like R or Python in general therefore would not be within the remit of research software, but code developed in the course of a research project using one of these languages for the purposes of analysis would be.
+- A key message in this section is to highlight research software as distinct from software in general. For this curriculum (following the definition of the FAIR 4 Research Software Working Group of RDA ReSA and FORCE11, Resource&nbsp;2), we understand research software to be software developed during the course of a research project, either as a tool (of analysis), or as a distinct output in itself. Programming languages like R or Python in general therefore would not be within the remit of research software, but code developed in the course of a research project using one of these languages for the purposes of analysis would be.
 
 
 ### Resources

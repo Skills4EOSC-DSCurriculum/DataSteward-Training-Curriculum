@@ -35,8 +35,8 @@ LO1: Describe the concept of research integrity.
 
 ### Learning Activities
 
-- **Pre-session activity:** Encourage the learners read the additional materials by themselves in advance (Resources 1&ndash;3).
-- **Quiz on research integrity** (5 mins): Short quiz with answers for the instructor:
+- **Pre-session activity:** Encourage the learners read the additional materials by themselves in advance (Resources&nbsp;1&ndash;3).
+- **Quiz on research integrity** (5&nbsp;mins): Short quiz with answers for the instructor:
 
 ??? info "Quiz Questions"
 
@@ -51,8 +51,8 @@ LO1: Describe the concept of research integrity.
        C) Aligning research topics only with funding priorities.  
        Correct Answer: B
 
-- **Presentation/lecture** (15 mins): Slide presentation or lecture outlining the concept of research integrity, and relevant regulations. The instructor can also recap some concepts from the assigned pre-session reading.
-- **Group discussion** (40 mins): Small group discussions in breakout groups (3&ndash;5 participants per group).
+- **Presentation/lecture** (15&nbsp;mins): Slide presentation or lecture outlining the concept of research integrity, and relevant regulations. The instructor can also recap some concepts from the assigned pre-session reading.
+- **Group discussion** (40&nbsp;mins): Small group discussions in breakout groups (3&ndash;5 participants per group).
     1. Divide participants into small groups (3&ndash;5 people).
     2. Assign one scenario per group (or let groups choose one). Each scenario presents a research integrity challenge.
     3. Scenarios (examples):
@@ -67,7 +67,7 @@ LO1: Describe the concept of research integrity.
 
 ### Materials to Prepare
 
-- Presentation on research integrity (using available Resources 1&ndash;3).
+- Presentation on research integrity (using available Resources&nbsp;1&ndash;3).
 - Group activity: example scenarios or creating additional scenarios based on local context.
 
 
@@ -80,7 +80,7 @@ LO1: Describe the concept of research integrity.
 
 **Presentation:**
 
-- Provide the learners with an overview of the concept of research integrity including relevant guidelines and legislative frameworks. Outline why it is so important to identify relevant guidelines for a data steward and their role. Raise ethical concerns related to research integrity. Resource 4 could be used to prepare an overview.
+- Provide the learners with an overview of the concept of research integrity including relevant guidelines and legislative frameworks. Outline why it is so important to identify relevant guidelines for a data steward and their role. Raise ethical concerns related to research integrity. Resource&nbsp;4 could be used to prepare an overview.
 
 **Group activity:**
 
