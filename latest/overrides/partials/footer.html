@@ -98,18 +98,20 @@
 
       <div class="cite-example md-copyright">
         <div class="md-footer-meta__inner md-grid" style="justify-content: center; align-items: center;">
-          Cite as:
-          {% for author in config.citation.authors %}
-            {% set surname = author['family-names'] %}
-            {% set name = author['given-names'] %}
-            {% if loop.last %}
-              {{ surname }}, {{ name }}.
-            {% else %}
-              {{ surname }}, {{ name }},
-            {% endif %}
-          {% endfor %}
-          ({{ config.citation['date-released'] }}). {{ config.citation.title }} ({{ config.citation.version }}). 
-          <a href="https://doi.org/{{ config.citation.doi }}">&nbsp;https://doi.org/{{ config.citation.doi }}</a>
+          <p style="margin: 0px;">
+            Cite as:
+            {% for author in config.citation.authors %}
+              {% set surname = author['family-names'] %}
+              {% set name = author['given-names'] %}
+              {% if loop.last %}
+                {{ surname }}, {{ name }}.
+              {% else %}
+                {{ surname }}, {{ name }},
+              {% endif %}
+            {% endfor %}
+            ({{ config.citation['date-released'].split('-')[0] }}). {{ config.citation.title }} ({{ config.citation.version }}).
+            <a href="https://doi.org/{{ config.citation.doi }}">&nbsp;https://doi.org/{{ config.citation.doi }}</a>
+          </p>
         </div>
       </div>
     </div>
