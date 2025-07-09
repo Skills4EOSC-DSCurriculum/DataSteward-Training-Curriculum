@@ -38,7 +38,7 @@ abstract: "This curriculum provides instructors with a structured framework for 
 primaryLanguage: "EN"
 license: "http://creativecommons.org/licenses/by/4.0/"
 versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
-urlToResource: "https://doi.org/10.5072/zenodo.1234567"
+urlToResource: "https://doi.org/10.5281/zenodo.15848854"
 resourceURLType: "URL"
 targetGroup: "Trainers/Instructors who wish to teach aspiring or entry-level data stewards."
 learningResourceType: "Educator/Curriculum Guide"
@@ -181,7 +181,7 @@ Materials from this curriculum can also be reused or adapted via our open [GitHu
 
 ## DOI
 
-<https://doi.org/10.5072/zenodo.1234567>
+<https://doi.org/10.5281/zenodo.15848854>
 
 ## Accessibility Mission
 
