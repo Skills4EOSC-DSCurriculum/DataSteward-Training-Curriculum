@@ -59,13 +59,6 @@ hide:
 
 # Guide for Instructors: Skills4EOSC Data Steward Curriculum
 
-!!! warning "This page is currently under construction"
-
-    **The training curriculum is currently undergoing final revisions and quality checks.**
-    **All materials will be released shortly.**
-    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
-
 {!RELEASE_NOTES.md!}
 
 ## Description

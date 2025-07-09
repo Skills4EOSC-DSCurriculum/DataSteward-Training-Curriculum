@@ -11,13 +11,6 @@ tags:
 # Module 3: Efficient Communication (Written, Verbal and Visual)
 
 
-!!! warning "This page is currently under construction"
-
-    **The training curriculum is currently undergoing final revisions and quality checks.**
-    **All materials will be released shortly.**
-    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
-
 ## Learning Objectives
 
 - **Learning Objective 1 (LO1):** Demonstrate a clear and concise communication style.

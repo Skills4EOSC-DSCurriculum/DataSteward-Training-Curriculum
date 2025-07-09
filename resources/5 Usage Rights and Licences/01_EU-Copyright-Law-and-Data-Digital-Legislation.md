@@ -12,13 +12,6 @@ tags:
 # Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation
 
 
-!!! warning "This page is currently under construction"
-
-    **The training curriculum is currently undergoing final revisions and quality checks.**
-    **All materials will be released shortly.**
-    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
-
 ## Learning Objectives
 
 - **Learning Objective 1 (LO1):** Identify basic rules for access, ownership, (re)use and sharing of data, databases and other copyrightable materials under EU Copyright Law as well as Data and Digital Legislation.

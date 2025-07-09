@@ -12,13 +12,6 @@ tags:
 # Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework
 
 
-!!! warning "This page is currently under construction"
-
-    **The training curriculum is currently undergoing final revisions and quality checks.**
-    **All materials will be released shortly.**
-    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
-
 ## Learning Objectives
 
 - **Learning Objective 1 (LO1):** Identify potential opportunities and obligations related to the publication and reuse of data and other research outputs in adherence to FAIR principles.

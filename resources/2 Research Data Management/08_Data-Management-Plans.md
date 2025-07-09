@@ -13,12 +13,6 @@ tags:
 
 # Module 8: Data Management Plans
 
-!!! warning "This page is currently under construction"
-
-    **The training curriculum is currently undergoing final revisions and quality checks.**
-    **All materials will be released shortly.**
-    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
 
 ## Learning Objectives
 

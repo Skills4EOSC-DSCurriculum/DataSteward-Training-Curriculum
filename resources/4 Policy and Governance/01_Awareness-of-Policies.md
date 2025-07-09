@@ -12,13 +12,6 @@ tags:
 # Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science
 
 
-!!! warning "This page is currently under construction"
-
-    **The training curriculum is currently undergoing final revisions and quality checks.**
-    **All materials will be released shortly.**
-    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
-
 ## Learning Objectives
 
 - **Learning Objective 1 (LO1):** Apply the national Open Science/Research Data Management policy in the institution.

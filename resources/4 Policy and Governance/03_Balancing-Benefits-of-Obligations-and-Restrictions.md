@@ -12,13 +12,6 @@ tags:
 # Module 3: Balancing Benefits of Open Science and Real-Life Data Related Obligations and Restrictions
 
 
-!!! warning "This page is currently under construction"
-
-    **The training curriculum is currently undergoing final revisions and quality checks.**
-    **All materials will be released shortly.**
-    **Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
-
 ## Learning Objectives
 
 - **Learning Objective 1 (LO1):** Recognise the challenges in balancing the objectives of Open Science and the obligations and restrictions of real life and learn strategies to overcome them.

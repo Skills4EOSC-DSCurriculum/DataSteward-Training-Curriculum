@@ -4,12 +4,6 @@
 
 This repository contains the materials for the DataSteward Curriculum developed in the Skills4EOSC project.
 
-## Status
-
-**The training curriculum is currently undergoing final revisions and quality checks.**
-**All materials will be released shortly.**
-**Until the official release, please refrain from using, distributing, or implementing any part of these resources.**
-
 ## FAIR-by-Design Methodology
 
 This repository is based on the [template for the development of FAIR-by-Design learning materials](https://github.com/FAIR-by-Design-Methodology/templates) for the requirements of the Skills4EOSC project.
