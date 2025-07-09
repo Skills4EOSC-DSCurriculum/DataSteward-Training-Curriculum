@@ -1,0 +1,2428 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  
+  
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="['Nida van Leersum', 'Saba Sharma', 'Achim Winandi', 'Paula Maria Martinez Lavanchy', 'Fernando Aguilar Gómez', 'Tuulikki Alamettälä', 'Diane Antoine', 'Mathilde Bernier', 'Valentina Colcelli', 'Benjamin Derksen', 'Kasper Drążewski', 'Dominique Green', 'Christine Hadrossek', 'Joanna Janik', 'Karsten Kryger Hansen', 'Carolin Leister', 'Per Møldrup-Dalum', 'Marta Musidlowska', 'Ekaterina Peters', 'Giorgos Psathas', 'Päivi Rauste', 'Luca Schirru', 'Fabian Schubö', 'Lorna Wildgaard']">
+      
+      
+      
+      
+        <link rel="next" href="1%20Training%20Skills/">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
+    
+  
+    <meta name="title" content="Guide for Instructors: Skills4EOSC Data Steward Curriculum"/>
+  
+  
+    <meta name="tags" content="['Skills4EOSC', 'Data Stewardship', 'FAIR Data', 'Training Curriculum', 'Data Steward', 'Entry-level']"/>
+  
+
+  <!-- Schema.org JSON-LD for Course -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Course",
+    "name": "Data Steward Training Curriculum",
+    "description": "This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts.",
+    "url": "https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/",
+    "provider": {
+      "@type": "Organization",
+      "name": "Skills4EOSC",
+      "url": "https://skills4eosc.eu"
+    },
+    "keywords": ["Skills4EOSC", "Data Stewardship", "FAIR Data", "Training Curriculum", "Data Steward", "Entry-level"],
+    "learningResourceType": "Curriculum",
+    "educationalLevel": "beginner",
+    "datePublished": "2025-07-09"
+  }
+  </script>
+  <!-- end JSON-LD -->
+
+  
+    <meta name="abstract" content="This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts."/>
+  
+  
+    <meta name="primaryLanguage" content="EN"/>
+  
+  
+    <meta name="license" content="http://creativecommons.org/licenses/by/4.0/"/>
+  
+  
+    <meta name="versionDate" content="YYYY-MM-DD Version date for the most recently published or broadcast resource."/>
+  
+  
+    <meta name="abstract" content="https://doi.org/10.5281/zenodo.15848854"/>
+  
+  
+    <meta name="resourceURLType" content="URL"/>
+  
+  
+    <meta name="targetGroup" content="Trainers/Instructors who wish to teach aspiring or entry-level data stewards."/>
+  
+  
+    <meta name="learningResourceType" content="Educator/Curriculum Guide"/>
+  
+  
+    <meta name="learningOutcome" content="['Equip aspiring/entry-level data stewards with key skills and competencies to best support researchers with data and software management', 'Direct data stewards to stakeholders, policies and other relevant regulations within their institutes.', 'Provide examples from across Europe that helps Data Stewards implement within their context.']"/>
+  
+  
+    <meta name="accessCost" content="N"/>
+  
+  
+    <meta name="expertiseLevel" content="beginner"/>
+  
+
+  <link rel="linkset" type="application/json+linkset" href="https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum/1.0.0/linkset.json">
+
+    
+      
+        <title>Guide for Instructors: Skills4EOSC Data Steward Curriculum - Data Steward Training Curriculum</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        
+        <link rel="stylesheet" href="assets/external/fonts.googleapis.com/css.49ea35f2.css">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#guide-for-instructors-skills4eosc-data-steward-curriculum" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-color-scheme="default" data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Data Steward Training Curriculum" class="md-header__button md-logo" aria-label="Data Steward Training Curriculum" data-md-component="logo">
+      
+  <img src="attachments/logo-white.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Data Steward Training Curriculum
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Guide for Instructors: Skills4EOSC Data Steward Curriculum
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Data Steward Training Curriculum" class="md-nav__button md-logo" aria-label="Data Steward Training Curriculum" data-md-component="logo">
+      
+  <img src="attachments/logo-white.png" alt="logo">
+
+    </a>
+    Data Steward Training Curriculum
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Guide for Instructors: Skills4EOSC Data Steward Curriculum
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Guide for Instructors: Skills4EOSC Data Steward Curriculum
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#100-2025-07-09" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.0.0 (2025-07-09)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Description
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#target-audience-trainersinstructors-who-wish-to-teach-aspiring-or-entry-level-data-stewards" class="md-nav__link">
+    <span class="md-ellipsis">
+      Target Audience: Trainers/Instructors who wish to teach aspiring or entry-level data stewards
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#expertise-level-skill-level-beginner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Expertise Level / Skill Level: Beginner
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#primary-language-english" class="md-nav__link">
+    <span class="md-ellipsis">
+      Primary Language: English
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#access-cost-n" class="md-nav__link">
+    <span class="md-ellipsis">
+      Access Cost: N
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prerequisites
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objectives
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#keywords" class="md-nav__link">
+    <span class="md-ellipsis">
+      Keywords
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#overview-of-curriculum" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview of curriculum
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inside-the-curriculum" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inside the curriculum
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#co-creation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Co-creation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#authors-and-contributors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Authors and Contributors
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reuse" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reuse
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#doi" class="md-nav__link">
+    <span class="md-ellipsis">
+      DOI
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#accessibility-mission" class="md-nav__link">
+    <span class="md-ellipsis">
+      Accessibility Mission
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Accessibility Mission">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#acknowledgement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acknowledgement
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    1 Training Skills
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            1 Training Skills
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="1%20Training%20Skills/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="1%20Training%20Skills/01_Lesson-Development/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Lesson Development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="1%20Training%20Skills/02_Licensing-and-Copyright-of-Educational-Materials/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Licensing and Copyright of Educational Materials
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="1%20Training%20Skills/03_Facilitation-and-Engagement/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Facilitation and Engagement
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    2 Research Data Management
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            2 Research Data Management
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/01_Introduction-to-Research-Data-Management/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Introduction to Research Data Management
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/02_Research-Data-Documentation-and-Storage/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Research Data, Documentation, and Storage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/03_Data-Organisation-and-File-Formats/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Data Organisation and File Formats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/04_Metadata/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 4: Metadata
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/05_Ontologies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 5: Ontologies
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/06_FAIR-Data-Sharing-and-Publication/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 6: FAIR Data Sharing and Publication
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/07_Data-Preservation-and-Archiving/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 7: Data Preservation and Archiving
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="2%20Research%20Data%20Management/08_Data-Management-Plans/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 8: Data Management Plans
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    3 Research Software Management
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            3 Research Software Management
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="3%20Research%20Software%20Management/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="3%20Research%20Software%20Management/01_What-is-Research-Software/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: What is Research Software?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="3%20Research%20Software%20Management/02_FAIR-software/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: FAIR Software
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="3%20Research%20Software%20Management/03_Software-Management-Plans/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Software Management Plans
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="3%20Research%20Software%20Management/04_Software-Development-Practices/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 4: Software Development Practices
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="3%20Research%20Software%20Management/05_Software-Sharing-Practices/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 5: Software Sharing Practices
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    4 Policy and Governance
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            4 Policy and Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="4%20Policy%20and%20Governance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="4%20Policy%20and%20Governance/01_Awareness-of-Policies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="4%20Policy%20and%20Governance/02_Translating-Institutional-Policy-to-Strategy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Translating Institutional Data and Software Policy to Strategy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="4%20Policy%20and%20Governance/03_Balancing-Benefits-of-Obligations-and-Restrictions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Balancing Benefits of Open Science and Real-Life Data Related Obligations and Restrictions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    5 Usage Rights and Licences
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            5 Usage Rights and Licences
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="5%20Usage%20Rights%20and%20Licences/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="5%20Usage%20Rights%20and%20Licences/01_EU-Copyright-Law-and-Data-Digital-Legislation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="5%20Usage%20Rights%20and%20Licences/02_Publication-and-Reuse-of-Research-Outputs-within-a-Multi-Layered-Rules-Framework/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="5%20Usage%20Rights%20and%20Licences/03_Exploitation-and-Dissemination-Assessments-in-EU-Projects/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Exploitation and Dissemination Assessments in EU Projects
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    6 Ethics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            6 Ethics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="6%20Ethics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="6%20Ethics/01_Understanding-Research-Integrity/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Understanding Research Integrity
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="6%20Ethics/02_Ethical-Guidelines-and-Legislation-Relevant-to-Research/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Ethical Guidelines and Legislation Relevant to Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    7 Personal Data and GDPR
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            7 Personal Data and GDPR
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="7%20Personal%20Data%20and%20GDPR/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="7%20Personal%20Data%20and%20GDPR/01_Personal-Data-and-GDPR/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Personal Data and GDPR
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    8 Transversal or Soft Skills
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            8 Transversal or Soft Skills
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="8%20Transversal%20or%20Soft%20Skills/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="8%20Transversal%20or%20Soft%20Skills/01_Building-Soft-Skills-for-Impact/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 1: Advocacy&mdash;Building Soft Skills for Impact
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="8%20Transversal%20or%20Soft%20Skills/02_Mediation-and-Community-Liaison-and-Networking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 2: Mediation and Community&mdash;Liaison and Networking
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="8%20Transversal%20or%20Soft%20Skills/03_Efficient-Communication-Written-Verbal-and-Visual/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module 3: Efficient Communication (Written, Verbal and Visual)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#100-2025-07-09" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.0.0 (2025-07-09)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Description
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#target-audience-trainersinstructors-who-wish-to-teach-aspiring-or-entry-level-data-stewards" class="md-nav__link">
+    <span class="md-ellipsis">
+      Target Audience: Trainers/Instructors who wish to teach aspiring or entry-level data stewards
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#expertise-level-skill-level-beginner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Expertise Level / Skill Level: Beginner
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#primary-language-english" class="md-nav__link">
+    <span class="md-ellipsis">
+      Primary Language: English
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#access-cost-n" class="md-nav__link">
+    <span class="md-ellipsis">
+      Access Cost: N
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    <span class="md-ellipsis">
+      Prerequisites
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objectives
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#keywords" class="md-nav__link">
+    <span class="md-ellipsis">
+      Keywords
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#overview-of-curriculum" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview of curriculum
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inside-the-curriculum" class="md-nav__link">
+    <span class="md-ellipsis">
+      Inside the curriculum
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#co-creation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Co-creation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#authors-and-contributors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Authors and Contributors
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#licence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Licence
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reuse" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reuse
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#doi" class="md-nav__link">
+    <span class="md-ellipsis">
+      DOI
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#accessibility-mission" class="md-nav__link">
+    <span class="md-ellipsis">
+      Accessibility Mission
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Accessibility Mission">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#acknowledgement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acknowledgement
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+  <nav class="md-tags" >
+    
+      
+      
+      
+        <span class="md-tag">Data Steward</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">Data Stewardship</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">Entry-level</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">FAIR Data</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">Skills4EOSC</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">Training Curriculum</span>
+      
+    
+  </nav>
+
+
+
+<p><img alt="Header with Skills4EOSC funding information" src="attachments/header.png" /></p>
+<h1 id="guide-for-instructors-skills4eosc-data-steward-curriculum">Guide for Instructors: Skills4EOSC Data Steward Curriculum</h1>
+<details>
+<summary>Release Notes</summary>
+<h2 id="100-2025-07-09">1.0.0 (2025-07-09)</h2>
+<ul>
+<li>Initial release of the Skills4EOSC Data Steward Curriculum.</li>
+</ul>
+</details>
+<h2 id="description">Description</h2>
+<p>This curriculum for entry-level data stewards has been developed by a working group in the Skills4EOSC project (Task 4.1 of the project), and is intended to provide guidance to teach the foundational topics required for data stewardship.</p>
+<p>In this guide, we explain briefly what we intend with the different components of the curriculum, and how an instructor can use them.</p>
+<h2 id="target-audience-trainersinstructors-who-wish-to-teach-aspiring-or-entry-level-data-stewards">Target Audience: Trainers/Instructors who wish to teach aspiring or entry-level data stewards</h2>
+<h2 id="expertise-level-skill-level-beginner">Expertise Level / Skill Level: Beginner</h2>
+<h2 id="primary-language-english">Primary Language: English</h2>
+<h2 id="access-cost-n">Access Cost: N</h2>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>No specific prerequisites are required to use this material. The material is aimed at instructors, who we expect to be familiar with the topics being taught. For the learners (entry-level data stewards), to whom the material will be taught, prerequisites may vary by context (for instance, if taught in a discipline-specific context, more discipline-specific knowledge may be required).</p>
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Equip aspiring/entry-level data stewards with key skills and competencies to best support researchers with data and software management</li>
+<li>Guide data stewards to identify stakeholders, policies and other relevant regulations within their institutes.</li>
+<li>Provide examples from across Europe that helps Data Stewards in their role within their context.</li>
+</ul>
+<h2 id="keywords">Keywords</h2>
+<ul>
+<li>Skills4EOSC</li>
+<li>DataStewardship</li>
+<li>Curriculum</li>
+<li>Data Steward</li>
+</ul>
+<h2 id="overview-of-curriculum">Overview of curriculum</h2>
+<p>The curriculum comprises the following sections and modules.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Sections</strong></th>
+<th><strong>Modules</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Training Skills</strong></td>
+<td>Module 1: Lesson Development</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 2: Licensing and Copyright of Educational Materials</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 3: Facilitation and Engagement</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Research Data Management</strong></td>
+<td>Module 1: Introduction to Research Data Management</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 2: Research Data, Documentation, and Storage</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 3: Data Organisation and File Formats</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 4: Metadata</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 5: Ontologies</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 6: FAIR Data Sharing and Publication</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 7: Data Preservation and Archiving</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 8: Data Management Plans</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Research Software Management</strong></td>
+<td>Module 1: What is Research Software?</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 2: FAIR Software</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 3: Software Management Plans</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 4: Software Development Practices</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 5: Software Sharing Practices</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Policy and Governance</strong></td>
+<td>Module 1: Awareness of European/National/Institutional Policies on RDM, Open Science</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 2: Translating Institutional Data and Software Policy to Strategy</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 3: Balancing Benefits of Open Science and Real-Life Data Related Obligations and Restrictions</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Usage Rights and Licences</strong></td>
+<td>Module 1: Getting Familiar with EU Copyright Law and Data and Digital Legislation</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 2: Publication and Reuse of Research Outputs within a Multi-Layered Rules Framework</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 3: Exploitation and Dissemination Assessments in EU Projects</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Ethics</strong></td>
+<td>Module 1: Understanding Research Integrity</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 2: Ethical Guidelines and Legislation Relevant to Research</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Personal Data and GDPR</strong></td>
+<td>Module 1: Personal Data and GDPR</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Transversal or Soft Skills</strong></td>
+<td>Module 1: Advocacy&mdash;Building Soft Skills for Impact</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 2: Mediation and Community&mdash;Liaison and Networking</td>
+</tr>
+<tr>
+<td></td>
+<td>Module 3: Efficient Communication (Written, Verbal and Visual)</td>
+</tr>
+</tbody>
+</table>
+<p>The basis of the topics covered is the <a href="https://zenodo.org/records/14865959" rel="noopener" target="_blank">Minimum Viable Skillset for Data Stewards</a>, which outlines the key skills and competencies necessary to undertake a data stewardship role. In addition, we consulted with data stewards, data management and open science specialists to help us identify what topics were most relevant to the curriculum.</p>
+<p>Each module listed above is expanded further to outline its content and structure, and below we will elaborate on each of these components and what we intend with them. At the top of each module, you will find an overview of the learning objectives and the total duration needed to complete the activities suggested in the module (note that this does not include prep time by the instructor). We then expand the module's content according to each learning objective, so that an instructor can clearly identify what the different materials and activities are intended to help achieve.</p>
+<p>The curriculum is both comprehensive and modular, so that an instructor may choose as many sections (or if necessary, modules) as they like. The components below are intended to help guide the trainer in using the material, and provide tips and activities to shape teaching and learning.</p>
+<p>A note on Open and FAIR: Instead of creating standalone sections or modules on Open Science and the FAIR principles, these concepts instead run through our curriculum, providing a framework as we expand on different topics of data stewardship in relation to them.</p>
+<h2 id="inside-the-curriculum">Inside the curriculum</h2>
+<p>A guide to what the different terms mentioned in our curriculum mean:</p>
+<ul>
+<li><strong>Learning Objectives:</strong> We use the backwards design instructional model in our curriculum, that is, we begin with learning objectives, or what we intend for learners to learn from each module. We are guided by the action verbs in Bloom's Taxonomy, so as to make the learning objectives as clear and actionable as possible. A module may have one or more learning objectives, depending on its scope. Using the learning objective as our base, we then expand onto other aspects of the module that are intended to enable the achievement of this learning objective.</li>
+<li><strong>Module Duration:</strong> An approximation of how long given material and activities will take to cover, but it is completely at the instructor's discretion to use more or less time, based on the learners in question and the scope of the training session. If some materials/activities are better suited to preparatory or post-session work, that adaptation is possible.</li>
+<li><strong>Learning Activities:</strong> Activities that a trainer could use in the training to cover the given topic. A wide range of activities are suggested which include:<ul>
+<li>Slide presentations/Lectures: A presentation or lecture from the trainer introducing the topic to the learners is often one of the first activities mentioned in the modules. We do not provide the slides themselves as we want the material to be adaptable to context, but we equip the trainer with resources (where possible) to create the slides, and point to any existing lectures or material on the topics. In some cases we outline the key points that the instructor should cover.</li>
+<li>Discussion/Reflection activities: These are meant to assess how learners have engaged with the material, and also enable them to reflect critically on it.</li>
+<li>Quizzes: Short quizzes to assess how learners have absorbed the content (usually self assessed, but trainers can choose how to use them).</li>
+<li>Role-play or Think-activities: Taking on roles (such as a data steward role) to work through various practical scenarios.</li>
+<li>Pre-session activities: Pre-assigned reading or self-paced material/coursework to follow before a session, usually followed by a recap and other learning activities in the session itself.</li>
+</ul>
+</li>
+<li><strong>Materials to Prepare:</strong> Based on suggested activities for a particular module, we identify what materials a instructor may need to prepare for the session (slide presentations, questions to guide a discussion, case studies to illustrate specific points).</li>
+<li><strong>Resources:</strong> As our curriculum attempts to reuse as many existing resources as possible, we have tried to link to helpful materials that can help curate the sessions. These could be used to design slide presentations, assign reading to the learners, pick up case studies for discussions and role play scenarios, among others.</li>
+<li><strong>Instructor Notes:</strong> Here we include additional information that the instructor could use to teach the module. Sometimes these are key takeaways or messages to impart, or suggestions to guide a particular activity or presentation, or how to use a particular resource. We have tried to be as explicit and comprehensive as possible with how the material is intended for use, while still trying to leave room for flexibility, for an instructor to adapt to a specific group of learners or other context.</li>
+</ul>
+<h2 id="co-creation">Co-creation</h2>
+<p>The curriculum has been developed by a working group of people from the Netherlands, Germany, Belgium, France, Denmark, Finland, the UK, Spain and Greece, and reviewed by many helpful reviewers who helped shape the content (a full list of contributors and more detail about the curriculum development process is available in our Deliverable Report).</p>
+<p>As a result of being worked on by so many different people at different stages, you may observe some differences between the sections as you navigate the curriculum. While we have tried to streamline this as much as possible, it is important to keep in mind that the curriculum brings together a diversity of perspectives, and sections reflect these differences. Some sections like Research Data Management have more detail and material than others, and we have chosen to retain this and hope that instructors will find the additional information helpful in designing a training. In some modules, you may find more detail in the learning activities, and more general guidance in the instructor notes, and in some it may be the reverse. These reflect the different approaches of the sub-groups that worked on the material, and we encourage you to read all the material associated with the module to get a sense of the guidance and materials available. Despite the challenges of working with a large group, we are happy to have had many content experts help us build this curriculum, enabling us to provide as wide of a base as possible from which instructors can choose what they find most useful and interesting.</p>
+<h2 id="authors-and-contributors">Authors and Contributors</h2>
+<p>Nida van Leersum, Saba Sharma, Achim Winandi, Paula Maria Martinez Lavanchy, Fernando Aguilar Gómez, Tuulikki Alamettälä, Diane Antoine, Mathilde Bernier, Valentina Colcelli, Benjamin Derksen, Kasper Drążewski, Dominique Green, Christine Hadrossek, Joanna Janik, Karsten Kryger Hansen, Carolin Leister, Per Møldrup-Dalum, Marta Musidlowska, Ekaterina Peters, Giorgos Psathas, Päivi Rauste, Luca Schirru, Fabian Schubö, Lorna Wildgaard</p>
+<h2 id="licence">Licence</h2>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="assets/external/i.creativecommons.org/l/by/4.0/88x31.png"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+<h2 id="reuse">Reuse</h2>
+<p>The curriculum is free to reuse and adapt in any way by trainers, within the terms of the CC BY 4.0 licence applied to the materials. Any additional licensing restrictions on linked resources must be verified independently.</p>
+<p>Materials from this curriculum can also be reused or adapted via our open <a href="https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum/" rel="noopener" target="_blank">GitHub repository</a>.</p>
+<h2 id="doi">DOI</h2>
+<p><a href="https://doi.org/10.5281/zenodo.15848854" rel="noopener" target="_blank">https://doi.org/10.5281/zenodo.15848854</a></p>
+<h2 id="accessibility-mission">Accessibility Mission</h2>
+<p>Skills4EOSC is dedicated to ensuring that all produced learning materials are accessible to as many visitors as possible regardless of their ability or technology. We have an active commitment to increasing our learning materials accessibility. The main standards that we aim to comply with are WCAG v.2.1 Level AA criteria and PDF/UA (ISO 14289).</p>
+<h3 id="acknowledgement">Acknowledgement</h3>
+<p>These learning materials have been developed by following the <a href="https://doi.org/10.5281/zenodo.7875540" rel="noopener" target="_blank">FAIR-by-Design Methodology</a>.</p>
+<p><img alt="Skills4EOSC logo" src="attachments/skills4eosc.png" /></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  
+  
+  
+  
+  <nav class="md-footer__inner md-grid" aria-label="Footer" >
+    
+    
+    
+    <a href="1%20Training%20Skills/" class="md-footer__link md-footer__link--next"
+      aria-label="Next: Introduction" rel="next">
+      <div class="md-footer__title">
+        <span class="md-footer__direction">
+          Next
+        </span>
+        <div class="md-ellipsis">
+          Introduction
+        </div>
+      </div>
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+      </div>
+    </a>
+    
+  </nav>
+  
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+      <div style="display: flex; justify-content: space-between; align-items: center">
+      
+        <div class="md-copyright"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/a9f9eb58f58a4c39a32609c160ca52922c41fc2a/resources/attachments/cc-by.png"></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+            Attribution 4.0 International License</a>.
+        </div>
+      
+      </div>
+
+    </div>
+    <div class="logos-container" style="display: block; text-align: center;">
+      <img alt="Skills4EOSC Logo" style="max-height:30px" src="assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/logo-white.png">
+      <img alt="EOSC Logo" style="height: 30px;" src="assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/eosc-logo.png">
+      <img alt="Co-funded by the European Union Logo" style="height: 30px;" src="assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/eu-logo.png">
+      <img alt="UK Research and Innovation Logo" style="height: 30px;" src="assets/external/raw.githubusercontent.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/main/resources/attachments/ukri-logo.png">
+    </div>
+    <div class="md-container">
+
+      <div class="cite-example md-copyright">
+        <div class="md-footer-meta__inner md-grid" style="justify-content: center; align-items: center;">
+          <p style="margin: 0px;">
+            Cite as:
+            
+              
+              
+              
+                van Leersum, Nida,
+              
+            
+              
+              
+              
+                Sharma, Saba,
+              
+            
+              
+              
+              
+                Winandi, Achim,
+              
+            
+              
+              
+              
+                Martinez Lavanchy, Paula Maria,
+              
+            
+              
+              
+              
+                Aguilar Gómez, Fernando,
+              
+            
+              
+              
+              
+                Alamettälä, Tuulikki,
+              
+            
+              
+              
+              
+                Antoine, Diane,
+              
+            
+              
+              
+              
+                Bernier, Mathilde,
+              
+            
+              
+              
+              
+                Colcelli, Valentina,
+              
+            
+              
+              
+              
+                Derksen, Benjamin,
+              
+            
+              
+              
+              
+                Drążewski, Kasper,
+              
+            
+              
+              
+              
+                Green, Dominique,
+              
+            
+              
+              
+              
+                Hadrossek, Christine,
+              
+            
+              
+              
+              
+                Janik, Joanna,
+              
+            
+              
+              
+              
+                Hansen, Karsten Kryger,
+              
+            
+              
+              
+              
+                Leister, Carolin,
+              
+            
+              
+              
+              
+                Møldrup-Dalum, Per,
+              
+            
+              
+              
+              
+                Musidlowska, Marta,
+              
+            
+              
+              
+              
+                Peters, Ekaterina,
+              
+            
+              
+              
+              
+                Psathas, Giorgos,
+              
+            
+              
+              
+              
+                Rauste, Päivi,
+              
+            
+              
+              
+              
+                Schirru, Luca,
+              
+            
+              
+              
+              
+                Schubö, Fabian,
+              
+            
+              
+              
+              
+                Wildgaard, Lorna.
+              
+            
+            (2025). Data Steward Training Curriculum (1.0.0).
+            <a href="https://doi.org/10.5281/zenodo.15848854">https://doi.org/10.5281/zenodo.15848854</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": ".", "features": ["navigation.footer", "search.highlight", "search.suggest"], "search": "assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.56ea9cef.min.js"></script>
+      
+        <script src="assets/external/unpkg.com/mermaid@11/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
