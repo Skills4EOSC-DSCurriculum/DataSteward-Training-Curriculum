@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these learning materials, please cite it as below."
+message: If you use these learning materials, please cite it as below.
 authors:
   - family-names: van Leersum
     given-names: Nida
@@ -97,19 +97,30 @@ authors:
     given-names: Lorna
     orcid: https://orcid.org/0000-0002-3900-5058
     affiliation: Copenhagen University Library/Royal Danish Library
-title: "Data Steward Training Curriculum"
-abstract: "This curriculum provides instructors with a structured framework for training entry-level data stewards in essential skills required to support researchers. Developed collaboratively by experts from nine European countries, the curriculum comprises 28 modules across 8 core sections covering training skills, research data management, research software management, policy and governance, usage rights and licences, ethics, personal data and GDPR, and transversal or soft skills. The modular design enables flexible implementation while integrating Open Science and FAIR principles throughout, supporting the advancement of responsible research data management practices across diverse institutional contexts."
+title: Data Steward Training Curriculum
+abstract: >-
+  This curriculum provides instructors with a structured framework for training
+  entry-level data stewards in essential skills required to support researchers.
+  Developed collaboratively by experts from nine European countries, the
+  curriculum comprises 28 modules across 8 core sections covering training
+  skills, research data management, research software management, policy and
+  governance, usage rights and licences, ethics, personal data and GDPR, and
+  transversal or soft skills. The modular design enables flexible implementation
+  while integrating Open Science and FAIR principles throughout, supporting the
+  advancement of responsible research data management practices across diverse
+  institutional contexts.
 version: 1.0.0
-doi: 10.5070/zenodo.123
-date-released: "2025-07-09"
+doi: 10.5281/zenodo.15848854
+date-released: '2025-07-09'
 license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
-  - "Skills4EOSC"
-  - "Data Stewardship"
-  - "FAIR Data"
-  - "Training Curriculum"
-  - "Data Steward"
-  - "Entry-level"
-repository-code: "https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum"
-url: "https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/"
+  - Skills4EOSC
+  - Data Stewardship
+  - FAIR Data
+  - Training Curriculum
+  - Data Steward
+  - Entry-level
+repository-code: https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum
+url: >-
+  https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/
