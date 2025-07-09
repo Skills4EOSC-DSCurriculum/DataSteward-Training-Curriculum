@@ -163,7 +163,7 @@ citation:
     - Entry-level
   repository-code: "https://github.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum"
   url: "https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/"
-signposting_linkset: https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum/main/linkset.json # do not update manually
+signposting_linkset: https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/DataSteward-Training-Curriculum/1.0.0/linkset.json # do not update manually
 signposting_default_profile: '' # update with an URL towards the profile used for the Markdown pages (optional)
 # signposting_gitbook_url: https://gitbook.example.com # leave commented (prefixed with `#`) if using GitHub Pages with the default domain.
 signposting_exclusions:
